@@ -1,0 +1,29 @@
+{
+  "ingredients": [
+    { "title": "Onion" }, { "title": "Tomato" }, { "title": "Garlic" },
+    { "title": "Cucumber" }, { "title": "Yogurt" }, { "title": "Feta" },
+    { "title": "Parsley" }, { "title": "Basil" }, { "title": "Cilantro" },
+    { "title": "Mint" }, { "title": "Dill" }, { "title": "Spinach" },
+    { "title": "Kale" }, { "title": "Lettuce" }, { "title": "Arugula" },
+    { "title": "Olive oil" }, { "title": "Butter" }, { "title": "Milk" },
+    { "title": "Cream" }, { "title": "Yogurt" }, { "title": "Cheddar cheese" },
+    { "title": "Mozzarella" }, { "title": "Parmesan" }, { "title": "Egg" },
+    { "title": "Flour" }, { "title": "Sugar" }, { "title": "Salt" }, { "title": "Black pepper" },
+    { "title": "Paprika" }, { "title": "Cumin" }, { "title": "Coriander" },
+    { "title": "Chili powder" }, { "title": "Oregano" }, { "title": "Thyme" }, { "title": "Rosemary" },
+    { "title": "Ginger" }, { "title": "Soy sauce" }, { "title": "Fish sauce" },
+    { "title": "Vinegar" }, { "title": "Balsamic vinegar" }, { "title": "Red wine vinegar" },
+    { "title": "Lime" }, { "title": "Lemon" }, { "title": "Rice" },
+    { "title": "Black beans" }, { "title": "Chickpea" }, { "title": "Lentil" }, { "title": "Quinoa" },
+    { "title": "Potato" }, { "title": "Carrot" }, { "title": "Celery" }, { "title": "Bell pepper" },
+    { "title": "Mushroom" }, { "title": "Zucchini" }, { "title": "Eggplant" },
+    { "title": "Broccoli" }, { "title": "Cauliflower" }, { "title": "Cabbage" },
+    { "title": "Chicken" }, { "title": "Beef" }, { "title": "Pork" }, { "title": "Lamb" },
+    { "title": "Shrimp" }, { "title": "Salmon" }, { "title": "Tuna" }
+  ],
+  "techniques": [
+    { "q": "roasting" }, { "q": "searing" }, { "q": "simmering" },
+    { "q": "grilling" }, { "q": "braising" }, { "q": "poaching" },
+    { "q": "steaming" }, { "q": "stir-frying" }, { "q": "baking" }, { "q": "broiling" }
+  ]
+}

@@ -1,0 +1,14 @@
+{"Ingredient":{"id":"avocado","name":"Avocado","category":"other","default_cuisine":"mexican"}}
+{"Ingredient":{"id":"black-beans","name":"Black Beans","category":"legume","default_cuisine":"mexican"}}
+{"Ingredient":{"id":"chicken","name":"Chicken","category":"protein","default_cuisine":"mediterranean"}}
+{"Ingredient":{"id":"cilantro","name":"Cilantro","category":"veg","default_cuisine":"mexican"}}
+{"Ingredient":{"id":"corn","name":"Corn","category":"other","default_cuisine":"mexican"}}
+{"Ingredient":{"id":"cucumber","name":"Cucumber","category":"veg","default_cuisine":"mediterranean"}}
+{"Ingredient":{"id":"feta","name":"Feta","category":"other","default_cuisine":"mediterranean"}}
+{"Ingredient":{"id":"garlic","name":"Garlic","category":"veg","default_cuisine":"mexican"}}
+{"Ingredient":{"id":"lime","name":"Lime","category":"other","default_cuisine":"mexican"}}
+{"Ingredient":{"id":"onion","name":"Onion","category":"veg","default_cuisine":"mediterranean"}}
+{"Ingredient":{"id":"parsley","name":"Parsley","category":"veg","default_cuisine":"mediterranean"}}
+{"Ingredient":{"id":"rice","name":"Rice","category":"carb","default_cuisine":"mexican"}}
+{"Ingredient":{"id":"tomato","name":"Tomato","category":"veg","default_cuisine":"mexican"}}
+{"Ingredient":{"id":"yogurt","name":"Yogurt","category":"other","default_cuisine":"mediterranean"}}

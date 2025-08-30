@@ -1,0 +1,673 @@
+{
+  "version": "2.0.0",
+  "generated_at": "2025-08-30T16:43:50.156Z",
+  "ingredients": [
+    {
+      "id": "onion",
+      "name": "Onion",
+      "aliases": [],
+      "cuisines": [],
+      "_provenance": {
+        "source_url": "https://en.wikipedia.org/wiki/Onion",
+        "source_name": "Wikipedia",
+        "license": "CC BY-SA 4.0",
+        "summary": "The onion (Allium cepa L.Tooltip Carl Linnaeus, from Latin cepa), also known as the bulb onion or common onion, is a vegetable that is the most widely cultivated species of the genus Allium. The shallot is a botanical variety of the onion which was classified as a separate specie"
+      },
+      "_wikidata": {
+        "id": "Q131193282",
+        "source_url": "https://www.wikidata.org/wiki/Q131193282"
+      }
+    },
+    {
+      "id": "tomato",
+      "name": "Tomato",
+      "aliases": [
+        "TomatoUSB",
+        "Tomato Records",
+        "The Tomato Music Co. Ltd.",
+        "Tomato, AR",
+        "Tomato, Arkansas"
+      ],
+      "cuisines": [],
+      "_provenance": {
+        "source_url": "https://en.wikipedia.org/wiki/Tomato",
+        "source_name": "Wikipedia",
+        "license": "CC BY-SA 4.0",
+        "summary": "The tomato (US: , UK: ; Solanum lycopersicum) is a plant whose fruit is an edible berry that is eaten as a vegetable. The tomato is a member of the nightshade family that includes tobacco, potato, and chili peppers. It originated from western South America, and may have been dome"
+      },
+      "_wikidata": {
+        "id": "Q126999675",
+        "source_url": "https://www.wikidata.org/wiki/Q126999675"
+      }
+    },
+    {
+      "id": "garlic",
+      "name": "Garlic",
+      "aliases": [],
+      "cuisines": [],
+      "_provenance": {
+        "source_url": "https://en.wikipedia.org/wiki/Garlic",
+        "source_name": "Wikipedia",
+        "license": "CC BY-SA 4.0",
+        "summary": "Garlic (Allium sativum) is a species of bulbous flowering plants in the genus Allium. Its close relatives include the onion, shallot, leek, chives, Welsh onion, and Chinese onion. Garlic is native to central and south Asia, stretching from the Black Sea through the southern Cauca"
+      },
+      "_wikidata": {
+        "id": "Q122312119",
+        "source_url": "https://www.wikidata.org/wiki/Q122312119"
+      }
+    },
+    {
+      "id": "cucumber",
+      "name": "Cucumber",
+      "_provenance": {
+        "source_name": "Corpus",
+        "source_url": "./data/raw/sample.jsonl",
+        "license": "Derived",
+        "summary": "Discovered from recipe corpus (auto-added)."
+      }
+    },
+    {
+      "id": "yogurt",
+      "name": "Yogurt",
+      "_provenance": {
+        "source_name": "Corpus",
+        "source_url": "./data/raw/sample.jsonl",
+        "license": "Derived",
+        "summary": "Discovered from recipe corpus (auto-added)."
+      }
+    },
+    {
+      "id": "parsley",
+      "name": "Parsley",
+      "_provenance": {
+        "source_name": "Corpus",
+        "source_url": "./data/raw/sample.jsonl",
+        "license": "Derived",
+        "summary": "Discovered from recipe corpus (auto-added)."
+      }
+    },
+    {
+      "id": "feta",
+      "name": "Feta",
+      "_provenance": {
+        "source_name": "Corpus",
+        "source_url": "./data/raw/sample.jsonl",
+        "license": "Derived",
+        "summary": "Discovered from recipe corpus (auto-added)."
+      }
+    },
+    {
+      "id": "black-beans",
+      "name": "Black Beans",
+      "_provenance": {
+        "source_name": "Corpus",
+        "source_url": "./data/raw/sample.jsonl",
+        "license": "Derived",
+        "summary": "Discovered from recipe corpus (auto-added)."
+      }
+    },
+    {
+      "id": "rice",
+      "name": "Rice",
+      "_provenance": {
+        "source_name": "Corpus",
+        "source_url": "./data/raw/sample.jsonl",
+        "license": "Derived",
+        "summary": "Discovered from recipe corpus (auto-added)."
+      }
+    },
+    {
+      "id": "corn",
+      "name": "Corn",
+      "_provenance": {
+        "source_name": "Corpus",
+        "source_url": "./data/raw/sample.jsonl",
+        "license": "Derived",
+        "summary": "Discovered from recipe corpus (auto-added)."
+      }
+    },
+    {
+      "id": "avocado",
+      "name": "Avocado",
+      "_provenance": {
+        "source_name": "Corpus",
+        "source_url": "./data/raw/sample.jsonl",
+        "license": "Derived",
+        "summary": "Discovered from recipe corpus (auto-added)."
+      }
+    },
+    {
+      "id": "lime",
+      "name": "Lime",
+      "_provenance": {
+        "source_name": "Corpus",
+        "source_url": "./data/raw/sample.jsonl",
+        "license": "Derived",
+        "summary": "Discovered from recipe corpus (auto-added)."
+      }
+    },
+    {
+      "id": "chicken",
+      "name": "Chicken",
+      "_provenance": {
+        "source_name": "Corpus",
+        "source_url": "./data/raw/sample.jsonl",
+        "license": "Derived",
+        "summary": "Discovered from recipe corpus (auto-added)."
+      }
+    },
+    {
+      "id": "cilantro",
+      "name": "Cilantro",
+      "_provenance": {
+        "source_name": "Corpus",
+        "source_url": "./data/raw/sample.jsonl",
+        "license": "Derived",
+        "summary": "Discovered from recipe corpus (auto-added)."
+      }
+    }
+  ],
+  "techniques": [
+    {
+      "id": "roasting",
+      "name": "roasting"
+    },
+    {
+      "id": "simmering",
+      "name": "simmering"
+    }
+  ],
+  "pairings": [
+    {
+      "a_id": "cucumber",
+      "b_id": "yogurt",
+      "a": "cucumber",
+      "b": "yogurt",
+      "count": 1,
+      "pmi": 2,
+      "lift": 4,
+      "cuisines": "mediterranean"
+    },
+    {
+      "a_id": "parsley",
+      "b_id": "yogurt",
+      "a": "parsley",
+      "b": "yogurt",
+      "count": 1,
+      "pmi": 2,
+      "lift": 4,
+      "cuisines": "mediterranean"
+    },
+    {
+      "a_id": "feta",
+      "b_id": "yogurt",
+      "a": "feta",
+      "b": "yogurt",
+      "count": 1,
+      "pmi": 2,
+      "lift": 4,
+      "cuisines": "mediterranean"
+    },
+    {
+      "a_id": "cucumber",
+      "b_id": "parsley",
+      "a": "cucumber",
+      "b": "parsley",
+      "count": 1,
+      "pmi": 2,
+      "lift": 4,
+      "cuisines": "mediterranean"
+    },
+    {
+      "a_id": "cucumber",
+      "b_id": "feta",
+      "a": "cucumber",
+      "b": "feta",
+      "count": 1,
+      "pmi": 2,
+      "lift": 4,
+      "cuisines": "mediterranean"
+    },
+    {
+      "a_id": "feta",
+      "b_id": "parsley",
+      "a": "feta",
+      "b": "parsley",
+      "count": 1,
+      "pmi": 2,
+      "lift": 4,
+      "cuisines": "mediterranean"
+    },
+    {
+      "a_id": "black-beans",
+      "b_id": "rice",
+      "a": "black beans",
+      "b": "rice",
+      "count": 1,
+      "pmi": 2,
+      "lift": 4,
+      "cuisines": "mexican"
+    },
+    {
+      "a_id": "corn",
+      "b_id": "rice",
+      "a": "corn",
+      "b": "rice",
+      "count": 1,
+      "pmi": 2,
+      "lift": 4,
+      "cuisines": "mexican"
+    },
+    {
+      "a_id": "avocado",
+      "b_id": "rice",
+      "a": "avocado",
+      "b": "rice",
+      "count": 1,
+      "pmi": 2,
+      "lift": 4,
+      "cuisines": "mexican"
+    },
+    {
+      "a_id": "black-beans",
+      "b_id": "corn",
+      "a": "black beans",
+      "b": "corn",
+      "count": 1,
+      "pmi": 2,
+      "lift": 4,
+      "cuisines": "mexican"
+    },
+    {
+      "a_id": "avocado",
+      "b_id": "black-beans",
+      "a": "avocado",
+      "b": "black beans",
+      "count": 1,
+      "pmi": 2,
+      "lift": 4,
+      "cuisines": "mexican"
+    },
+    {
+      "a_id": "avocado",
+      "b_id": "corn",
+      "a": "avocado",
+      "b": "corn",
+      "count": 1,
+      "pmi": 2,
+      "lift": 4,
+      "cuisines": "mexican"
+    },
+    {
+      "a_id": "garlic",
+      "b_id": "lime",
+      "a": "garlic",
+      "b": "lime",
+      "count": 2,
+      "pmi": 1,
+      "lift": 2,
+      "cuisines": "mexican"
+    },
+    {
+      "a_id": "chicken",
+      "b_id": "yogurt",
+      "a": "chicken",
+      "b": "yogurt",
+      "count": 1,
+      "pmi": 1,
+      "lift": 2,
+      "cuisines": "mediterranean"
+    },
+    {
+      "a_id": "chicken",
+      "b_id": "cucumber",
+      "a": "chicken",
+      "b": "cucumber",
+      "count": 1,
+      "pmi": 1,
+      "lift": 2,
+      "cuisines": "mediterranean"
+    },
+    {
+      "a_id": "chicken",
+      "b_id": "parsley",
+      "a": "chicken",
+      "b": "parsley",
+      "count": 1,
+      "pmi": 1,
+      "lift": 2,
+      "cuisines": "mediterranean"
+    },
+    {
+      "a_id": "chicken",
+      "b_id": "feta",
+      "a": "chicken",
+      "b": "feta",
+      "count": 1,
+      "pmi": 1,
+      "lift": 2,
+      "cuisines": "mediterranean"
+    },
+    {
+      "a_id": "chicken",
+      "b_id": "rice",
+      "a": "chicken",
+      "b": "rice",
+      "count": 1,
+      "pmi": 1,
+      "lift": 2,
+      "cuisines": "mexican"
+    },
+    {
+      "a_id": "black-beans",
+      "b_id": "chicken",
+      "a": "black beans",
+      "b": "chicken",
+      "count": 1,
+      "pmi": 1,
+      "lift": 2,
+      "cuisines": "mexican"
+    },
+    {
+      "a_id": "chicken",
+      "b_id": "corn",
+      "a": "chicken",
+      "b": "corn",
+      "count": 1,
+      "pmi": 1,
+      "lift": 2,
+      "cuisines": "mexican"
+    },
+    {
+      "a_id": "avocado",
+      "b_id": "chicken",
+      "a": "avocado",
+      "b": "chicken",
+      "count": 1,
+      "pmi": 1,
+      "lift": 2,
+      "cuisines": "mexican"
+    },
+    {
+      "a_id": "garlic",
+      "b_id": "onion",
+      "a": "garlic",
+      "b": "onion",
+      "count": 2,
+      "pmi": 0.415,
+      "lift": 1.3333,
+      "cuisines": "mexican"
+    },
+    {
+      "a_id": "lime",
+      "b_id": "onion",
+      "a": "lime",
+      "b": "onion",
+      "count": 2,
+      "pmi": 0.415,
+      "lift": 1.3333,
+      "cuisines": "mexican"
+    },
+    {
+      "a_id": "cilantro",
+      "b_id": "garlic",
+      "a": "cilantro",
+      "b": "garlic",
+      "count": 2,
+      "pmi": 0.415,
+      "lift": 1.3333,
+      "cuisines": "mexican"
+    },
+    {
+      "a_id": "cilantro",
+      "b_id": "lime",
+      "a": "cilantro",
+      "b": "lime",
+      "count": 2,
+      "pmi": 0.415,
+      "lift": 1.3333,
+      "cuisines": "mexican"
+    },
+    {
+      "a_id": "onion",
+      "b_id": "yogurt",
+      "a": "onion",
+      "b": "yogurt",
+      "count": 1,
+      "pmi": 0.415,
+      "lift": 1.3333,
+      "cuisines": "mediterranean"
+    },
+    {
+      "a_id": "cucumber",
+      "b_id": "onion",
+      "a": "cucumber",
+      "b": "onion",
+      "count": 1,
+      "pmi": 0.415,
+      "lift": 1.3333,
+      "cuisines": "mediterranean"
+    },
+    {
+      "a_id": "onion",
+      "b_id": "parsley",
+      "a": "onion",
+      "b": "parsley",
+      "count": 1,
+      "pmi": 0.415,
+      "lift": 1.3333,
+      "cuisines": "mediterranean"
+    },
+    {
+      "a_id": "feta",
+      "b_id": "onion",
+      "a": "feta",
+      "b": "onion",
+      "count": 1,
+      "pmi": 0.415,
+      "lift": 1.3333,
+      "cuisines": "mediterranean"
+    },
+    {
+      "a_id": "cilantro",
+      "b_id": "rice",
+      "a": "cilantro",
+      "b": "rice",
+      "count": 1,
+      "pmi": 0.415,
+      "lift": 1.3333,
+      "cuisines": "mexican"
+    },
+    {
+      "a_id": "black-beans",
+      "b_id": "cilantro",
+      "a": "black beans",
+      "b": "cilantro",
+      "count": 1,
+      "pmi": 0.415,
+      "lift": 1.3333,
+      "cuisines": "mexican"
+    },
+    {
+      "a_id": "cilantro",
+      "b_id": "corn",
+      "a": "cilantro",
+      "b": "corn",
+      "count": 1,
+      "pmi": 0.415,
+      "lift": 1.3333,
+      "cuisines": "mexican"
+    },
+    {
+      "a_id": "avocado",
+      "b_id": "cilantro",
+      "a": "avocado",
+      "b": "cilantro",
+      "count": 1,
+      "pmi": 0.415,
+      "lift": 1.3333,
+      "cuisines": "mexican"
+    },
+    {
+      "a_id": "chicken",
+      "b_id": "tomato",
+      "a": "chicken",
+      "b": "tomato",
+      "count": 2,
+      "pmi": 0,
+      "lift": 1,
+      "cuisines": "mediterranean|mexican"
+    },
+    {
+      "a_id": "tomato",
+      "b_id": "yogurt",
+      "a": "tomato",
+      "b": "yogurt",
+      "count": 1,
+      "pmi": 0,
+      "lift": 1,
+      "cuisines": "mediterranean"
+    },
+    {
+      "a_id": "cucumber",
+      "b_id": "tomato",
+      "a": "cucumber",
+      "b": "tomato",
+      "count": 1,
+      "pmi": 0,
+      "lift": 1,
+      "cuisines": "mediterranean"
+    },
+    {
+      "a_id": "onion",
+      "b_id": "tomato",
+      "a": "onion",
+      "b": "tomato",
+      "count": 3,
+      "pmi": 0,
+      "lift": 1,
+      "cuisines": "mediterranean|mexican"
+    },
+    {
+      "a_id": "parsley",
+      "b_id": "tomato",
+      "a": "parsley",
+      "b": "tomato",
+      "count": 1,
+      "pmi": 0,
+      "lift": 1,
+      "cuisines": "mediterranean"
+    },
+    {
+      "a_id": "feta",
+      "b_id": "tomato",
+      "a": "feta",
+      "b": "tomato",
+      "count": 1,
+      "pmi": 0,
+      "lift": 1,
+      "cuisines": "mediterranean"
+    },
+    {
+      "a_id": "rice",
+      "b_id": "tomato",
+      "a": "rice",
+      "b": "tomato",
+      "count": 1,
+      "pmi": 0,
+      "lift": 1,
+      "cuisines": "mexican"
+    },
+    {
+      "a_id": "black-beans",
+      "b_id": "tomato",
+      "a": "black beans",
+      "b": "tomato",
+      "count": 1,
+      "pmi": 0,
+      "lift": 1,
+      "cuisines": "mexican"
+    },
+    {
+      "a_id": "corn",
+      "b_id": "tomato",
+      "a": "corn",
+      "b": "tomato",
+      "count": 1,
+      "pmi": 0,
+      "lift": 1,
+      "cuisines": "mexican"
+    },
+    {
+      "a_id": "cilantro",
+      "b_id": "tomato",
+      "a": "cilantro",
+      "b": "tomato",
+      "count": 3,
+      "pmi": 0,
+      "lift": 1,
+      "cuisines": "mexican"
+    },
+    {
+      "a_id": "avocado",
+      "b_id": "tomato",
+      "a": "avocado",
+      "b": "tomato",
+      "count": 1,
+      "pmi": 0,
+      "lift": 1,
+      "cuisines": "mexican"
+    },
+    {
+      "a_id": "garlic",
+      "b_id": "tomato",
+      "a": "garlic",
+      "b": "tomato",
+      "count": 2,
+      "pmi": 0,
+      "lift": 1,
+      "cuisines": "mexican"
+    },
+    {
+      "a_id": "lime",
+      "b_id": "tomato",
+      "a": "lime",
+      "b": "tomato",
+      "count": 2,
+      "pmi": 0,
+      "lift": 1,
+      "cuisines": "mexican"
+    },
+    {
+      "a_id": "cilantro",
+      "b_id": "onion",
+      "a": "cilantro",
+      "b": "onion",
+      "count": 2,
+      "pmi": -0.1699,
+      "lift": 0.8889,
+      "cuisines": "mexican"
+    },
+    {
+      "a_id": "chicken",
+      "b_id": "onion",
+      "a": "chicken",
+      "b": "onion",
+      "count": 1,
+      "pmi": -0.585,
+      "lift": 0.6667,
+      "cuisines": "mediterranean"
+    },
+    {
+      "a_id": "chicken",
+      "b_id": "cilantro",
+      "a": "chicken",
+      "b": "cilantro",
+      "count": 1,
+      "pmi": -0.585,
+      "lift": 0.6667,
+      "cuisines": "mexican"
+    }
+  ],
+  "edges": []
+}

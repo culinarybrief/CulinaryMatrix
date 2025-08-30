@@ -1,0 +1,14 @@
+{"Pairing":{"id":"avocado","name":"avocado","type":"other","nutrition_tags":[]}}
+{"Pairing":{"id":"black-beans","name":"black beans","type":"other","nutrition_tags":[]}}
+{"Pairing":{"id":"chicken","name":"chicken","type":"other","nutrition_tags":[]}}
+{"Pairing":{"id":"cilantro","name":"cilantro","type":"herb","nutrition_tags":["plant-forward"]}}
+{"Pairing":{"id":"corn","name":"corn","type":"other","nutrition_tags":[]}}
+{"Pairing":{"id":"cucumber","name":"cucumber","type":"other","nutrition_tags":[]}}
+{"Pairing":{"id":"feta","name":"feta","type":"cheese","nutrition_tags":[],"allergens":["dairy"]}}
+{"Pairing":{"id":"garlic","name":"garlic","type":"aromatic","nutrition_tags":[]}}
+{"Pairing":{"id":"lime","name":"lime","type":"acid","nutrition_tags":["plant-forward"]}}
+{"Pairing":{"id":"onion","name":"onion","type":"aromatic","nutrition_tags":[]}}
+{"Pairing":{"id":"parsley","name":"parsley","type":"herb","nutrition_tags":["plant-forward"]}}
+{"Pairing":{"id":"rice","name":"rice","type":"other","nutrition_tags":[]}}
+{"Pairing":{"id":"tomato","name":"tomato","type":"other","nutrition_tags":[]}}
+{"Pairing":{"id":"yogurt","name":"yogurt","type":"fat","nutrition_tags":[],"allergens":["dairy"]}}

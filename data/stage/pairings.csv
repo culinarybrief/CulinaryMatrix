@@ -1,0 +1,50 @@
+a_id,b_id,a,b,count,pmi,lift,cuisines
+cucumber,yogurt,cucumber,yogurt,1,2,4,mediterranean
+parsley,yogurt,parsley,yogurt,1,2,4,mediterranean
+feta,yogurt,feta,yogurt,1,2,4,mediterranean
+cucumber,parsley,cucumber,parsley,1,2,4,mediterranean
+cucumber,feta,cucumber,feta,1,2,4,mediterranean
+feta,parsley,feta,parsley,1,2,4,mediterranean
+black-beans,rice,black beans,rice,1,2,4,mexican
+corn,rice,corn,rice,1,2,4,mexican
+avocado,rice,avocado,rice,1,2,4,mexican
+black-beans,corn,black beans,corn,1,2,4,mexican
+avocado,black-beans,avocado,black beans,1,2,4,mexican
+avocado,corn,avocado,corn,1,2,4,mexican
+garlic,lime,garlic,lime,2,1,2,mexican
+chicken,yogurt,chicken,yogurt,1,1,2,mediterranean
+chicken,cucumber,chicken,cucumber,1,1,2,mediterranean
+chicken,parsley,chicken,parsley,1,1,2,mediterranean
+chicken,feta,chicken,feta,1,1,2,mediterranean
+chicken,rice,chicken,rice,1,1,2,mexican
+black-beans,chicken,black beans,chicken,1,1,2,mexican
+chicken,corn,chicken,corn,1,1,2,mexican
+avocado,chicken,avocado,chicken,1,1,2,mexican
+garlic,onion,garlic,onion,2,0.415,1.3333,mexican
+lime,onion,lime,onion,2,0.415,1.3333,mexican
+cilantro,garlic,cilantro,garlic,2,0.415,1.3333,mexican
+cilantro,lime,cilantro,lime,2,0.415,1.3333,mexican
+onion,yogurt,onion,yogurt,1,0.415,1.3333,mediterranean
+cucumber,onion,cucumber,onion,1,0.415,1.3333,mediterranean
+onion,parsley,onion,parsley,1,0.415,1.3333,mediterranean
+feta,onion,feta,onion,1,0.415,1.3333,mediterranean
+cilantro,rice,cilantro,rice,1,0.415,1.3333,mexican
+black-beans,cilantro,black beans,cilantro,1,0.415,1.3333,mexican
+cilantro,corn,cilantro,corn,1,0.415,1.3333,mexican
+avocado,cilantro,avocado,cilantro,1,0.415,1.3333,mexican
+chicken,tomato,chicken,tomato,2,0,1,mediterranean|mexican
+tomato,yogurt,tomato,yogurt,1,0,1,mediterranean
+cucumber,tomato,cucumber,tomato,1,0,1,mediterranean
+onion,tomato,onion,tomato,3,0,1,mediterranean|mexican
+parsley,tomato,parsley,tomato,1,0,1,mediterranean
+feta,tomato,feta,tomato,1,0,1,mediterranean
+rice,tomato,rice,tomato,1,0,1,mexican
+black-beans,tomato,black beans,tomato,1,0,1,mexican
+corn,tomato,corn,tomato,1,0,1,mexican
+cilantro,tomato,cilantro,tomato,3,0,1,mexican
+avocado,tomato,avocado,tomato,1,0,1,mexican
+garlic,tomato,garlic,tomato,2,0,1,mexican
+lime,tomato,lime,tomato,2,0,1,mexican
+cilantro,onion,cilantro,onion,2,-0.1699,0.8889,mexican
+chicken,onion,chicken,onion,1,-0.585,0.6667,mediterranean
+chicken,cilantro,chicken,cilantro,1,-0.585,0.6667,mexican
