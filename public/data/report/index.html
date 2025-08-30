@@ -1,0 +1,290 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>CulinaryBrief — One Batch Meal System</title>
+  <style>
+    :root{
+      --bg:#0f1115; --card:#151822; --muted:#8b90a3; --text:#f3f5fa; --accent:#93e29b;
+      --accent2:#6ad0ff; --ring:rgba(147,226,155,.35);
+    }
+    *{box-sizing:border-box}
+    body{margin:0;background:radial-gradient(1200px 600px at 80% -10%, #1a2030 0%, #0f1115 60%), var(--bg);color:var(--text);font:16px/1.6 system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji","Segoe UI Emoji";}
+    a{color:var(--accent2);text-decoration:none}
+    a:hover{text-decoration:underline}
+    .container{max-width:960px;margin:0 auto;padding:28px 20px 80px}
+    header{display:flex;gap:18px;align-items:center;margin-bottom:20px}
+    .logo{width:44px;height:44px;border-radius:12px;background:linear-gradient(135deg,#6ad0ff 0%,#93e29b 100%);box-shadow:0 0 0 6px #0f1115 inset}
+    .brand h1{margin:0;font-size:22px;letter-spacing:.3px}
+    .brand p{margin:2px 0 0;color:var(--muted);font-size:14px}
+    .hero{border:1px solid #262b3d;background:linear-gradient(180deg, rgba(106,208,255,0.07), rgba(147,226,155,0.05));padding:22px;border-radius:18px;box-shadow:0 0 0 1px rgba(255,255,255,0.02) inset}
+    .hero h2{margin:0 0 8px;font-size:26px}
+    .hero p{margin:4px 0 0;color:var(--muted)}
+    .cta{margin-top:14px;display:flex;gap:10px;flex-wrap:wrap}
+    .btn{padding:10px 14px;border-radius:12px;border:1px solid #2a3146;background:#1a2132;color:var(--text);text-decoration:none;display:inline-flex;gap:8px;align-items:center}
+    .btn.primary{background:linear-gradient(135deg,#6ad0ff 0%,#93e29b 100%);color:#081019;border:none}
+    .grid{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin:18px 0 8px}
+    .card{border:1px solid #262b3d;background:linear-gradient(180deg,#121624,#0f121c);border-radius:16px;padding:16px}
+    .card h3{margin:0 0 8px;font-size:18px}
+    .muted{color:var(--muted)}
+    .section{margin-top:28px}
+    details.recipe{border:1px solid #2a3146;border-radius:16px;background:linear-gradient(180deg,#121624,#0f121c);padding:14px;margin:12px 0;transition:border-color .2s}
+    details.recipe[open]{border-color:#3a4668;box-shadow:0 0 0 3px var(--ring)}
+    details summary{cursor:pointer;font-weight:600;font-size:17px;list-style:none}
+    details summary::-webkit-details-marker{display:none}
+    .two-col{display:grid;grid-template-columns: 1fr 2fr;gap:18px}
+    @media (max-width:800px){.grid{grid-template-columns:1fr}.two-col{grid-template-columns:1fr}}
+    ul,ol{margin:8px 0 0 18px}
+    .note{margin-top:8px;font-size:14px;color:var(--muted)}
+    .tools{display:grid;grid-template-columns:repeat(3,1fr);gap:12px}
+    .tool{border:1px dashed #2a3146;border-radius:14px;padding:12px}
+    footer{margin-top:40px;color:var(--muted);font-size:13px}
+    .hide{display:none}
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+  <img src="/assets/brandlogo.jpg?v=3" alt="CulinaryBrief Logo" style="height:44px;width:auto;border-radius:8px;box-shadow:0 0 4px rgba(0,0,0,.4);">
+      <div class="brand">
+        <h1>CulinaryBrief</h1>
+        <p>Creative Meal Inspirations — One Batch Meal Planning System</p>
+      </div>
+    </header>
+
+    <section class="hero">
+      <h2>Roast once. Eat well all week.</h2>
+      <p>Anchor your week around a single, flavorful batch protein (here: Slow Roasted Chicken Thighs) and spin it into quick, nourishing meals.</p>
+      <div class="cta">
+        <a id="pdfBtn" class="btn primary hide" href="/assets/ClinaryBrief-OneBatch.pdf" target="_blank" rel="noopener">⬇️ Download PDF</a>
+        <a class="btn" href="#why">Why it works</a>
+        <a class="btn" href="#recipes">Jump to recipes</a>
+      </div>
+    </section>
+
+    <section id="why" class="section">
+      <h2>Why Batch Protein Cooking Works</h2>
+      <div class="grid">
+        <div class="card">
+          <h3>Nutrition</h3>
+          <p class="muted">Whole foods, fresh herbs, clean seasonings. Build balanced, satisfying meals that fuel your body.</p>
+        </div>
+        <div class="card">
+          <h3>Time</h3>
+          <p class="muted">Cook once, assemble in minutes. With the protein ready, weeknight meals take under 10 minutes.</p>
+        </div>
+        <div class="card">
+          <h3>Budget</h3>
+          <p class="muted">Buy in bulk, reduce waste. One tray of chicken transforms into multiple dishes and fewer takeout orders.</p>
+        </div>
+      </div>
+      <p class="muted">Use these recipes as a framework. Make notes, tweak flavors, and share your best combinations with the community.</p>
+    </section>
+
+    <section id="recipes" class="section">
+      <h2>Recipes</h2>
+
+      <!-- Base Batch Protein -->
+      <details class="recipe" open>
+        <summary>Pan Roasted Chicken Thighs (Batch Protein)</summary>
+        <div class="two-col">
+          <div>
+            <h4>Ingredients</h4>
+            <ul>
+              <li>6 bone-in, skin-on chicken thighs</li>
+              <li>Kosher salt & black pepper</li>
+              <li>1 bunch cilantro, finely chopped</li>
+              <li>3 cloves garlic, finely chopped</li>
+              <li>2 shallots, finely chopped</li>
+              <li>Rosemary (2 sprigs), Thyme (3 sprigs), finely chopped</li>
+              <li>1 tsp smoked paprika, 1 tsp ground cumin</li>
+              <li>Pinch red pepper flakes</li>
+              <li>Juice & zest of 2 lemons</li>
+              <li>¼–½ cup olive oil (to form paste)</li>
+              <li>1 cup water (for pan)</li>
+            </ul>
+          </div>
+          <div>
+            <h4>Directions</h4>
+            <ol>
+              <li>Pat chicken dry; season both sides with salt and pepper.</li>
+              <li>Mix cilantro, garlic, shallots, rosemary, thyme, paprika, cumin, red pepper flakes, lemon juice & zest. Whisk in oil to a spreadable paste.</li>
+              <li>Coat chicken; arrange in baking dish. Add ~1" water to pan (don’t submerge chicken).</li>
+              <li>Roast at 400°F for ~35 min, until 165°F internal. Rotate pan if needed.</li>
+              <li>Cool, then shred meat; discard bones/skin. Reserve pan stock.</li>
+            </ol>
+            <p class="note"><strong>Chef’s notes:</strong> Marinate 1–2 hrs (or overnight) for deeper flavor. Shredded chicken is your base for the week. Use the stock to enrich grains, soups, and sauces.</p>
+          </div>
+        </div>
+      </details>
+
+      <!-- Southwest Burrito Bowl -->
+      <details class="recipe">
+        <summary>Southwest Burrito Bowl</summary>
+        <div class="two-col">
+          <div>
+            <h4>Ingredients</h4>
+            <ul>
+              <li>2 cups cooked brown rice or quinoa</li>
+              <li>2 cups shredded chicken</li>
+              <li>1 cup black beans, 1 cup corn</li>
+              <li>1 avocado, sliced</li>
+              <li><em>Pico:</em> 2 tomatoes, ½ red onion, 1 clove garlic, ½ jalapeño, cilantro, lime (juice & zest), ½ tsp cumin, ½ tsp paprika, olive oil, salt & pepper</li>
+            </ul>
+          </div>
+          <div>
+            <h4>Directions</h4>
+            <ol>
+              <li>Cook rice/quinoa (use chicken stock if available).</li>
+              <li>Make pico de gallo; season to taste.</li>
+              <li>Build bowl: rice → chicken → beans & corn → pico → avocado.</li>
+              <li>Finish with lime crema (Greek yogurt + lime juice).</li>
+            </ol>
+            <p class="note"><strong>Chef’s note:</strong> Store components separately; assemble fresh for best texture.</p>
+          </div>
+        </div>
+      </details>
+
+      <!-- Mediterranean Pita Wrap -->
+      <details class="recipe">
+        <summary>Mediterranean Pita Wrap (Dill & Honey Yogurt)</summary>
+        <div class="two-col">
+          <div>
+            <h4>Dill & Honey Yogurt</h4>
+            <ul>
+              <li>1 cup Greek yogurt</li>
+              <li>1 clove garlic, minced</li>
+              <li>Dill & parsley, chopped (handful each)</li>
+              <li>2 Tbsp honey</li>
+              <li>Zest & juice of 2 lemons</li>
+              <li>Salt & pepper</li>
+            </ul>
+          </div>
+          <div>
+            <h4>Wrap & Build</h4>
+            <ol>
+              <li>Whisk yogurt sauce (loosen with lemon juice).</li>
+              <li>Warm pitas; spread sauce.</li>
+              <li>Layer chicken, cucumber, tomato, red onion, parsley, feta. Fold & enjoy.</li>
+            </ol>
+            <p class="note"><strong>Chef’s note:</strong> Sauce doubles as dip or grain-bowl dressing. Assemble wraps fresh for best texture.</p>
+          </div>
+        </div>
+      </details>
+
+      <!-- Asian Chicken Stir-Fry -->
+      <details class="recipe">
+        <summary>Asian Chicken Stir-Fry (Garlic–Ginger Soy Glaze)</summary>
+        <div class="two-col">
+          <div>
+            <h4>Glaze</h4>
+            <ul>
+              <li>2 Tbsp sesame oil</li>
+              <li>4 cloves garlic, 2 Tbsp fresh ginger, minced</li>
+              <li>2 Tbsp brown sugar</li>
+              <li>1 bunch green onion, chopped</li>
+              <li>½ cup low-sodium soy sauce</li>
+              <li>1 Tbsp cornstarch + 2 Tbsp water (slurry)</li>
+            </ul>
+          </div>
+          <div>
+            <h4>Stir-Fry</h4>
+            <ol>
+              <li>Sauté garlic & ginger in oil; add sugar to coat. Stir in green onion & soy; simmer.</li>
+              <li>Whisk in slurry gradually to thicken.</li>
+              <li>Stir-fry mixed veggies (3 cups: broccoli, bell pepper, carrots, snap peas) 3–4 min; season lightly.</li>
+              <li>Add shredded chicken; heat through. Toss with glaze; garnish with sesame seeds & more green onion.</li>
+            </ol>
+            <p class="note"><strong>Chef’s note:</strong> Keep sauce thinner if storing—it thickens on reheat.</p>
+          </div>
+        </div>
+      </details>
+
+      <!-- Chicken & Vegetable Soup -->
+      <details class="recipe">
+        <summary>Chicken & Vegetable Soup</summary>
+        <div class="two-col">
+          <div>
+            <h4>Ingredients</h4>
+            <ul>
+              <li>2 Tbsp olive oil</li>
+              <li>2 celery stalks, 2 carrots, 1 onion (diced)</li>
+              <li>2 cloves garlic, chopped</li>
+              <li>2–3 cups shredded chicken</li>
+              <li>Bay leaf, thyme (2–3 sprigs), rosemary (1 sprig)</li>
+              <li>6 cups stock (reserved + water)</li>
+              <li>Optional: ½ cup rice or small pasta</li>
+              <li>Salt & pepper</li>
+            </ul>
+          </div>
+          <div>
+            <h4>Directions</h4>
+            <ol>
+              <li>Sweat celery, carrot, onion, garlic in oil until soft.</li>
+              <li>Add chicken & aromatics; pour in stock/water. Simmer gently.</li>
+              <li>Add rice/pastina if using; cook until tender. Season; remove aromatics.</li>
+            </ol>
+            <p class="note"><strong>Chef’s note:</strong> 4 days in fridge, 2 months frozen. Reheat gently for tender chicken.</p>
+          </div>
+        </div>
+      </details>
+
+      <!-- Cran-Walnut Chicken Salad -->
+      <details class="recipe">
+        <summary>Cran-Walnut Chicken Salad</summary>
+        <div class="two-col">
+          <div>
+            <h4>Ingredients</h4>
+            <ul>
+              <li>2 cups shredded chicken</li>
+              <li>½ red bell pepper, ½ small onion (diced)</li>
+              <li>2 celery stalks, diced</li>
+              <li>¼ cup dried cranberries, ¼ cup chopped walnuts</li>
+              <li>2 tsp Dijon, 1 tsp honey</li>
+              <li>Blackened seasoning, salt, pepper</li>
+              <li>2–3 Tbsp mayo (or Greek yogurt, or 50/50)</li>
+            </ul>
+          </div>
+          <div>
+            <h4>Directions</h4>
+            <ol>
+              <li>Mix all ingredients; season to taste.</li>
+              <li>Serve as sandwich filling, over greens, or as a protein snack.</li>
+            </ol>
+            <p class="note"><strong>Chef’s note:</strong> Balanced savory-sweet-crunchy; easy to meal prep.</p>
+          </div>
+        </div>
+      </details>
+    </section>
+
+    <section class="section">
+      <h2>My Kitchen — Tools I Trust</h2>
+      <div class="tools">
+        <div class="tool"><strong>Kiritsuke Chef Knife</strong><br><span class="muted">Versatile workhorse for chopping and slicing.</span></div>
+        <div class="tool"><strong>Winco Fish Spatula</strong><br><span class="muted">Flexible yet sturdy — great for delicate proteins.</span></div>
+        <div class="tool"><strong>Winco Tongs</strong><br><span class="muted">Everyday turning and tossing tool.</span></div>
+        <div class="tool"><strong>Garlic Slicer</strong><br><span class="muted">Paper-thin slices fast.</span></div>
+        <div class="tool"><strong>Silicone Spatula</strong><br><span class="muted">Heat-resistant; perfect for marinades and scraping.</span></div>
+        <div class="tool"><strong>Ninja Mini Food Processor</strong><br><span class="muted">Compact power for herbs and sauces.</span></div>
+        <div class="tool"><strong>Glass Meal Prep Containers</strong><br><span class="muted">Durable, freezer-safe, stackable.</span></div>
+      </div>
+      <p class="note">As an Amazon Associate, I earn from qualifying purchases. Thanks for supporting CulinaryBrief.</p>
+    </section>
+
+    <footer>
+      <p>© CulinaryBrief. Food is culture, craft, and community. Make notes, experiment, and share what you learn.</p>
+    </footer>
+  </div>
+
+  <script>
+    // Hide the PDF button if the file isn't present
+    (async () => {
+      try {
+        const res = await fetch('/assets/ClinaryBrief-OneBatch.pdf', { method:'HEAD' });
+        if (res.ok) document.getElementById('pdfBtn')?.classList.remove('hide');
+      } catch (e) {}
+    })();
+  </script>
+</body>
+</html>
