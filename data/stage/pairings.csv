@@ -1,50 +1,266 @@
 a_id,b_id,a,b,count,pmi,lift,cuisines
-cucumber,yogurt,cucumber,yogurt,1,2,4,mediterranean
-parsley,yogurt,parsley,yogurt,1,2,4,mediterranean
-feta,yogurt,feta,yogurt,1,2,4,mediterranean
-cucumber,parsley,cucumber,parsley,1,2,4,mediterranean
-cucumber,feta,cucumber,feta,1,2,4,mediterranean
-feta,parsley,feta,parsley,1,2,4,mediterranean
-black-beans,rice,black beans,rice,1,2,4,mexican
-corn,rice,corn,rice,1,2,4,mexican
-avocado,rice,avocado,rice,1,2,4,mexican
-black-beans,corn,black beans,corn,1,2,4,mexican
-avocado,black-beans,avocado,black beans,1,2,4,mexican
-avocado,corn,avocado,corn,1,2,4,mexican
-garlic,lime,garlic,lime,2,1,2,mexican
-chicken,yogurt,chicken,yogurt,1,1,2,mediterranean
-chicken,cucumber,chicken,cucumber,1,1,2,mediterranean
-chicken,parsley,chicken,parsley,1,1,2,mediterranean
-chicken,feta,chicken,feta,1,1,2,mediterranean
-chicken,rice,chicken,rice,1,1,2,mexican
-black-beans,chicken,black beans,chicken,1,1,2,mexican
-chicken,corn,chicken,corn,1,1,2,mexican
-avocado,chicken,avocado,chicken,1,1,2,mexican
-garlic,onion,garlic,onion,2,0.415,1.3333,mexican
-lime,onion,lime,onion,2,0.415,1.3333,mexican
-cilantro,garlic,cilantro,garlic,2,0.415,1.3333,mexican
-cilantro,lime,cilantro,lime,2,0.415,1.3333,mexican
-onion,yogurt,onion,yogurt,1,0.415,1.3333,mediterranean
-cucumber,onion,cucumber,onion,1,0.415,1.3333,mediterranean
-onion,parsley,onion,parsley,1,0.415,1.3333,mediterranean
-feta,onion,feta,onion,1,0.415,1.3333,mediterranean
-cilantro,rice,cilantro,rice,1,0.415,1.3333,mexican
-black-beans,cilantro,black beans,cilantro,1,0.415,1.3333,mexican
-cilantro,corn,cilantro,corn,1,0.415,1.3333,mexican
-avocado,cilantro,avocado,cilantro,1,0.415,1.3333,mexican
-chicken,tomato,chicken,tomato,2,0,1,mediterranean|mexican
-tomato,yogurt,tomato,yogurt,1,0,1,mediterranean
-cucumber,tomato,cucumber,tomato,1,0,1,mediterranean
-onion,tomato,onion,tomato,3,0,1,mediterranean|mexican
-parsley,tomato,parsley,tomato,1,0,1,mediterranean
-feta,tomato,feta,tomato,1,0,1,mediterranean
-rice,tomato,rice,tomato,1,0,1,mexican
-black-beans,tomato,black beans,tomato,1,0,1,mexican
-corn,tomato,corn,tomato,1,0,1,mexican
-cilantro,tomato,cilantro,tomato,3,0,1,mexican
-avocado,tomato,avocado,tomato,1,0,1,mexican
-garlic,tomato,garlic,tomato,2,0,1,mexican
-lime,tomato,lime,tomato,2,0,1,mexican
-cilantro,onion,cilantro,onion,2,-0.1699,0.8889,mexican
-chicken,onion,chicken,onion,1,-0.585,0.6667,mediterranean
-chicken,cilantro,chicken,cilantro,1,-0.585,0.6667,mexican
+avocado,cilantro,avocado,cilantro,1,3.3923,10.5,mexican
+avocado,lime,avocado,lime,1,2.0704,4.2,mexican
+avocado,onion,avocado,onion,1,1.585,3,mexican
+avocado,salt,avocado,salt,1,4.3923,21,mexican
+basil,garlic,basil,garlic,2,0,1,italian
+basil,mozzarella,basil,mozzarella,1,2.8074,7,italian
+basil,olive-oil,basil,olive oil,3,1.2224,2.3333,italian
+basil,parmesan,basil,parmesan,2,2.8074,7,italian
+basil,pasta,basil,pasta,1,2.8074,7,italian
+basil,pine-nut,basil,pine nut,1,2.8074,7,italian
+basil,spaghetti,basil,spaghetti,1,2.8074,7,italian
+basil,tomato,basil,tomato,2,1.2224,2.3333,italian
+beef,clove,beef,clove,1,4.3923,21,vietnamese
+beef,ginger,beef,ginger,1,1.585,3,vietnamese
+beef,onion,beef,onion,1,1.585,3,vietnamese
+beef,rice-noodle,beef,rice noodle,1,4.3923,21,vietnamese
+beef,star-anise,beef,star anise,1,4.3923,21,vietnamese
+beef-broth,beef-chuck,beef broth,beef chuck,1,4.3923,21,mexican
+beef-broth,chili-powder,beef broth,chili powder,1,3.3923,10.5,mexican
+beef-broth,cumin,beef broth,cumin,1,2.8074,7,mexican
+beef-broth,garlic,beef broth,garlic,1,0.4854,1.4,mexican
+beef-broth,lime,beef broth,lime,1,2.0704,4.2,mexican
+beef-broth,onion,beef broth,onion,1,1.585,3,mexican
+beef-broth,oregano,beef broth,oregano,1,3.3923,10.5,mexican
+beef-chuck,chili-powder,beef chuck,chili powder,1,3.3923,10.5,mexican
+beef-chuck,cumin,beef chuck,cumin,1,2.8074,7,mexican
+beef-chuck,garlic,beef chuck,garlic,1,0.4854,1.4,mexican
+beef-chuck,lime,beef chuck,lime,1,2.0704,4.2,mexican
+beef-chuck,onion,beef chuck,onion,1,1.585,3,mexican
+beef-chuck,oregano,beef chuck,oregano,1,3.3923,10.5,mexican
+bell-pepper,eggplant,bell pepper,eggplant,1,4.3923,21,mediterranean
+bell-pepper,garlic,bell pepper,garlic,1,0.4854,1.4,mediterranean
+bell-pepper,olive-oil,bell pepper,olive oil,1,1.2224,2.3333,mediterranean
+bell-pepper,thyme,bell pepper,thyme,1,4.3923,21,mediterranean
+bell-pepper,zucchini,bell pepper,zucchini,1,4.3923,21,mediterranean
+black-pepper,brown-sugar,black pepper,brown sugar,1,4.3923,21,asian
+black-pepper,crushed-red-pepper-flake,black pepper,crushed red pepper flake,1,4.3923,21,asian
+black-pepper,flank-steak,black pepper,flank steak,1,4.3923,21,asian
+black-pepper,garlic,black pepper,garlic,1,0.4854,1.4,asian
+black-pepper,ginger,black pepper,ginger,1,1.585,3,asian
+black-pepper,lime-juice,black pepper,lime juice,1,4.3923,21,asian
+black-pepper,low-sodium-soy-sauce,black pepper,low-sodium soy sauce,1,4.3923,21,asian
+black-pepper,sesame-oil,black pepper,sesame oil,1,3.3923,10.5,asian
+broccoli,garlic,broccoli,garlic,1,0.4854,1.4,chinese
+broccoli,ginger,broccoli,ginger,1,1.585,3,chinese
+broccoli,rice,broccoli,rice,1,2.3923,5.25,chinese
+broccoli,sesame-oil,broccoli,sesame oil,1,3.3923,10.5,chinese
+broccoli,soy-sauce,broccoli,soy sauce,1,2.8074,7,chinese
+brown-sugar,crushed-red-pepper-flake,brown sugar,crushed red pepper flake,1,4.3923,21,asian
+brown-sugar,flank-steak,brown sugar,flank steak,1,4.3923,21,asian
+brown-sugar,garlic,brown sugar,garlic,1,0.4854,1.4,asian
+brown-sugar,ginger,brown sugar,ginger,1,1.585,3,asian
+brown-sugar,lime-juice,brown sugar,lime juice,1,4.3923,21,asian
+brown-sugar,low-sodium-soy-sauce,brown sugar,low-sodium soy sauce,1,4.3923,21,asian
+brown-sugar,sesame-oil,brown sugar,sesame oil,1,3.3923,10.5,asian
+bulgur,cucumber,bulgur,cucumber,1,2.8074,7,middle-eastern
+bulgur,lemon,bulgur,lemon,1,2.3923,5.25,middle-eastern
+bulgur,olive-oil,bulgur,olive oil,1,1.2224,2.3333,middle-eastern
+bulgur,parsley,bulgur,parsley,1,4.3923,21,middle-eastern
+bulgur,tomato,bulgur,tomato,1,1.8074,3.5,middle-eastern
+carrot,celery,carrot,celery,1,4.3923,21,mediterranean
+carrot,garlic,carrot,garlic,1,0.4854,1.4,mediterranean
+carrot,lentil,carrot,lentil,1,4.3923,21,mediterranean
+carrot,olive-oil,carrot,olive oil,1,1.2224,2.3333,mediterranean
+carrot,onion,carrot,onion,1,1.585,3,mediterranean
+celery,garlic,celery,garlic,1,0.4854,1.4,mediterranean
+celery,lentil,celery,lentil,1,4.3923,21,mediterranean
+celery,olive-oil,celery,olive oil,1,1.2224,2.3333,mediterranean
+celery,onion,celery,onion,1,1.585,3,mediterranean
+chicken,coriander,chicken,coriander,1,2.3923,5.25,indian
+chicken,cumin,chicken,cumin,1,1.8074,3.5,indian
+chicken,garlic,chicken,garlic,2,0.4854,1.4,indian|japanese
+chicken,ginger,chicken,ginger,2,1.585,3,indian|japanese
+chicken,lime,chicken,lime,1,1.0704,2.1,indian
+chicken,rice,chicken,rice,1,1.3923,2.625,japanese
+chicken,soy-sauce,chicken,soy sauce,1,1.8074,3.5,japanese
+chicken,yogurt,chicken,yogurt,1,2.3923,5.25,indian
+chickpea,coriander,chickpea,coriander,1,2.3923,5.25,indian
+chickpea,cumin,chickpea,cumin,1,1.8074,3.5,indian
+chickpea,garlic,chickpea,garlic,2,0.4854,1.4,indian|middle-eastern
+chickpea,ginger,chickpea,ginger,1,0.585,1.5,indian
+chickpea,lemon,chickpea,lemon,1,1.3923,2.625,middle-eastern
+chickpea,olive-oil,chickpea,olive oil,1,0.2224,1.1667,middle-eastern
+chickpea,onion,chickpea,onion,1,0.585,1.5,indian
+chickpea,tahini,chickpea,tahini,1,3.3923,10.5,middle-eastern
+chickpea,tomato,chickpea,tomato,1,0.8074,1.75,indian
+chili-powder,cilantro,chili powder,cilantro,1,2.3923,5.25,mexican
+chili-powder,cumin,chili powder,cumin,1,1.8074,3.5,mexican
+chili-powder,garlic,chili powder,garlic,2,0.4854,1.4,mexican
+chili-powder,lime,chili powder,lime,2,2.0704,4.2,mexican
+chili-powder,onion,chili powder,onion,2,1.585,3,mexican
+chili-powder,oregano,chili powder,oregano,1,2.3923,5.25,mexican
+chili-powder,tomato,chili powder,tomato,1,0.8074,1.75,mexican
+cilantro,garlic,cilantro,garlic,1,0,1,mexican
+cilantro,lime,cilantro,lime,2,2.0704,4.2,mexican
+cilantro,onion,cilantro,onion,2,1.585,3,mexican
+cilantro,salt,cilantro,salt,1,3.3923,10.5,mexican
+cilantro,tomato,cilantro,tomato,1,0.8074,1.75,mexican
+clove,ginger,clove,ginger,1,1.585,3,vietnamese
+clove,onion,clove,onion,1,1.585,3,vietnamese
+clove,rice-noodle,clove,rice noodle,1,4.3923,21,vietnamese
+clove,star-anise,clove,star anise,1,4.3923,21,vietnamese
+coconut-milk,curry-powder,coconut milk,curry powder,1,4.3923,21,thai
+coconut-milk,garlic,coconut milk,garlic,1,0.4854,1.4,thai
+coconut-milk,ginger,coconut milk,ginger,1,1.585,3,thai
+coconut-milk,lime,coconut milk,lime,1,2.0704,4.2,thai
+coconut-milk,rice,coconut milk,rice,1,2.3923,5.25,thai
+coconut-milk,shrimp,coconut milk,shrimp,1,4.3923,21,thai
+coriander,cumin,coriander,cumin,2,2.8074,7,indian
+coriander,garlic,coriander,garlic,2,0.4854,1.4,indian
+coriander,ginger,coriander,ginger,2,1.585,3,indian
+coriander,lime,coriander,lime,1,1.0704,2.1,indian
+coriander,onion,coriander,onion,1,0.585,1.5,indian
+coriander,tomato,coriander,tomato,1,0.8074,1.75,indian
+coriander,yogurt,coriander,yogurt,1,2.3923,5.25,indian
+crushed-red-pepper-flake,flank-steak,crushed red pepper flake,flank steak,1,4.3923,21,asian
+crushed-red-pepper-flake,garlic,crushed red pepper flake,garlic,1,0.4854,1.4,asian
+crushed-red-pepper-flake,ginger,crushed red pepper flake,ginger,1,1.585,3,asian
+crushed-red-pepper-flake,lime-juice,crushed red pepper flake,lime juice,1,4.3923,21,asian
+crushed-red-pepper-flake,low-sodium-soy-sauce,crushed red pepper flake,low-sodium soy sauce,1,4.3923,21,asian
+crushed-red-pepper-flake,sesame-oil,crushed red pepper flake,sesame oil,1,3.3923,10.5,asian
+cucumber,dill,cucumber,dill,1,2.8074,7,mediterranean
+cucumber,feta,cucumber,feta,1,2.8074,7,mediterranean
+cucumber,garlic,cucumber,garlic,1,0,1,mediterranean
+cucumber,lemon,cucumber,lemon,3,2.3923,5.25,mediterranean|middle-eastern
+cucumber,olive-oil,cucumber,olive oil,3,1.2224,2.3333,mediterranean|middle-eastern
+cucumber,onion,cucumber,onion,1,0,1,mediterranean
+cucumber,oregano,cucumber,oregano,1,1.8074,3.5,mediterranean
+cucumber,parsley,cucumber,parsley,1,2.8074,7,middle-eastern
+cucumber,tomato,cucumber,tomato,2,1.2224,2.3333,mediterranean|middle-eastern
+cucumber,yogurt,cucumber,yogurt,1,1.8074,3.5,mediterranean
+cumin,garlic,cumin,garlic,3,0.4854,1.4,mexican|indian
+cumin,ginger,cumin,ginger,2,1,2,indian
+cumin,lime,cumin,lime,2,1.4854,2.8,mexican|indian
+cumin,onion,cumin,onion,2,1,2,mexican|indian
+cumin,oregano,cumin,oregano,1,1.8074,3.5,mexican
+cumin,tomato,cumin,tomato,1,0.2224,1.1667,indian
+cumin,yogurt,cumin,yogurt,1,1.8074,3.5,indian
+curry-powder,garlic,curry powder,garlic,1,0.4854,1.4,thai
+curry-powder,ginger,curry powder,ginger,1,1.585,3,thai
+curry-powder,lime,curry powder,lime,1,2.0704,4.2,thai
+curry-powder,rice,curry powder,rice,1,2.3923,5.25,thai
+curry-powder,shrimp,curry powder,shrimp,1,4.3923,21,thai
+dill,garlic,dill,garlic,1,0.4854,1.4,mediterranean
+dill,lemon,dill,lemon,1,2.3923,5.25,mediterranean
+dill,olive-oil,dill,olive oil,1,1.2224,2.3333,mediterranean
+dill,yogurt,dill,yogurt,1,3.3923,10.5,mediterranean
+egg,garlic,egg,garlic,1,0.4854,1.4,chinese
+egg,pea,egg,pea,1,4.3923,21,chinese
+egg,rice,egg,rice,1,2.3923,5.25,chinese
+egg,scallion,egg,scallion,1,3.3923,10.5,chinese
+egg,soy-sauce,egg,soy sauce,1,2.8074,7,chinese
+eggplant,garlic,eggplant,garlic,1,0.4854,1.4,mediterranean
+eggplant,olive-oil,eggplant,olive oil,1,1.2224,2.3333,mediterranean
+eggplant,thyme,eggplant,thyme,1,4.3923,21,mediterranean
+eggplant,zucchini,eggplant,zucchini,1,4.3923,21,mediterranean
+feta,lemon,feta,lemon,1,2.3923,5.25,mediterranean
+feta,olive-oil,feta,olive oil,1,1.2224,2.3333,mediterranean
+feta,onion,feta,onion,1,1.585,3,mediterranean
+feta,oregano,feta,oregano,1,3.3923,10.5,mediterranean
+feta,tomato,feta,tomato,1,1.8074,3.5,mediterranean
+flank-steak,garlic,flank steak,garlic,1,0.4854,1.4,asian
+flank-steak,ginger,flank steak,ginger,1,1.585,3,asian
+flank-steak,lime-juice,flank steak,lime juice,1,4.3923,21,asian
+flank-steak,low-sodium-soy-sauce,flank steak,low-sodium soy sauce,1,4.3923,21,asian
+flank-steak,sesame-oil,flank steak,sesame oil,1,3.3923,10.5,asian
+garlic,ginger,garlic,ginger,6,0.263,1.2,indian|chinese|japanese|thai|asian
+garlic,lemon,garlic,lemon,2,0,1,mediterranean|middle-eastern
+garlic,lentil,garlic,lentil,1,0.4854,1.4,mediterranean
+garlic,lime,garlic,lime,4,0.1635,1.12,mexican|indian|thai
+garlic,lime-juice,garlic,lime juice,1,0.4854,1.4,asian
+garlic,low-sodium-soy-sauce,garlic,low-sodium soy sauce,1,0.4854,1.4,asian
+garlic,olive-oil,garlic,olive oil,6,0,1,italian|mediterranean|middle-eastern
+garlic,onion,garlic,onion,4,0,1,mexican|indian|mediterranean
+garlic,oregano,garlic,oregano,1,0,1,mexican
+garlic,parmesan,garlic,parmesan,2,0.4854,1.4,italian
+garlic,pasta,garlic,pasta,1,0.4854,1.4,italian
+garlic,pea,garlic,pea,1,0.4854,1.4,chinese
+garlic,pine-nut,garlic,pine nut,1,0.4854,1.4,italian
+garlic,rice,garlic,rice,4,0.4854,1.4,chinese|japanese|thai
+garlic,scallion,garlic,scallion,1,0,1,chinese
+garlic,sesame-oil,garlic,sesame oil,2,0.4854,1.4,chinese|asian
+garlic,shrimp,garlic,shrimp,1,0.4854,1.4,thai
+garlic,soy-sauce,garlic,soy sauce,3,0.4854,1.4,chinese|japanese
+garlic,spaghetti,garlic,spaghetti,1,0.4854,1.4,italian
+garlic,tahini,garlic,tahini,1,0.4854,1.4,middle-eastern
+garlic,thyme,garlic,thyme,1,0.4854,1.4,mediterranean
+garlic,tomato,garlic,tomato,3,0,1,italian|indian|mexican
+garlic,yogurt,garlic,yogurt,2,0.4854,1.4,indian|mediterranean
+garlic,zucchini,garlic,zucchini,1,0.4854,1.4,mediterranean
+ginger,lime,ginger,lime,2,0.263,1.2,indian|thai
+ginger,lime-juice,ginger,lime juice,1,1.585,3,asian
+ginger,low-sodium-soy-sauce,ginger,low-sodium soy sauce,1,1.585,3,asian
+ginger,onion,ginger,onion,2,0,1,indian|vietnamese
+ginger,rice,ginger,rice,3,1.1699,2.25,chinese|japanese|thai
+ginger,rice-noodle,ginger,rice noodle,1,1.585,3,vietnamese
+ginger,sesame-oil,ginger,sesame oil,2,1.585,3,chinese|asian
+ginger,shrimp,ginger,shrimp,1,1.585,3,thai
+ginger,soy-sauce,ginger,soy sauce,2,1,2,chinese|japanese
+ginger,star-anise,ginger,star anise,1,1.585,3,vietnamese
+ginger,tomato,ginger,tomato,1,0,1,indian
+ginger,yogurt,ginger,yogurt,1,0.585,1.5,indian
+lemon,olive-oil,lemon,olive oil,4,1.2224,2.3333,mediterranean|middle-eastern
+lemon,onion,lemon,onion,1,0,1,mediterranean
+lemon,oregano,lemon,oregano,1,1.3923,2.625,mediterranean
+lemon,parsley,lemon,parsley,1,2.3923,5.25,middle-eastern
+lemon,tahini,lemon,tahini,1,2.3923,5.25,middle-eastern
+lemon,tomato,lemon,tomato,2,0.8074,1.75,mediterranean|middle-eastern
+lemon,yogurt,lemon,yogurt,1,1.3923,2.625,mediterranean
+lentil,olive-oil,lentil,olive oil,1,1.2224,2.3333,mediterranean
+lentil,onion,lentil,onion,1,1.585,3,mediterranean
+lime,onion,lime,onion,3,0.848,1.8,mexican
+lime,oregano,lime,oregano,1,1.0704,2.1,mexican
+lime,rice,lime,rice,1,0.0704,1.05,thai
+lime,salt,lime,salt,1,2.0704,4.2,mexican
+lime,shrimp,lime,shrimp,1,2.0704,4.2,thai
+lime,tomato,lime,tomato,1,0,1,mexican
+lime,yogurt,lime,yogurt,1,1.0704,2.1,indian
+lime-juice,low-sodium-soy-sauce,lime juice,low-sodium soy sauce,1,4.3923,21,asian
+lime-juice,sesame-oil,lime juice,sesame oil,1,3.3923,10.5,asian
+low-sodium-soy-sauce,sesame-oil,low-sodium soy sauce,sesame oil,1,3.3923,10.5,asian
+miso,scallion,miso,scallion,1,3.3923,10.5,japanese
+miso,seaweed,miso,seaweed,1,4.3923,21,japanese
+miso,tofu,miso,tofu,1,4.3923,21,japanese
+mozzarella,olive-oil,mozzarella,olive oil,1,1.2224,2.3333,italian
+mozzarella,tomato,mozzarella,tomato,1,1.8074,3.5,italian
+olive-oil,onion,olive oil,onion,2,0,1,mediterranean
+olive-oil,oregano,olive oil,oregano,1,0.2224,1.1667,mediterranean
+olive-oil,parmesan,olive oil,parmesan,2,1.2224,2.3333,italian
+olive-oil,parsley,olive oil,parsley,1,1.2224,2.3333,middle-eastern
+olive-oil,pasta,olive oil,pasta,1,1.2224,2.3333,italian
+olive-oil,pine-nut,olive oil,pine nut,1,1.2224,2.3333,italian
+olive-oil,spaghetti,olive oil,spaghetti,1,1.2224,2.3333,italian
+olive-oil,tahini,olive oil,tahini,1,1.2224,2.3333,middle-eastern
+olive-oil,thyme,olive oil,thyme,1,1.2224,2.3333,mediterranean
+olive-oil,tomato,olive oil,tomato,4,0.6374,1.5556,italian|mediterranean|middle-eastern
+olive-oil,yogurt,olive oil,yogurt,1,0.2224,1.1667,mediterranean
+olive-oil,zucchini,olive oil,zucchini,1,1.2224,2.3333,mediterranean
+onion,oregano,onion,oregano,2,1.585,3,mexican|mediterranean
+onion,rice-noodle,onion,rice noodle,1,1.585,3,vietnamese
+onion,salt,onion,salt,1,1.585,3,mexican
+onion,star-anise,onion,star anise,1,1.585,3,vietnamese
+onion,tomato,onion,tomato,3,0.585,1.5,indian|mediterranean|mexican
+oregano,tomato,oregano,tomato,1,0.8074,1.75,mediterranean
+parmesan,pasta,parmesan,pasta,1,3.3923,10.5,italian
+parmesan,pine-nut,parmesan,pine nut,1,3.3923,10.5,italian
+parmesan,spaghetti,parmesan,spaghetti,1,3.3923,10.5,italian
+parmesan,tomato,parmesan,tomato,1,0.8074,1.75,italian
+parsley,tomato,parsley,tomato,1,1.8074,3.5,middle-eastern
+pasta,pine-nut,pasta,pine nut,1,4.3923,21,italian
+pea,rice,pea,rice,1,2.3923,5.25,chinese
+pea,scallion,pea,scallion,1,3.3923,10.5,chinese
+pea,soy-sauce,pea,soy sauce,1,2.8074,7,chinese
+rice,scallion,rice,scallion,1,1.3923,2.625,chinese
+rice,sesame-oil,rice,sesame oil,1,1.3923,2.625,chinese
+rice,shrimp,rice,shrimp,1,2.3923,5.25,thai
+rice,soy-sauce,rice,soy sauce,3,2.3923,5.25,chinese|japanese
+rice-noodle,star-anise,rice noodle,star anise,1,4.3923,21,vietnamese
+scallion,seaweed,scallion,seaweed,1,3.3923,10.5,japanese
+scallion,soy-sauce,scallion,soy sauce,1,1.8074,3.5,chinese
+scallion,tofu,scallion,tofu,1,3.3923,10.5,japanese
+seaweed,tofu,seaweed,tofu,1,4.3923,21,japanese
+sesame-oil,soy-sauce,sesame oil,soy sauce,1,1.8074,3.5,chinese
+spaghetti,tomato,spaghetti,tomato,1,1.8074,3.5,italian
+thyme,zucchini,thyme,zucchini,1,4.3923,21,mediterranean

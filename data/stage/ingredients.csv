@@ -1,15 +1,90 @@
 id,name,aliases,cuisines,grocery_category,seasonality,_wikidata
 onion,Onion,,,,,[object Object]
-tomato,Tomato,"TomatoUSB,Tomato Records,The Tomato Music Co. Ltd.,Tomato, AR,Tomato, Arkansas",,,,[object Object]
+tomato,Tomato,"TomatoUSB,Tomato, AR,Tomato, Arkansas,Tomato Records,The Tomato Music Co. Ltd.",,,,[object Object]
 garlic,Garlic,,,,,[object Object]
-cucumber,Cucumber,,,,,
+cucumber,Cucumber,"Cucumber, West Virginia,Cucumber, WV,Cucumber Parish,Parish of Cucumber",,produce,,[object Object]
 yogurt,Yogurt,,,,,
-parsley,Parsley,,,,,
-feta,Feta,,,,,
-black-beans,Black Beans,,,,,
-rice,Rice,,,,,
-corn,Corn,,,,,
+feta,Feta,,,,,[object Object]
+parsley,Parsley,"Parsley, West Virginia,Parsley, WV,Paseri",,,,[object Object]
+basil,Basil,"Basil of Baker Street,Vasilios Komvopoulos,Vasilios, Metropolitan of Drama,Vladimir Mikhaylovich Rodzyanko,Vladimir Rodzyanko,Vasily,Bishop Basil,Basil (first name),Basil (given name),Saint Basile,Basel,Basil of Cherson,Marius Förster,Basil (Omori),IMO 7532650,Bajiru,Basil the Kicker,Kicker Basil,Kicking Basil,Basil, OH,Basil, Ohio",,,,[object Object]
+cilantro,Cilantro,,,,,[object Object]
+mint,Mint,"Mint, Arizona,Intuit Mint,Mint.com,IMO 9861081,livemint.com,Mint News,Goonshipas Peonpaweevorakul",,,,[object Object]
+dill,Dill,"Dill district,Dillkreis,Dill, Tennessee,Dill, TN",Arab,,,[object Object]
+spinach,Spinach,Eulithis mellinata,,produce,,[object Object]
+kale,Kale,"Kale, Denizli,Kale, Konjic,Kale, West Virginia,Kale, WV,Khale, Kha Lel,Kale Seramik,IMO 7431727,Kale (Dragon Ball),Jupiter XXXVII,S/2001 J 8",,,,[object Object]
+lettuce,Lettuce,,,,,[object Object]
+arugula,Arugula,,,,,
+olive-oil,Olive oil,,,,,
+butter,Butter,"Butter's Final Meal,Never 2 Big,This Is Butter,thisisbutter.com,ThisIsButter.com",,,,[object Object]
+milk,Milk,"Dan Donigan,Daniel Donigan,xkcd 858,Milk Corp.,W2vqXikAACcA8rV5",,,,[object Object]
+cream,Cream,"The Cream,S. Splurge,Cream, WI,Cream, Wisconsin",,,,[object Object]
+yogurt,Yogurt,xkcd 737,,,,[object Object]
+cheddar-cheese,Cheddar cheese,cheddar,,,,[object Object]
+mozzarella,Mozzarella,,,,,
+parmesan,Parmesan,"Parmesan cheese,Parmigiano,Parmigiano Reggiano,Parmigiano-Reggiano",,,,[object Object]
+egg,Egg,"Egg (Austria),Egg (Vorarlberg),Egg SZ,Egg chair,Egg Chair,Egg (Familie, ZH),Egg (Familie, SO),Thalgau-Egg,Fabio Medina,Goldballs,SO-10805,BE-12161,AR-880,SG-418,AG-4516,AG-4522,HKBU Heritage,Egg ZH,Eck",,,,[object Object]
+flour,Flour,,,,,[object Object]
+sugar,Sugar,"That Sugar Baby o' Mine,Sugar Sugar,Sugar, Honey and Pepper,Zucchero, miele e peperoncino,Azucár,Sugar (2024 TV series),Austin Kim,IMO 7119989,IMO 7640603",,,,[object Object]
+salt,Salt,"Salt, Staffordshire,SaltStack,Saltus,As Salt,Salt (given name),IMO 7014115,Salt, Aberystwyth,Salt, Cardiff Bay, Cardiff",,,,[object Object]
+black-pepper,Black pepper,,,,,
+paprika,Paprika,"Baby Paprika,Paprika Shopping,PAPRIKA","Bosnia and Herzegovina,Bulgarian",,,[object Object]
+cumin,Cumin,"Cumin (family name),Cumin (surname)",,,,[object Object]
+coriander,Coriander,,,,,[object Object]
+chili-powder,Chili powder,,Korean,spices-herbs,,
+oregano,Oregano,,,,,[object Object]
+thyme,Thyme,,Albanian,spices-herbs,,[object Object]
+rosemary,Rosemary,"Rosemary, That's for Remembrance,Rosemary, Alberta,Rosemary Belkiss,Rosemary Pereira Gonçalves,Courtney Rush,Holly Letkeman,Rozmarýnka,Rozmaring,Category:IMO 9424948,IMO 9424948,IMO 9432804",,,,[object Object]
+ginger,Ginger,"Gingers,Clam Savage,David Leslie Walls,David Walls,Ginger Wildheart,Howling Willie Cunt,Ginger, Washington,IMO 9507063",,,,[object Object]
+soy-sauce,Soy sauce,,,,,[object Object]
+fish-sauce,Fish sauce,,,,,
+vinegar,Vinegar,,,,,[object Object]
+balsamic-vinegar,Balsamic vinegar,,,,,
+red-wine-vinegar,Red wine vinegar,,,,,
+lime,Lime,"Lime, OR,Lime, Oregon,Le Page,Denis & Denyse LePage,Denis LePage & Denyse LePage,uncharacterized protein,CG18446,CG18446 gene product from transcript CG18446-RA,Dmel_CG18446,Dmel\CG18446,Linking immunity and metabolism,LimeBike,Neutron Holdings, Inc.,Kim Hye-lim,Light Media Engine,IMO 8857954",,,,[object Object]
+lemon,Lemon,"Hans Vermeersch, Bart Parmentier, Tom Barbier & Dieter Guss,Lemon (surname),Atlantis,James Bond,Chanhassen,Lemon, Kentucky,Lemon, KY,JFB,Nick Hollywood,Lu Jingyang",,produce,,[object Object]
+rice,Rice,"Rice family name,Rice surname,Oryza,Rice, VA,Rice, Virginia,Rice, Kansas,Rice, KS,Rice, Washington,The Rice People,Rice, OR,Rice, Oregon,Rice, CA,Rice, Texas,Rice, TX,Rice, Minnesota,Rice, MN,Rice, IL,Rice Records,rice databases,Rice, OH,Rice, Ohio",,,,[object Object]
+black-beans,Black beans,,,,,
+chickpea,Chickpea,,,,,
+lentil,Lentil,"Lentil, Novelúa, Monterroso",,,,[object Object]
+quinoa,Quinoa,,,,,[object Object]
+potato,Potato,"POTATO,Solanum subg. Potatoe",,,,[object Object]
+carrot,Carrot,,,,,[object Object]
+celery,Celery,Celery Task Queue,,,,[object Object]
+bell-pepper,Bell pepper,,,,,
+mushroom,Mushroom,"Gomba,Masshurūmu",,produce,,[object Object]
+zucchini,Zucchini,,,produce,,[object Object]
+eggplant,Eggplant,TestPlant,,,,[object Object]
+broccoli,Broccoli,"Broccoli Co., Ltd.,Broccoli B.V.",,produce,,[object Object]
+cauliflower,Cauliflower,,,,,[object Object]
+cabbage,Cabbage,Xiăobáicài,,,,[object Object]
+chicken,Chicken,"Chicken, AK,Chicken, Alaska,Chicken mob,MC Chicken,Minecraft Chicken",,,,[object Object]
+beef,Beef,"Hellions,Buford Wilson,Beeflang",,,,[object Object]
+pork,Pork,Krzysztof Borkusz,,,,[object Object]
+lamb,Lamb,"Lamb, Kentucky,Lamb, KY,The Lamb,Lamb PH,The Lamb, Newport,Lady Lamb the Beekeeper,Lamb, IL,Lamb, Illinois,Lamb Parish,Parish of Lamb,Lamb (given name),Dýrið,Lamb Island,Lamb, Indiana,Lamb, St Albans",,,,[object Object]
+shrimp,Shrimp,"A37,Saro Shrimp,Saunders Roe A.37 Shrimp,Shrimp aircraft",,,,[object Object]
+salmon,Salmon,"Salmon Protocol,Byron Switch,Byron Switch, Anderson County, Texas,Byron Switch, Texas,Salmon TX,Salmon, Anderson County, Texas,Salmon, Texas,Salmon, ID,Salmon, Idaho,Salomon,Salmah,salmon alignment tool,salmon software,MC Salmon,Minecraft Salmon,Salmon mob,Fleetway Salmon",Alaskan,,,[object Object]
+tuna,Tuna,"Tuna parish,Duina,Düna,Altuna Sejdiu,Tuna Barrio,Tuna, Puerto Rico,Tuna, San Germán,Wenke,Jintang,Katherina Chapa,IMO 8230041,Tuna (given name),IMO 9306691",,,,[object Object]
+beef-broth,Beef Broth,,,,,
+beef-chuck,Beef Chuck,,,,,
+peas,Peas,,,,,
 avocado,Avocado,,,,,
-lime,Lime,,,,,
-chicken,Chicken,,,,,
-cilantro,Cilantro,,,,,
+miso,Miso,,,,,
+tofu,Tofu,,,,,
+seaweed,Seaweed,,,,,
+pasta,Pasta,,,,,
+pine-nuts,Pine Nuts,,,,,
+star-anise,Star Anise,,,,,
+clove,Clove,,,,,
+rice-noodles,Rice Noodles,,,,,
+bulgur,Bulgur,,,,,
+coconut-milk,Coconut Milk,,,,,
+curry-powder,Curry Powder,,,,,
+flank-steak,Flank Steak,,,,,
+low-sodium-soy-sauce,Low-sodium Soy Sauce,,,,,
+brown-sugar,Brown Sugar,,,,,
+lime-juice,Lime Juice,,,,,
+crushed-red-pepper-flakes,Crushed Red Pepper Flakes,,,,,
+spaghetti,Spaghetti,,,,,
+sesame-oil,Sesame Oil,,,,,
+scallion,Scallion,,,,,
+tahini,Tahini,,,,,

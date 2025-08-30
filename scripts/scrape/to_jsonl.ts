@@ -1,10 +1,12 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import Papa from 'papaparse';
+import 'dotenv/config'
 
 const root = (...p:string[]) => path.join(process.cwd(), ...p);
 const slug = (s:string)=> s.toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/(^-|-$)/g,'');
 const titleCase = (s:string)=> s.replace(/\w\S*/g, t=>t[0].toUpperCase()+t.slice(1).toLowerCase());
+const ENABLE_ALLERGENS = process.env.FEATURE_ALLERGENS === '1';
 
 type Row = Record<string,string>;
 async function parseCsv(file:string): Promise<Row[]> {
@@ -154,20 +156,18 @@ async function main(){
   const pairings: any[] = [];
   const HERB_SPICE_ACID = new Set(['herb','spice','acid']);
   const addPairing = (id:string, name:string) => {
-    if (pairingIds.has(id)) return;
-    pairingIds.add(id);
-    const type = inferPairingType(name);
+  if (pairingIds.has(id)) return;
+  pairingIds.add(id);
+  const type = inferPairingType(name);
+  const nutrition_tags: string[] = [];
+  if (new Set(['herb','spice','acid']).has(type)) nutrition_tags.push('plant-forward');
+  const rec:any = { Pairing: { id, name, type, nutrition_tags } };
+  if (ENABLE_ALLERGENS) {
     const allergens = inferAllergens(name);
-    const nutrition_tags: string[] = [];
-    if (HERB_SPICE_ACID.has(type)) nutrition_tags.push('plant-forward');
-    pairings.push({
-      Pairing: {
-        id, name, type,
-        nutrition_tags,
-        allergens: allergens.length? allergens : undefined
-      }
-    });
-  };
+    if (allergens.length) rec.Pairing.allergens = allergens;
+  }
+  pairings.push(rec);
+};
   for (const r of pairRows) {
     const a_id = String((r as any).a_id); const b_id = String((r as any).b_id);
     const aName = String((r as any).a || a_id); const bName = String((r as any).b || b_id);

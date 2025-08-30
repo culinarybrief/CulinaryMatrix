@@ -1,77 +1,418 @@
+{"Ingredient":{"id":"arugula","name":"Arugula","category":"veg"}}
 {"Ingredient":{"id":"avocado","name":"Avocado","category":"other","default_cuisine":"mexican"}}
-{"Ingredient":{"id":"black-beans","name":"Black Beans","category":"legume","default_cuisine":"mexican"}}
-{"Ingredient":{"id":"chicken","name":"Chicken","category":"protein","default_cuisine":"mediterranean"}}
+{"Ingredient":{"id":"balsamic-vinegar","name":"Balsamic vinegar","category":"other"}}
+{"Ingredient":{"id":"basil","name":"Basil","category":"veg","default_cuisine":"italian"}}
+{"Ingredient":{"id":"beef","name":"Beef","category":"protein","default_cuisine":"vietnamese"}}
+{"Ingredient":{"id":"beef-broth","name":"Beef Broth","category":"other","default_cuisine":"mexican"}}
+{"Ingredient":{"id":"beef-chuck","name":"Beef Chuck","category":"other","default_cuisine":"mexican"}}
+{"Ingredient":{"id":"bell-pepper","name":"Bell pepper","category":"veg","default_cuisine":"mediterranean"}}
+{"Ingredient":{"id":"black-beans","name":"Black beans","category":"legume"}}
+{"Ingredient":{"id":"black-pepper","name":"Black pepper","category":"other","default_cuisine":"asian"}}
+{"Ingredient":{"id":"broccoli","name":"Broccoli","category":"veg","default_cuisine":"chinese"}}
+{"Ingredient":{"id":"brown-sugar","name":"Brown Sugar","category":"other","default_cuisine":"asian"}}
+{"Ingredient":{"id":"bulgur","name":"Bulgur","category":"carb","default_cuisine":"middle-eastern"}}
+{"Ingredient":{"id":"butter","name":"Butter","category":"other"}}
+{"Ingredient":{"id":"cabbage","name":"Cabbage","category":"veg"}}
+{"Ingredient":{"id":"carrot","name":"Carrot","category":"veg","default_cuisine":"mediterranean"}}
+{"Ingredient":{"id":"cauliflower","name":"Cauliflower","category":"veg"}}
+{"Ingredient":{"id":"celery","name":"Celery","category":"veg","default_cuisine":"mediterranean"}}
+{"Ingredient":{"id":"cheddar-cheese","name":"Cheddar cheese","category":"other"}}
+{"Ingredient":{"id":"chicken","name":"Chicken","category":"protein","default_cuisine":"indian"}}
+{"Ingredient":{"id":"chickpea","name":"Chickpea","category":"legume","default_cuisine":"indian"}}
+{"Ingredient":{"id":"chili-powder","name":"Chili powder","category":"other","default_cuisine":"mexican"}}
 {"Ingredient":{"id":"cilantro","name":"Cilantro","category":"veg","default_cuisine":"mexican"}}
-{"Ingredient":{"id":"corn","name":"Corn","category":"other","default_cuisine":"mexican"}}
+{"Ingredient":{"id":"clove","name":"Clove","category":"other","default_cuisine":"vietnamese"}}
+{"Ingredient":{"id":"coconut-milk","name":"Coconut Milk","category":"other","default_cuisine":"thai"}}
+{"Ingredient":{"id":"coriander","name":"Coriander","category":"other","default_cuisine":"indian"}}
+{"Ingredient":{"id":"cream","name":"Cream","category":"other"}}
+{"Ingredient":{"id":"crushed-red-pepper-flake","name":"Crushed Red Pepper Flake","category":"other","default_cuisine":"asian","notes":"Auto-added from corpus"}}
+{"Ingredient":{"id":"crushed-red-pepper-flakes","name":"Crushed Red Pepper Flakes","category":"other"}}
 {"Ingredient":{"id":"cucumber","name":"Cucumber","category":"veg","default_cuisine":"mediterranean"}}
+{"Ingredient":{"id":"cumin","name":"Cumin","category":"other","default_cuisine":"indian"}}
+{"Ingredient":{"id":"curry-powder","name":"Curry Powder","category":"other","default_cuisine":"thai"}}
+{"Ingredient":{"id":"dill","name":"Dill","category":"other","default_cuisine":"mediterranean"}}
+{"Ingredient":{"id":"egg","name":"Egg","category":"protein","default_cuisine":"chinese"}}
+{"Ingredient":{"id":"eggplant","name":"Eggplant","category":"veg","default_cuisine":"mediterranean"}}
 {"Ingredient":{"id":"feta","name":"Feta","category":"other","default_cuisine":"mediterranean"}}
-{"Ingredient":{"id":"garlic","name":"Garlic","category":"veg","default_cuisine":"mexican"}}
+{"Ingredient":{"id":"fish-sauce","name":"Fish sauce","category":"other"}}
+{"Ingredient":{"id":"flank-steak","name":"Flank Steak","category":"other","default_cuisine":"asian"}}
+{"Ingredient":{"id":"flour","name":"Flour","category":"other"}}
+{"Ingredient":{"id":"garlic","name":"Garlic","category":"veg","default_cuisine":"mediterranean"}}
+{"Ingredient":{"id":"ginger","name":"Ginger","category":"other","default_cuisine":"indian"}}
+{"Ingredient":{"id":"kale","name":"Kale","category":"veg"}}
+{"Ingredient":{"id":"lamb","name":"Lamb","category":"protein"}}
+{"Ingredient":{"id":"lemon","name":"Lemon","category":"other","default_cuisine":"mediterranean"}}
+{"Ingredient":{"id":"lentil","name":"Lentil","category":"legume","default_cuisine":"mediterranean"}}
+{"Ingredient":{"id":"lettuce","name":"Lettuce","category":"veg"}}
 {"Ingredient":{"id":"lime","name":"Lime","category":"other","default_cuisine":"mexican"}}
-{"Ingredient":{"id":"onion","name":"Onion","category":"veg","default_cuisine":"mediterranean"}}
-{"Ingredient":{"id":"parsley","name":"Parsley","category":"veg","default_cuisine":"mediterranean"}}
-{"Ingredient":{"id":"rice","name":"Rice","category":"carb","default_cuisine":"mexican"}}
-{"Ingredient":{"id":"tomato","name":"Tomato","category":"veg","default_cuisine":"mexican"}}
-{"Ingredient":{"id":"yogurt","name":"Yogurt","category":"other","default_cuisine":"mediterranean"}}
+{"Ingredient":{"id":"lime-juice","name":"Lime Juice","category":"other","default_cuisine":"asian"}}
+{"Ingredient":{"id":"low-sodium-soy-sauce","name":"Low-sodium Soy Sauce","category":"other","default_cuisine":"asian"}}
+{"Ingredient":{"id":"milk","name":"Milk","category":"other"}}
+{"Ingredient":{"id":"mint","name":"Mint","category":"other"}}
+{"Ingredient":{"id":"miso","name":"Miso","category":"other","default_cuisine":"japanese"}}
+{"Ingredient":{"id":"mozzarella","name":"Mozzarella","category":"other","default_cuisine":"italian"}}
+{"Ingredient":{"id":"mushroom","name":"Mushroom","category":"veg"}}
+{"Ingredient":{"id":"olive-oil","name":"Olive oil","category":"other","default_cuisine":"mediterranean"}}
+{"Ingredient":{"id":"onion","name":"Onion","category":"veg","default_cuisine":"mexican"}}
+{"Ingredient":{"id":"oregano","name":"Oregano","category":"other","default_cuisine":"mexican"}}
+{"Ingredient":{"id":"paprika","name":"Paprika","category":"other"}}
+{"Ingredient":{"id":"parmesan","name":"Parmesan","category":"other","default_cuisine":"italian"}}
+{"Ingredient":{"id":"parsley","name":"Parsley","category":"veg","default_cuisine":"middle-eastern"}}
+{"Ingredient":{"id":"pasta","name":"Pasta","category":"carb","default_cuisine":"italian"}}
+{"Ingredient":{"id":"pea","name":"Pea","category":"other","default_cuisine":"chinese","notes":"Auto-added from corpus"}}
+{"Ingredient":{"id":"peas","name":"Peas","category":"legume"}}
+{"Ingredient":{"id":"pine-nut","name":"Pine Nut","category":"other","default_cuisine":"italian","notes":"Auto-added from corpus"}}
+{"Ingredient":{"id":"pine-nuts","name":"Pine Nuts","category":"other"}}
+{"Ingredient":{"id":"pork","name":"Pork","category":"protein"}}
+{"Ingredient":{"id":"potato","name":"Potato","category":"carb"}}
+{"Ingredient":{"id":"quinoa","name":"Quinoa","category":"carb"}}
+{"Ingredient":{"id":"red-wine-vinegar","name":"Red wine vinegar","category":"other"}}
+{"Ingredient":{"id":"rice","name":"Rice","category":"carb","default_cuisine":"chinese"}}
+{"Ingredient":{"id":"rice-noodle","name":"Rice Noodle","category":"other","default_cuisine":"vietnamese","notes":"Auto-added from corpus"}}
+{"Ingredient":{"id":"rice-noodles","name":"Rice Noodles","category":"other"}}
+{"Ingredient":{"id":"rosemary","name":"Rosemary","category":"other"}}
+{"Ingredient":{"id":"salmon","name":"Salmon","category":"protein"}}
+{"Ingredient":{"id":"salt","name":"Salt","category":"other","default_cuisine":"mexican"}}
+{"Ingredient":{"id":"scallion","name":"Scallion","category":"other","default_cuisine":"chinese"}}
+{"Ingredient":{"id":"seaweed","name":"Seaweed","category":"other","default_cuisine":"japanese"}}
+{"Ingredient":{"id":"sesame-oil","name":"Sesame Oil","category":"other","default_cuisine":"asian"}}
+{"Ingredient":{"id":"shrimp","name":"Shrimp","category":"protein","default_cuisine":"thai"}}
+{"Ingredient":{"id":"soy-sauce","name":"Soy sauce","category":"other","default_cuisine":"chinese"}}
+{"Ingredient":{"id":"spaghetti","name":"Spaghetti","category":"other","default_cuisine":"italian"}}
+{"Ingredient":{"id":"spinach","name":"Spinach","category":"veg"}}
+{"Ingredient":{"id":"star-anise","name":"Star Anise","category":"other","default_cuisine":"vietnamese"}}
+{"Ingredient":{"id":"sugar","name":"Sugar","category":"other"}}
+{"Ingredient":{"id":"tahini","name":"Tahini","category":"other","default_cuisine":"middle-eastern"}}
+{"Ingredient":{"id":"thyme","name":"Thyme","category":"other","default_cuisine":"mediterranean"}}
+{"Ingredient":{"id":"tofu","name":"Tofu","category":"protein","default_cuisine":"japanese"}}
+{"Ingredient":{"id":"tomato","name":"Tomato","category":"veg","default_cuisine":"italian"}}
+{"Ingredient":{"id":"tuna","name":"Tuna","category":"protein"}}
+{"Ingredient":{"id":"vinegar","name":"Vinegar","category":"other"}}
+{"Ingredient":{"id":"yogurt","name":"Yogurt","category":"other","default_cuisine":"indian"}}
+{"Ingredient":{"id":"zucchini","name":"Zucchini","category":"veg","default_cuisine":"mediterranean"}}
 {"Pairing":{"id":"avocado","name":"avocado","type":"other","nutrition_tags":[]}}
-{"Pairing":{"id":"black-beans","name":"black beans","type":"other","nutrition_tags":[]}}
+{"Pairing":{"id":"basil","name":"basil","type":"herb","nutrition_tags":["plant-forward"]}}
+{"Pairing":{"id":"beef","name":"beef","type":"other","nutrition_tags":[]}}
+{"Pairing":{"id":"beef-broth","name":"beef broth","type":"other","nutrition_tags":[]}}
+{"Pairing":{"id":"beef-chuck","name":"beef chuck","type":"other","nutrition_tags":[]}}
+{"Pairing":{"id":"bell-pepper","name":"bell pepper","type":"other","nutrition_tags":[]}}
+{"Pairing":{"id":"black-pepper","name":"black pepper","type":"spice","nutrition_tags":["plant-forward"]}}
+{"Pairing":{"id":"broccoli","name":"broccoli","type":"other","nutrition_tags":[]}}
+{"Pairing":{"id":"brown-sugar","name":"brown sugar","type":"other","nutrition_tags":[]}}
+{"Pairing":{"id":"bulgur","name":"bulgur","type":"other","nutrition_tags":[]}}
+{"Pairing":{"id":"carrot","name":"carrot","type":"aromatic","nutrition_tags":[]}}
+{"Pairing":{"id":"celery","name":"celery","type":"aromatic","nutrition_tags":[]}}
 {"Pairing":{"id":"chicken","name":"chicken","type":"other","nutrition_tags":[]}}
+{"Pairing":{"id":"chickpea","name":"chickpea","type":"other","nutrition_tags":[]}}
+{"Pairing":{"id":"chili-powder","name":"chili powder","type":"spice","nutrition_tags":["plant-forward"]}}
 {"Pairing":{"id":"cilantro","name":"cilantro","type":"herb","nutrition_tags":["plant-forward"]}}
-{"Pairing":{"id":"corn","name":"corn","type":"other","nutrition_tags":[]}}
+{"Pairing":{"id":"clove","name":"clove","type":"spice","nutrition_tags":["plant-forward"]}}
+{"Pairing":{"id":"coconut-milk","name":"coconut milk","type":"other","nutrition_tags":[]}}
+{"Pairing":{"id":"coriander","name":"coriander","type":"spice","nutrition_tags":["plant-forward"]}}
+{"Pairing":{"id":"crushed-red-pepper-flake","name":"crushed red pepper flake","type":"other","nutrition_tags":[]}}
 {"Pairing":{"id":"cucumber","name":"cucumber","type":"other","nutrition_tags":[]}}
-{"Pairing":{"id":"feta","name":"feta","type":"cheese","nutrition_tags":[],"allergens":["dairy"]}}
+{"Pairing":{"id":"cumin","name":"cumin","type":"spice","nutrition_tags":["plant-forward"]}}
+{"Pairing":{"id":"curry-powder","name":"curry powder","type":"other","nutrition_tags":[]}}
+{"Pairing":{"id":"dill","name":"dill","type":"herb","nutrition_tags":["plant-forward"]}}
+{"Pairing":{"id":"egg","name":"egg","type":"other","nutrition_tags":[]}}
+{"Pairing":{"id":"eggplant","name":"eggplant","type":"other","nutrition_tags":[]}}
+{"Pairing":{"id":"feta","name":"feta","type":"cheese","nutrition_tags":[]}}
+{"Pairing":{"id":"flank-steak","name":"flank steak","type":"other","nutrition_tags":[]}}
 {"Pairing":{"id":"garlic","name":"garlic","type":"aromatic","nutrition_tags":[]}}
+{"Pairing":{"id":"ginger","name":"ginger","type":"aromatic","nutrition_tags":[]}}
+{"Pairing":{"id":"lemon","name":"lemon","type":"acid","nutrition_tags":["plant-forward"]}}
+{"Pairing":{"id":"lentil","name":"lentil","type":"other","nutrition_tags":[]}}
 {"Pairing":{"id":"lime","name":"lime","type":"acid","nutrition_tags":["plant-forward"]}}
+{"Pairing":{"id":"lime-juice","name":"lime juice","type":"acid","nutrition_tags":["plant-forward"]}}
+{"Pairing":{"id":"low-sodium-soy-sauce","name":"low-sodium soy sauce","type":"other","nutrition_tags":[]}}
+{"Pairing":{"id":"miso","name":"miso","type":"other","nutrition_tags":[]}}
+{"Pairing":{"id":"mozzarella","name":"mozzarella","type":"cheese","nutrition_tags":[]}}
+{"Pairing":{"id":"olive-oil","name":"olive oil","type":"fat","nutrition_tags":[]}}
 {"Pairing":{"id":"onion","name":"onion","type":"aromatic","nutrition_tags":[]}}
+{"Pairing":{"id":"oregano","name":"oregano","type":"herb","nutrition_tags":["plant-forward"]}}
+{"Pairing":{"id":"parmesan","name":"parmesan","type":"cheese","nutrition_tags":[]}}
 {"Pairing":{"id":"parsley","name":"parsley","type":"herb","nutrition_tags":["plant-forward"]}}
+{"Pairing":{"id":"pasta","name":"pasta","type":"other","nutrition_tags":[]}}
+{"Pairing":{"id":"pea","name":"pea","type":"other","nutrition_tags":[]}}
+{"Pairing":{"id":"pine-nut","name":"pine nut","type":"other","nutrition_tags":[]}}
 {"Pairing":{"id":"rice","name":"rice","type":"other","nutrition_tags":[]}}
+{"Pairing":{"id":"rice-noodle","name":"rice noodle","type":"other","nutrition_tags":[]}}
+{"Pairing":{"id":"salt","name":"salt","type":"other","nutrition_tags":[]}}
+{"Pairing":{"id":"scallion","name":"scallion","type":"aromatic","nutrition_tags":[]}}
+{"Pairing":{"id":"seaweed","name":"seaweed","type":"other","nutrition_tags":[]}}
+{"Pairing":{"id":"sesame-oil","name":"sesame oil","type":"fat","nutrition_tags":[]}}
+{"Pairing":{"id":"shrimp","name":"shrimp","type":"other","nutrition_tags":[]}}
+{"Pairing":{"id":"soy-sauce","name":"soy sauce","type":"sauce","nutrition_tags":[]}}
+{"Pairing":{"id":"spaghetti","name":"spaghetti","type":"other","nutrition_tags":[]}}
+{"Pairing":{"id":"star-anise","name":"star anise","type":"other","nutrition_tags":[]}}
+{"Pairing":{"id":"tahini","name":"tahini","type":"sauce","nutrition_tags":[]}}
+{"Pairing":{"id":"thyme","name":"thyme","type":"herb","nutrition_tags":["plant-forward"]}}
+{"Pairing":{"id":"tofu","name":"tofu","type":"other","nutrition_tags":[]}}
 {"Pairing":{"id":"tomato","name":"tomato","type":"other","nutrition_tags":[]}}
-{"Pairing":{"id":"yogurt","name":"yogurt","type":"fat","nutrition_tags":[],"allergens":["dairy"]}}
-{"Edge":{"ingredient_id":"avocado","pairing_id":"black-beans","strength":4,"cuisines":["mexican"],"techniques":[]}}
-{"Edge":{"ingredient_id":"avocado","pairing_id":"chicken","strength":3,"cuisines":["mexican"],"techniques":[]}}
-{"Edge":{"ingredient_id":"avocado","pairing_id":"cilantro","strength":2,"cuisines":["mexican"],"techniques":[]}}
-{"Edge":{"ingredient_id":"avocado","pairing_id":"corn","strength":4,"cuisines":["mexican"],"techniques":[]}}
-{"Edge":{"ingredient_id":"avocado","pairing_id":"rice","strength":4,"cuisines":["mexican"],"techniques":[]}}
-{"Edge":{"ingredient_id":"avocado","pairing_id":"tomato","strength":1,"cuisines":["mexican"],"techniques":[]}}
-{"Edge":{"ingredient_id":"black-beans","pairing_id":"chicken","strength":3,"cuisines":["mexican"],"techniques":[]}}
-{"Edge":{"ingredient_id":"black-beans","pairing_id":"cilantro","strength":2,"cuisines":["mexican"],"techniques":[]}}
-{"Edge":{"ingredient_id":"black-beans","pairing_id":"corn","strength":4,"cuisines":["mexican"],"techniques":[]}}
-{"Edge":{"ingredient_id":"black-beans","pairing_id":"rice","strength":4,"cuisines":["mexican"],"techniques":[]}}
-{"Edge":{"ingredient_id":"black-beans","pairing_id":"tomato","strength":1,"cuisines":["mexican"],"techniques":[]}}
-{"Edge":{"ingredient_id":"chicken","pairing_id":"cilantro","strength":1,"cuisines":["mexican"],"techniques":[]}}
-{"Edge":{"ingredient_id":"chicken","pairing_id":"corn","strength":3,"cuisines":["mexican"],"techniques":[]}}
-{"Edge":{"ingredient_id":"chicken","pairing_id":"cucumber","strength":3,"cuisines":["mediterranean"],"techniques":[]}}
-{"Edge":{"ingredient_id":"chicken","pairing_id":"feta","strength":3,"cuisines":["mediterranean"],"techniques":[]}}
-{"Edge":{"ingredient_id":"chicken","pairing_id":"onion","strength":1,"cuisines":["mediterranean"],"techniques":[]}}
-{"Edge":{"ingredient_id":"chicken","pairing_id":"parsley","strength":3,"cuisines":["mediterranean"],"techniques":[]}}
-{"Edge":{"ingredient_id":"chicken","pairing_id":"rice","strength":3,"cuisines":["mexican"],"techniques":[]}}
-{"Edge":{"ingredient_id":"chicken","pairing_id":"tomato","strength":1,"cuisines":["mediterranean","mexican"],"techniques":[]}}
-{"Edge":{"ingredient_id":"chicken","pairing_id":"yogurt","strength":3,"cuisines":["mediterranean"],"techniques":[]}}
-{"Edge":{"ingredient_id":"cilantro","pairing_id":"corn","strength":2,"cuisines":["mexican"],"techniques":[]}}
-{"Edge":{"ingredient_id":"cilantro","pairing_id":"garlic","strength":2,"cuisines":["mexican"],"techniques":[]}}
-{"Edge":{"ingredient_id":"cilantro","pairing_id":"lime","strength":2,"cuisines":["mexican"],"techniques":[]}}
-{"Edge":{"ingredient_id":"cilantro","pairing_id":"onion","strength":1,"cuisines":["mexican"],"techniques":[]}}
-{"Edge":{"ingredient_id":"cilantro","pairing_id":"rice","strength":2,"cuisines":["mexican"],"techniques":[]}}
-{"Edge":{"ingredient_id":"cilantro","pairing_id":"tomato","strength":1,"cuisines":["mexican"],"techniques":[]}}
-{"Edge":{"ingredient_id":"corn","pairing_id":"rice","strength":4,"cuisines":["mexican"],"techniques":[]}}
-{"Edge":{"ingredient_id":"corn","pairing_id":"tomato","strength":1,"cuisines":["mexican"],"techniques":[]}}
+{"Pairing":{"id":"yogurt","name":"yogurt","type":"fat","nutrition_tags":[]}}
+{"Pairing":{"id":"zucchini","name":"zucchini","type":"other","nutrition_tags":[]}}
+{"Edge":{"ingredient_id":"avocado","pairing_id":"cilantro","strength":5,"cuisines":["mexican"],"techniques":[]}}
+{"Edge":{"ingredient_id":"avocado","pairing_id":"lime","strength":4,"cuisines":["mexican"],"techniques":[]}}
+{"Edge":{"ingredient_id":"avocado","pairing_id":"onion","strength":3,"cuisines":["mexican"],"techniques":[]}}
+{"Edge":{"ingredient_id":"avocado","pairing_id":"salt","strength":5,"cuisines":["mexican"],"techniques":[]}}
+{"Edge":{"ingredient_id":"basil","pairing_id":"garlic","strength":1,"cuisines":["italian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"basil","pairing_id":"mozzarella","strength":4,"cuisines":["italian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"basil","pairing_id":"olive-oil","strength":3,"cuisines":["italian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"basil","pairing_id":"parmesan","strength":4,"cuisines":["italian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"basil","pairing_id":"pasta","strength":4,"cuisines":["italian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"basil","pairing_id":"pine-nut","strength":4,"cuisines":["italian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"basil","pairing_id":"spaghetti","strength":4,"cuisines":["italian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"basil","pairing_id":"tomato","strength":3,"cuisines":["italian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"beef","pairing_id":"clove","strength":5,"cuisines":["vietnamese"],"techniques":[]}}
+{"Edge":{"ingredient_id":"beef","pairing_id":"ginger","strength":3,"cuisines":["vietnamese"],"techniques":[]}}
+{"Edge":{"ingredient_id":"beef","pairing_id":"onion","strength":3,"cuisines":["vietnamese"],"techniques":[]}}
+{"Edge":{"ingredient_id":"beef","pairing_id":"rice-noodle","strength":5,"cuisines":["vietnamese"],"techniques":[]}}
+{"Edge":{"ingredient_id":"beef","pairing_id":"star-anise","strength":5,"cuisines":["vietnamese"],"techniques":[]}}
+{"Edge":{"ingredient_id":"beef-broth","pairing_id":"beef-chuck","strength":5,"cuisines":["mexican"],"techniques":[]}}
+{"Edge":{"ingredient_id":"beef-broth","pairing_id":"chili-powder","strength":5,"cuisines":["mexican"],"techniques":[]}}
+{"Edge":{"ingredient_id":"beef-broth","pairing_id":"cumin","strength":4,"cuisines":["mexican"],"techniques":[]}}
+{"Edge":{"ingredient_id":"beef-broth","pairing_id":"garlic","strength":2,"cuisines":["mexican"],"techniques":[]}}
+{"Edge":{"ingredient_id":"beef-broth","pairing_id":"lime","strength":4,"cuisines":["mexican"],"techniques":[]}}
+{"Edge":{"ingredient_id":"beef-broth","pairing_id":"onion","strength":3,"cuisines":["mexican"],"techniques":[]}}
+{"Edge":{"ingredient_id":"beef-broth","pairing_id":"oregano","strength":5,"cuisines":["mexican"],"techniques":[]}}
+{"Edge":{"ingredient_id":"beef-chuck","pairing_id":"chili-powder","strength":5,"cuisines":["mexican"],"techniques":[]}}
+{"Edge":{"ingredient_id":"beef-chuck","pairing_id":"cumin","strength":4,"cuisines":["mexican"],"techniques":[]}}
+{"Edge":{"ingredient_id":"beef-chuck","pairing_id":"garlic","strength":2,"cuisines":["mexican"],"techniques":[]}}
+{"Edge":{"ingredient_id":"beef-chuck","pairing_id":"lime","strength":4,"cuisines":["mexican"],"techniques":[]}}
+{"Edge":{"ingredient_id":"beef-chuck","pairing_id":"onion","strength":3,"cuisines":["mexican"],"techniques":[]}}
+{"Edge":{"ingredient_id":"beef-chuck","pairing_id":"oregano","strength":5,"cuisines":["mexican"],"techniques":[]}}
+{"Edge":{"ingredient_id":"bell-pepper","pairing_id":"eggplant","strength":5,"cuisines":["mediterranean"],"techniques":[]}}
+{"Edge":{"ingredient_id":"bell-pepper","pairing_id":"garlic","strength":2,"cuisines":["mediterranean"],"techniques":[]}}
+{"Edge":{"ingredient_id":"bell-pepper","pairing_id":"olive-oil","strength":3,"cuisines":["mediterranean"],"techniques":[]}}
+{"Edge":{"ingredient_id":"bell-pepper","pairing_id":"thyme","strength":5,"cuisines":["mediterranean"],"techniques":[]}}
+{"Edge":{"ingredient_id":"bell-pepper","pairing_id":"zucchini","strength":5,"cuisines":["mediterranean"],"techniques":[]}}
+{"Edge":{"ingredient_id":"black-pepper","pairing_id":"brown-sugar","strength":5,"cuisines":["asian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"black-pepper","pairing_id":"crushed-red-pepper-flake","strength":5,"cuisines":["asian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"black-pepper","pairing_id":"flank-steak","strength":5,"cuisines":["asian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"black-pepper","pairing_id":"garlic","strength":2,"cuisines":["asian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"black-pepper","pairing_id":"ginger","strength":3,"cuisines":["asian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"black-pepper","pairing_id":"lime-juice","strength":5,"cuisines":["asian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"black-pepper","pairing_id":"low-sodium-soy-sauce","strength":5,"cuisines":["asian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"black-pepper","pairing_id":"sesame-oil","strength":5,"cuisines":["asian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"broccoli","pairing_id":"garlic","strength":2,"cuisines":["chinese"],"techniques":[]}}
+{"Edge":{"ingredient_id":"broccoli","pairing_id":"ginger","strength":3,"cuisines":["chinese"],"techniques":[]}}
+{"Edge":{"ingredient_id":"broccoli","pairing_id":"rice","strength":4,"cuisines":["chinese"],"techniques":[]}}
+{"Edge":{"ingredient_id":"broccoli","pairing_id":"sesame-oil","strength":5,"cuisines":["chinese"],"techniques":[]}}
+{"Edge":{"ingredient_id":"broccoli","pairing_id":"soy-sauce","strength":4,"cuisines":["chinese"],"techniques":[]}}
+{"Edge":{"ingredient_id":"brown-sugar","pairing_id":"crushed-red-pepper-flake","strength":5,"cuisines":["asian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"brown-sugar","pairing_id":"flank-steak","strength":5,"cuisines":["asian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"brown-sugar","pairing_id":"garlic","strength":2,"cuisines":["asian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"brown-sugar","pairing_id":"ginger","strength":3,"cuisines":["asian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"brown-sugar","pairing_id":"lime-juice","strength":5,"cuisines":["asian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"brown-sugar","pairing_id":"low-sodium-soy-sauce","strength":5,"cuisines":["asian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"brown-sugar","pairing_id":"sesame-oil","strength":5,"cuisines":["asian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"bulgur","pairing_id":"cucumber","strength":4,"cuisines":["middle-eastern"],"techniques":[]}}
+{"Edge":{"ingredient_id":"bulgur","pairing_id":"lemon","strength":4,"cuisines":["middle-eastern"],"techniques":[]}}
+{"Edge":{"ingredient_id":"bulgur","pairing_id":"olive-oil","strength":3,"cuisines":["middle-eastern"],"techniques":[]}}
+{"Edge":{"ingredient_id":"bulgur","pairing_id":"parsley","strength":5,"cuisines":["middle-eastern"],"techniques":[]}}
+{"Edge":{"ingredient_id":"bulgur","pairing_id":"tomato","strength":3,"cuisines":["middle-eastern"],"techniques":[]}}
+{"Edge":{"ingredient_id":"carrot","pairing_id":"celery","strength":5,"cuisines":["mediterranean"],"techniques":[]}}
+{"Edge":{"ingredient_id":"carrot","pairing_id":"garlic","strength":2,"cuisines":["mediterranean"],"techniques":[]}}
+{"Edge":{"ingredient_id":"carrot","pairing_id":"lentil","strength":5,"cuisines":["mediterranean"],"techniques":[]}}
+{"Edge":{"ingredient_id":"carrot","pairing_id":"olive-oil","strength":3,"cuisines":["mediterranean"],"techniques":[]}}
+{"Edge":{"ingredient_id":"carrot","pairing_id":"onion","strength":3,"cuisines":["mediterranean"],"techniques":[]}}
+{"Edge":{"ingredient_id":"celery","pairing_id":"garlic","strength":2,"cuisines":["mediterranean"],"techniques":[]}}
+{"Edge":{"ingredient_id":"celery","pairing_id":"lentil","strength":5,"cuisines":["mediterranean"],"techniques":[]}}
+{"Edge":{"ingredient_id":"celery","pairing_id":"olive-oil","strength":3,"cuisines":["mediterranean"],"techniques":[]}}
+{"Edge":{"ingredient_id":"celery","pairing_id":"onion","strength":3,"cuisines":["mediterranean"],"techniques":[]}}
+{"Edge":{"ingredient_id":"chicken","pairing_id":"coriander","strength":4,"cuisines":["indian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"chicken","pairing_id":"cumin","strength":3,"cuisines":["indian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"chicken","pairing_id":"garlic","strength":2,"cuisines":["indian","japanese"],"techniques":[]}}
+{"Edge":{"ingredient_id":"chicken","pairing_id":"ginger","strength":3,"cuisines":["indian","japanese"],"techniques":[]}}
+{"Edge":{"ingredient_id":"chicken","pairing_id":"lime","strength":3,"cuisines":["indian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"chicken","pairing_id":"rice","strength":3,"cuisines":["japanese"],"techniques":[]}}
+{"Edge":{"ingredient_id":"chicken","pairing_id":"soy-sauce","strength":3,"cuisines":["japanese"],"techniques":[]}}
+{"Edge":{"ingredient_id":"chicken","pairing_id":"yogurt","strength":4,"cuisines":["indian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"chickpea","pairing_id":"coriander","strength":4,"cuisines":["indian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"chickpea","pairing_id":"cumin","strength":3,"cuisines":["indian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"chickpea","pairing_id":"garlic","strength":2,"cuisines":["indian","middle-eastern"],"techniques":[]}}
+{"Edge":{"ingredient_id":"chickpea","pairing_id":"ginger","strength":2,"cuisines":["indian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"chickpea","pairing_id":"lemon","strength":3,"cuisines":["middle-eastern"],"techniques":[]}}
+{"Edge":{"ingredient_id":"chickpea","pairing_id":"olive-oil","strength":1,"cuisines":["middle-eastern"],"techniques":[]}}
+{"Edge":{"ingredient_id":"chickpea","pairing_id":"onion","strength":2,"cuisines":["indian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"chickpea","pairing_id":"tahini","strength":5,"cuisines":["middle-eastern"],"techniques":[]}}
+{"Edge":{"ingredient_id":"chickpea","pairing_id":"tomato","strength":2,"cuisines":["indian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"chili-powder","pairing_id":"cilantro","strength":4,"cuisines":["mexican"],"techniques":[]}}
+{"Edge":{"ingredient_id":"chili-powder","pairing_id":"cumin","strength":3,"cuisines":["mexican"],"techniques":[]}}
+{"Edge":{"ingredient_id":"chili-powder","pairing_id":"garlic","strength":2,"cuisines":["mexican"],"techniques":[]}}
+{"Edge":{"ingredient_id":"chili-powder","pairing_id":"lime","strength":4,"cuisines":["mexican"],"techniques":[]}}
+{"Edge":{"ingredient_id":"chili-powder","pairing_id":"onion","strength":3,"cuisines":["mexican"],"techniques":[]}}
+{"Edge":{"ingredient_id":"chili-powder","pairing_id":"oregano","strength":4,"cuisines":["mexican"],"techniques":[]}}
+{"Edge":{"ingredient_id":"chili-powder","pairing_id":"tomato","strength":2,"cuisines":["mexican"],"techniques":[]}}
+{"Edge":{"ingredient_id":"cilantro","pairing_id":"garlic","strength":1,"cuisines":["mexican"],"techniques":[]}}
+{"Edge":{"ingredient_id":"cilantro","pairing_id":"lime","strength":4,"cuisines":["mexican"],"techniques":[]}}
+{"Edge":{"ingredient_id":"cilantro","pairing_id":"onion","strength":3,"cuisines":["mexican"],"techniques":[]}}
+{"Edge":{"ingredient_id":"cilantro","pairing_id":"salt","strength":5,"cuisines":["mexican"],"techniques":[]}}
+{"Edge":{"ingredient_id":"cilantro","pairing_id":"tomato","strength":2,"cuisines":["mexican"],"techniques":[]}}
+{"Edge":{"ingredient_id":"clove","pairing_id":"ginger","strength":3,"cuisines":["vietnamese"],"techniques":[]}}
+{"Edge":{"ingredient_id":"clove","pairing_id":"onion","strength":3,"cuisines":["vietnamese"],"techniques":[]}}
+{"Edge":{"ingredient_id":"clove","pairing_id":"rice-noodle","strength":5,"cuisines":["vietnamese"],"techniques":[]}}
+{"Edge":{"ingredient_id":"clove","pairing_id":"star-anise","strength":5,"cuisines":["vietnamese"],"techniques":[]}}
+{"Edge":{"ingredient_id":"coconut-milk","pairing_id":"curry-powder","strength":5,"cuisines":["thai"],"techniques":[]}}
+{"Edge":{"ingredient_id":"coconut-milk","pairing_id":"garlic","strength":2,"cuisines":["thai"],"techniques":[]}}
+{"Edge":{"ingredient_id":"coconut-milk","pairing_id":"ginger","strength":3,"cuisines":["thai"],"techniques":[]}}
+{"Edge":{"ingredient_id":"coconut-milk","pairing_id":"lime","strength":4,"cuisines":["thai"],"techniques":[]}}
+{"Edge":{"ingredient_id":"coconut-milk","pairing_id":"rice","strength":4,"cuisines":["thai"],"techniques":[]}}
+{"Edge":{"ingredient_id":"coconut-milk","pairing_id":"shrimp","strength":5,"cuisines":["thai"],"techniques":[]}}
+{"Edge":{"ingredient_id":"coriander","pairing_id":"cumin","strength":4,"cuisines":["indian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"coriander","pairing_id":"garlic","strength":2,"cuisines":["indian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"coriander","pairing_id":"ginger","strength":3,"cuisines":["indian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"coriander","pairing_id":"lime","strength":3,"cuisines":["indian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"coriander","pairing_id":"onion","strength":2,"cuisines":["indian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"coriander","pairing_id":"tomato","strength":2,"cuisines":["indian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"coriander","pairing_id":"yogurt","strength":4,"cuisines":["indian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"crushed-red-pepper-flake","pairing_id":"flank-steak","strength":5,"cuisines":["asian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"crushed-red-pepper-flake","pairing_id":"garlic","strength":2,"cuisines":["asian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"crushed-red-pepper-flake","pairing_id":"ginger","strength":3,"cuisines":["asian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"crushed-red-pepper-flake","pairing_id":"lime-juice","strength":5,"cuisines":["asian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"crushed-red-pepper-flake","pairing_id":"low-sodium-soy-sauce","strength":5,"cuisines":["asian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"crushed-red-pepper-flake","pairing_id":"sesame-oil","strength":5,"cuisines":["asian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"cucumber","pairing_id":"dill","strength":4,"cuisines":["mediterranean"],"techniques":[]}}
 {"Edge":{"ingredient_id":"cucumber","pairing_id":"feta","strength":4,"cuisines":["mediterranean"],"techniques":[]}}
-{"Edge":{"ingredient_id":"cucumber","pairing_id":"onion","strength":2,"cuisines":["mediterranean"],"techniques":[]}}
-{"Edge":{"ingredient_id":"cucumber","pairing_id":"parsley","strength":4,"cuisines":["mediterranean"],"techniques":[]}}
-{"Edge":{"ingredient_id":"cucumber","pairing_id":"tomato","strength":1,"cuisines":["mediterranean"],"techniques":[]}}
-{"Edge":{"ingredient_id":"cucumber","pairing_id":"yogurt","strength":4,"cuisines":["mediterranean"],"techniques":[]}}
-{"Edge":{"ingredient_id":"feta","pairing_id":"onion","strength":2,"cuisines":["mediterranean"],"techniques":[]}}
-{"Edge":{"ingredient_id":"feta","pairing_id":"parsley","strength":4,"cuisines":["mediterranean"],"techniques":[]}}
-{"Edge":{"ingredient_id":"feta","pairing_id":"tomato","strength":1,"cuisines":["mediterranean"],"techniques":[]}}
-{"Edge":{"ingredient_id":"feta","pairing_id":"yogurt","strength":4,"cuisines":["mediterranean"],"techniques":[]}}
-{"Edge":{"ingredient_id":"garlic","pairing_id":"lime","strength":3,"cuisines":["mexican"],"techniques":[]}}
-{"Edge":{"ingredient_id":"garlic","pairing_id":"onion","strength":2,"cuisines":["mexican"],"techniques":[]}}
-{"Edge":{"ingredient_id":"garlic","pairing_id":"tomato","strength":1,"cuisines":["mexican"],"techniques":[]}}
+{"Edge":{"ingredient_id":"cucumber","pairing_id":"garlic","strength":1,"cuisines":["mediterranean"],"techniques":[]}}
+{"Edge":{"ingredient_id":"cucumber","pairing_id":"lemon","strength":4,"cuisines":["mediterranean","middle-eastern"],"techniques":[]}}
+{"Edge":{"ingredient_id":"cucumber","pairing_id":"olive-oil","strength":3,"cuisines":["mediterranean","middle-eastern"],"techniques":[]}}
+{"Edge":{"ingredient_id":"cucumber","pairing_id":"onion","strength":1,"cuisines":["mediterranean"],"techniques":[]}}
+{"Edge":{"ingredient_id":"cucumber","pairing_id":"oregano","strength":3,"cuisines":["mediterranean"],"techniques":[]}}
+{"Edge":{"ingredient_id":"cucumber","pairing_id":"parsley","strength":4,"cuisines":["middle-eastern"],"techniques":[]}}
+{"Edge":{"ingredient_id":"cucumber","pairing_id":"tomato","strength":3,"cuisines":["mediterranean","middle-eastern"],"techniques":[]}}
+{"Edge":{"ingredient_id":"cucumber","pairing_id":"yogurt","strength":3,"cuisines":["mediterranean"],"techniques":[]}}
+{"Edge":{"ingredient_id":"cumin","pairing_id":"garlic","strength":2,"cuisines":["mexican","indian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"cumin","pairing_id":"ginger","strength":3,"cuisines":["indian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"cumin","pairing_id":"lime","strength":3,"cuisines":["mexican","indian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"cumin","pairing_id":"onion","strength":3,"cuisines":["mexican","indian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"cumin","pairing_id":"oregano","strength":3,"cuisines":["mexican"],"techniques":[]}}
+{"Edge":{"ingredient_id":"cumin","pairing_id":"tomato","strength":1,"cuisines":["indian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"cumin","pairing_id":"yogurt","strength":3,"cuisines":["indian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"curry-powder","pairing_id":"garlic","strength":2,"cuisines":["thai"],"techniques":[]}}
+{"Edge":{"ingredient_id":"curry-powder","pairing_id":"ginger","strength":3,"cuisines":["thai"],"techniques":[]}}
+{"Edge":{"ingredient_id":"curry-powder","pairing_id":"lime","strength":4,"cuisines":["thai"],"techniques":[]}}
+{"Edge":{"ingredient_id":"curry-powder","pairing_id":"rice","strength":4,"cuisines":["thai"],"techniques":[]}}
+{"Edge":{"ingredient_id":"curry-powder","pairing_id":"shrimp","strength":5,"cuisines":["thai"],"techniques":[]}}
+{"Edge":{"ingredient_id":"dill","pairing_id":"garlic","strength":2,"cuisines":["mediterranean"],"techniques":[]}}
+{"Edge":{"ingredient_id":"dill","pairing_id":"lemon","strength":4,"cuisines":["mediterranean"],"techniques":[]}}
+{"Edge":{"ingredient_id":"dill","pairing_id":"olive-oil","strength":3,"cuisines":["mediterranean"],"techniques":[]}}
+{"Edge":{"ingredient_id":"dill","pairing_id":"yogurt","strength":5,"cuisines":["mediterranean"],"techniques":[]}}
+{"Edge":{"ingredient_id":"egg","pairing_id":"garlic","strength":2,"cuisines":["chinese"],"techniques":[]}}
+{"Edge":{"ingredient_id":"egg","pairing_id":"pea","strength":5,"cuisines":["chinese"],"techniques":[]}}
+{"Edge":{"ingredient_id":"egg","pairing_id":"rice","strength":4,"cuisines":["chinese"],"techniques":[]}}
+{"Edge":{"ingredient_id":"egg","pairing_id":"scallion","strength":5,"cuisines":["chinese"],"techniques":[]}}
+{"Edge":{"ingredient_id":"egg","pairing_id":"soy-sauce","strength":4,"cuisines":["chinese"],"techniques":[]}}
+{"Edge":{"ingredient_id":"eggplant","pairing_id":"garlic","strength":2,"cuisines":["mediterranean"],"techniques":[]}}
+{"Edge":{"ingredient_id":"eggplant","pairing_id":"olive-oil","strength":3,"cuisines":["mediterranean"],"techniques":[]}}
+{"Edge":{"ingredient_id":"eggplant","pairing_id":"thyme","strength":5,"cuisines":["mediterranean"],"techniques":[]}}
+{"Edge":{"ingredient_id":"eggplant","pairing_id":"zucchini","strength":5,"cuisines":["mediterranean"],"techniques":[]}}
+{"Edge":{"ingredient_id":"feta","pairing_id":"lemon","strength":4,"cuisines":["mediterranean"],"techniques":[]}}
+{"Edge":{"ingredient_id":"feta","pairing_id":"olive-oil","strength":3,"cuisines":["mediterranean"],"techniques":[]}}
+{"Edge":{"ingredient_id":"feta","pairing_id":"onion","strength":3,"cuisines":["mediterranean"],"techniques":[]}}
+{"Edge":{"ingredient_id":"feta","pairing_id":"oregano","strength":5,"cuisines":["mediterranean"],"techniques":[]}}
+{"Edge":{"ingredient_id":"feta","pairing_id":"tomato","strength":3,"cuisines":["mediterranean"],"techniques":[]}}
+{"Edge":{"ingredient_id":"flank-steak","pairing_id":"garlic","strength":2,"cuisines":["asian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"flank-steak","pairing_id":"ginger","strength":3,"cuisines":["asian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"flank-steak","pairing_id":"lime-juice","strength":5,"cuisines":["asian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"flank-steak","pairing_id":"low-sodium-soy-sauce","strength":5,"cuisines":["asian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"flank-steak","pairing_id":"sesame-oil","strength":5,"cuisines":["asian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"garlic","pairing_id":"ginger","strength":1,"cuisines":["indian","chinese","japanese","thai","asian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"garlic","pairing_id":"lemon","strength":1,"cuisines":["mediterranean","middle-eastern"],"techniques":[]}}
+{"Edge":{"ingredient_id":"garlic","pairing_id":"lentil","strength":2,"cuisines":["mediterranean"],"techniques":[]}}
+{"Edge":{"ingredient_id":"garlic","pairing_id":"lime","strength":1,"cuisines":["mexican","indian","thai"],"techniques":[]}}
+{"Edge":{"ingredient_id":"garlic","pairing_id":"lime-juice","strength":2,"cuisines":["asian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"garlic","pairing_id":"low-sodium-soy-sauce","strength":2,"cuisines":["asian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"garlic","pairing_id":"olive-oil","strength":1,"cuisines":["italian","mediterranean","middle-eastern"],"techniques":[]}}
+{"Edge":{"ingredient_id":"garlic","pairing_id":"onion","strength":1,"cuisines":["mexican","indian","mediterranean"],"techniques":[]}}
+{"Edge":{"ingredient_id":"garlic","pairing_id":"oregano","strength":1,"cuisines":["mexican"],"techniques":[]}}
+{"Edge":{"ingredient_id":"garlic","pairing_id":"parmesan","strength":2,"cuisines":["italian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"garlic","pairing_id":"pasta","strength":2,"cuisines":["italian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"garlic","pairing_id":"pea","strength":2,"cuisines":["chinese"],"techniques":[]}}
+{"Edge":{"ingredient_id":"garlic","pairing_id":"pine-nut","strength":2,"cuisines":["italian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"garlic","pairing_id":"rice","strength":2,"cuisines":["chinese","japanese","thai"],"techniques":[]}}
+{"Edge":{"ingredient_id":"garlic","pairing_id":"scallion","strength":1,"cuisines":["chinese"],"techniques":[]}}
+{"Edge":{"ingredient_id":"garlic","pairing_id":"sesame-oil","strength":2,"cuisines":["chinese","asian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"garlic","pairing_id":"shrimp","strength":2,"cuisines":["thai"],"techniques":[]}}
+{"Edge":{"ingredient_id":"garlic","pairing_id":"soy-sauce","strength":2,"cuisines":["chinese","japanese"],"techniques":[]}}
+{"Edge":{"ingredient_id":"garlic","pairing_id":"spaghetti","strength":2,"cuisines":["italian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"garlic","pairing_id":"tahini","strength":2,"cuisines":["middle-eastern"],"techniques":[]}}
+{"Edge":{"ingredient_id":"garlic","pairing_id":"thyme","strength":2,"cuisines":["mediterranean"],"techniques":[]}}
+{"Edge":{"ingredient_id":"garlic","pairing_id":"tomato","strength":1,"cuisines":["italian","indian","mexican"],"techniques":[]}}
+{"Edge":{"ingredient_id":"garlic","pairing_id":"yogurt","strength":2,"cuisines":["indian","mediterranean"],"techniques":[]}}
+{"Edge":{"ingredient_id":"garlic","pairing_id":"zucchini","strength":2,"cuisines":["mediterranean"],"techniques":[]}}
+{"Edge":{"ingredient_id":"ginger","pairing_id":"lime","strength":1,"cuisines":["indian","thai"],"techniques":[]}}
+{"Edge":{"ingredient_id":"ginger","pairing_id":"lime-juice","strength":3,"cuisines":["asian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"ginger","pairing_id":"low-sodium-soy-sauce","strength":3,"cuisines":["asian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"ginger","pairing_id":"onion","strength":1,"cuisines":["indian","vietnamese"],"techniques":[]}}
+{"Edge":{"ingredient_id":"ginger","pairing_id":"rice","strength":3,"cuisines":["chinese","japanese","thai"],"techniques":[]}}
+{"Edge":{"ingredient_id":"ginger","pairing_id":"rice-noodle","strength":3,"cuisines":["vietnamese"],"techniques":[]}}
+{"Edge":{"ingredient_id":"ginger","pairing_id":"sesame-oil","strength":3,"cuisines":["chinese","asian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"ginger","pairing_id":"shrimp","strength":3,"cuisines":["thai"],"techniques":[]}}
+{"Edge":{"ingredient_id":"ginger","pairing_id":"soy-sauce","strength":3,"cuisines":["chinese","japanese"],"techniques":[]}}
+{"Edge":{"ingredient_id":"ginger","pairing_id":"star-anise","strength":3,"cuisines":["vietnamese"],"techniques":[]}}
+{"Edge":{"ingredient_id":"ginger","pairing_id":"tomato","strength":1,"cuisines":["indian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"ginger","pairing_id":"yogurt","strength":2,"cuisines":["indian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"lemon","pairing_id":"olive-oil","strength":3,"cuisines":["mediterranean","middle-eastern"],"techniques":[]}}
+{"Edge":{"ingredient_id":"lemon","pairing_id":"onion","strength":1,"cuisines":["mediterranean"],"techniques":[]}}
+{"Edge":{"ingredient_id":"lemon","pairing_id":"oregano","strength":3,"cuisines":["mediterranean"],"techniques":[]}}
+{"Edge":{"ingredient_id":"lemon","pairing_id":"parsley","strength":4,"cuisines":["middle-eastern"],"techniques":[]}}
+{"Edge":{"ingredient_id":"lemon","pairing_id":"tahini","strength":4,"cuisines":["middle-eastern"],"techniques":[]}}
+{"Edge":{"ingredient_id":"lemon","pairing_id":"tomato","strength":2,"cuisines":["mediterranean","middle-eastern"],"techniques":[]}}
+{"Edge":{"ingredient_id":"lemon","pairing_id":"yogurt","strength":3,"cuisines":["mediterranean"],"techniques":[]}}
+{"Edge":{"ingredient_id":"lentil","pairing_id":"olive-oil","strength":3,"cuisines":["mediterranean"],"techniques":[]}}
+{"Edge":{"ingredient_id":"lentil","pairing_id":"onion","strength":3,"cuisines":["mediterranean"],"techniques":[]}}
 {"Edge":{"ingredient_id":"lime","pairing_id":"onion","strength":2,"cuisines":["mexican"],"techniques":[]}}
+{"Edge":{"ingredient_id":"lime","pairing_id":"oregano","strength":3,"cuisines":["mexican"],"techniques":[]}}
+{"Edge":{"ingredient_id":"lime","pairing_id":"rice","strength":1,"cuisines":["thai"],"techniques":[]}}
+{"Edge":{"ingredient_id":"lime","pairing_id":"salt","strength":4,"cuisines":["mexican"],"techniques":[]}}
+{"Edge":{"ingredient_id":"lime","pairing_id":"shrimp","strength":4,"cuisines":["thai"],"techniques":[]}}
 {"Edge":{"ingredient_id":"lime","pairing_id":"tomato","strength":1,"cuisines":["mexican"],"techniques":[]}}
-{"Edge":{"ingredient_id":"onion","pairing_id":"parsley","strength":2,"cuisines":["mediterranean"],"techniques":[]}}
-{"Edge":{"ingredient_id":"onion","pairing_id":"tomato","strength":1,"cuisines":["mediterranean","mexican"],"techniques":[]}}
-{"Edge":{"ingredient_id":"onion","pairing_id":"yogurt","strength":2,"cuisines":["mediterranean"],"techniques":[]}}
-{"Edge":{"ingredient_id":"parsley","pairing_id":"tomato","strength":1,"cuisines":["mediterranean"],"techniques":[]}}
-{"Edge":{"ingredient_id":"parsley","pairing_id":"yogurt","strength":4,"cuisines":["mediterranean"],"techniques":[]}}
-{"Edge":{"ingredient_id":"rice","pairing_id":"tomato","strength":1,"cuisines":["mexican"],"techniques":[]}}
-{"Edge":{"ingredient_id":"tomato","pairing_id":"yogurt","strength":1,"cuisines":["mediterranean"],"techniques":[]}}
+{"Edge":{"ingredient_id":"lime","pairing_id":"yogurt","strength":3,"cuisines":["indian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"lime-juice","pairing_id":"low-sodium-soy-sauce","strength":5,"cuisines":["asian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"lime-juice","pairing_id":"sesame-oil","strength":5,"cuisines":["asian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"low-sodium-soy-sauce","pairing_id":"sesame-oil","strength":5,"cuisines":["asian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"miso","pairing_id":"scallion","strength":5,"cuisines":["japanese"],"techniques":[]}}
+{"Edge":{"ingredient_id":"miso","pairing_id":"seaweed","strength":5,"cuisines":["japanese"],"techniques":[]}}
+{"Edge":{"ingredient_id":"miso","pairing_id":"tofu","strength":5,"cuisines":["japanese"],"techniques":[]}}
+{"Edge":{"ingredient_id":"mozzarella","pairing_id":"olive-oil","strength":3,"cuisines":["italian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"mozzarella","pairing_id":"tomato","strength":3,"cuisines":["italian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"olive-oil","pairing_id":"onion","strength":1,"cuisines":["mediterranean"],"techniques":[]}}
+{"Edge":{"ingredient_id":"olive-oil","pairing_id":"oregano","strength":1,"cuisines":["mediterranean"],"techniques":[]}}
+{"Edge":{"ingredient_id":"olive-oil","pairing_id":"parmesan","strength":3,"cuisines":["italian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"olive-oil","pairing_id":"parsley","strength":3,"cuisines":["middle-eastern"],"techniques":[]}}
+{"Edge":{"ingredient_id":"olive-oil","pairing_id":"pasta","strength":3,"cuisines":["italian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"olive-oil","pairing_id":"pine-nut","strength":3,"cuisines":["italian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"olive-oil","pairing_id":"spaghetti","strength":3,"cuisines":["italian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"olive-oil","pairing_id":"tahini","strength":3,"cuisines":["middle-eastern"],"techniques":[]}}
+{"Edge":{"ingredient_id":"olive-oil","pairing_id":"thyme","strength":3,"cuisines":["mediterranean"],"techniques":[]}}
+{"Edge":{"ingredient_id":"olive-oil","pairing_id":"tomato","strength":2,"cuisines":["italian","mediterranean","middle-eastern"],"techniques":[]}}
+{"Edge":{"ingredient_id":"olive-oil","pairing_id":"yogurt","strength":1,"cuisines":["mediterranean"],"techniques":[]}}
+{"Edge":{"ingredient_id":"olive-oil","pairing_id":"zucchini","strength":3,"cuisines":["mediterranean"],"techniques":[]}}
+{"Edge":{"ingredient_id":"onion","pairing_id":"oregano","strength":3,"cuisines":["mexican","mediterranean"],"techniques":[]}}
+{"Edge":{"ingredient_id":"onion","pairing_id":"rice-noodle","strength":3,"cuisines":["vietnamese"],"techniques":[]}}
+{"Edge":{"ingredient_id":"onion","pairing_id":"salt","strength":3,"cuisines":["mexican"],"techniques":[]}}
+{"Edge":{"ingredient_id":"onion","pairing_id":"star-anise","strength":3,"cuisines":["vietnamese"],"techniques":[]}}
+{"Edge":{"ingredient_id":"onion","pairing_id":"tomato","strength":2,"cuisines":["indian","mediterranean","mexican"],"techniques":[]}}
+{"Edge":{"ingredient_id":"oregano","pairing_id":"tomato","strength":2,"cuisines":["mediterranean"],"techniques":[]}}
+{"Edge":{"ingredient_id":"parmesan","pairing_id":"pasta","strength":5,"cuisines":["italian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"parmesan","pairing_id":"pine-nut","strength":5,"cuisines":["italian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"parmesan","pairing_id":"spaghetti","strength":5,"cuisines":["italian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"parmesan","pairing_id":"tomato","strength":2,"cuisines":["italian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"parsley","pairing_id":"tomato","strength":3,"cuisines":["middle-eastern"],"techniques":[]}}
+{"Edge":{"ingredient_id":"pasta","pairing_id":"pine-nut","strength":5,"cuisines":["italian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"pea","pairing_id":"rice","strength":4,"cuisines":["chinese"],"techniques":[]}}
+{"Edge":{"ingredient_id":"pea","pairing_id":"scallion","strength":5,"cuisines":["chinese"],"techniques":[]}}
+{"Edge":{"ingredient_id":"pea","pairing_id":"soy-sauce","strength":4,"cuisines":["chinese"],"techniques":[]}}
+{"Edge":{"ingredient_id":"rice","pairing_id":"scallion","strength":3,"cuisines":["chinese"],"techniques":[]}}
+{"Edge":{"ingredient_id":"rice","pairing_id":"sesame-oil","strength":3,"cuisines":["chinese"],"techniques":[]}}
+{"Edge":{"ingredient_id":"rice","pairing_id":"shrimp","strength":4,"cuisines":["thai"],"techniques":[]}}
+{"Edge":{"ingredient_id":"rice","pairing_id":"soy-sauce","strength":4,"cuisines":["chinese","japanese"],"techniques":[]}}
+{"Edge":{"ingredient_id":"rice-noodle","pairing_id":"star-anise","strength":5,"cuisines":["vietnamese"],"techniques":[]}}
+{"Edge":{"ingredient_id":"scallion","pairing_id":"seaweed","strength":5,"cuisines":["japanese"],"techniques":[]}}
+{"Edge":{"ingredient_id":"scallion","pairing_id":"soy-sauce","strength":3,"cuisines":["chinese"],"techniques":[]}}
+{"Edge":{"ingredient_id":"scallion","pairing_id":"tofu","strength":5,"cuisines":["japanese"],"techniques":[]}}
+{"Edge":{"ingredient_id":"seaweed","pairing_id":"tofu","strength":5,"cuisines":["japanese"],"techniques":[]}}
+{"Edge":{"ingredient_id":"sesame-oil","pairing_id":"soy-sauce","strength":3,"cuisines":["chinese"],"techniques":[]}}
+{"Edge":{"ingredient_id":"spaghetti","pairing_id":"tomato","strength":3,"cuisines":["italian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"thyme","pairing_id":"zucchini","strength":5,"cuisines":["mediterranean"],"techniques":[]}}
