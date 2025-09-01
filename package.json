@@ -1,0 +1,28 @@
+{
+  "devDependencies": {
+    "@types/node": "^24.3.0",
+    "tsx": "^4.20.5",
+    "typescript": "^5.9.2"
+  },
+  "dependencies": {
+    "cheerio": "^1.1.2",
+    "dotenv": "^17.2.1",
+    "p-limit": "^7.1.1",
+    "papaparse": "^5.5.3",
+    "qs": "^6.14.0",
+    "undici": "^7.15.0"
+  },
+  "scripts": {
+    "import:recipes": "tsx scripts/ingest/recipes.ts",
+    "scrape": "tsx scripts/scrape/run.ts",
+    "dedupe": "tsx scripts/scrape/dedupe_vocab.ts",
+    "emit:jsonl": "tsx scripts/scrape/to_jsonl.ts",
+    "manifest": "tsx scripts/scrape/write_manifest.ts",
+    "report": "tsx scripts/report/top_pairs.ts",
+    "pipeline": "pnpm -s scrape && pnpm -s dedupe && pnpm -s emit:jsonl && pnpm -s export:dropdown && pnpm -s manifest && pnpm -s report",
+    "export:dropdown": "tsx scripts/scrape/export_dropdown.ts",
+    "suggest": "node scripts/suggest.mjs",
+    "shop": "node scripts/shoplist.mjs",
+    "report:serve": "python3 -m http.server 5500 --directory data/report"
+  }
+}

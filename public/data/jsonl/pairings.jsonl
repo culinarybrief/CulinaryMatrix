@@ -1,0 +1,61 @@
+{"Pairing":{"id":"avocado","name":"avocado","type":"other","nutrition_tags":[]}}
+{"Pairing":{"id":"basil","name":"basil","type":"herb","nutrition_tags":["plant-forward"]}}
+{"Pairing":{"id":"beef","name":"beef","type":"other","nutrition_tags":[]}}
+{"Pairing":{"id":"beef-broth","name":"beef broth","type":"other","nutrition_tags":[]}}
+{"Pairing":{"id":"beef-chuck","name":"beef chuck","type":"other","nutrition_tags":[]}}
+{"Pairing":{"id":"bell-pepper","name":"bell pepper","type":"other","nutrition_tags":[]}}
+{"Pairing":{"id":"black-pepper","name":"black pepper","type":"spice","nutrition_tags":["plant-forward"]}}
+{"Pairing":{"id":"broccoli","name":"broccoli","type":"other","nutrition_tags":[]}}
+{"Pairing":{"id":"brown-sugar","name":"brown sugar","type":"other","nutrition_tags":[]}}
+{"Pairing":{"id":"bulgur","name":"bulgur","type":"other","nutrition_tags":[]}}
+{"Pairing":{"id":"carrot","name":"carrot","type":"aromatic","nutrition_tags":[]}}
+{"Pairing":{"id":"celery","name":"celery","type":"aromatic","nutrition_tags":[]}}
+{"Pairing":{"id":"chicken","name":"chicken","type":"other","nutrition_tags":[]}}
+{"Pairing":{"id":"chickpea","name":"chickpea","type":"other","nutrition_tags":[]}}
+{"Pairing":{"id":"chili-powder","name":"chili powder","type":"spice","nutrition_tags":["plant-forward"]}}
+{"Pairing":{"id":"cilantro","name":"cilantro","type":"herb","nutrition_tags":["plant-forward"]}}
+{"Pairing":{"id":"clove","name":"clove","type":"spice","nutrition_tags":["plant-forward"]}}
+{"Pairing":{"id":"coconut-milk","name":"coconut milk","type":"other","nutrition_tags":[]}}
+{"Pairing":{"id":"coriander","name":"coriander","type":"spice","nutrition_tags":["plant-forward"]}}
+{"Pairing":{"id":"crushed-red-pepper-flake","name":"crushed red pepper flake","type":"other","nutrition_tags":[]}}
+{"Pairing":{"id":"cucumber","name":"cucumber","type":"other","nutrition_tags":[]}}
+{"Pairing":{"id":"cumin","name":"cumin","type":"spice","nutrition_tags":["plant-forward"]}}
+{"Pairing":{"id":"curry-powder","name":"curry powder","type":"other","nutrition_tags":[]}}
+{"Pairing":{"id":"dill","name":"dill","type":"herb","nutrition_tags":["plant-forward"]}}
+{"Pairing":{"id":"egg","name":"egg","type":"other","nutrition_tags":[]}}
+{"Pairing":{"id":"eggplant","name":"eggplant","type":"other","nutrition_tags":[]}}
+{"Pairing":{"id":"feta","name":"feta","type":"cheese","nutrition_tags":[]}}
+{"Pairing":{"id":"flank-steak","name":"flank steak","type":"other","nutrition_tags":[]}}
+{"Pairing":{"id":"garlic","name":"garlic","type":"aromatic","nutrition_tags":[]}}
+{"Pairing":{"id":"ginger","name":"ginger","type":"aromatic","nutrition_tags":[]}}
+{"Pairing":{"id":"lemon","name":"lemon","type":"acid","nutrition_tags":["plant-forward"]}}
+{"Pairing":{"id":"lentil","name":"lentil","type":"other","nutrition_tags":[]}}
+{"Pairing":{"id":"lime","name":"lime","type":"acid","nutrition_tags":["plant-forward"]}}
+{"Pairing":{"id":"lime-juice","name":"lime juice","type":"acid","nutrition_tags":["plant-forward"]}}
+{"Pairing":{"id":"low-sodium-soy-sauce","name":"low-sodium soy sauce","type":"other","nutrition_tags":[]}}
+{"Pairing":{"id":"miso","name":"miso","type":"other","nutrition_tags":[]}}
+{"Pairing":{"id":"mozzarella","name":"mozzarella","type":"cheese","nutrition_tags":[]}}
+{"Pairing":{"id":"olive-oil","name":"olive oil","type":"fat","nutrition_tags":[]}}
+{"Pairing":{"id":"onion","name":"onion","type":"aromatic","nutrition_tags":[]}}
+{"Pairing":{"id":"oregano","name":"oregano","type":"herb","nutrition_tags":["plant-forward"]}}
+{"Pairing":{"id":"parmesan","name":"parmesan","type":"cheese","nutrition_tags":[]}}
+{"Pairing":{"id":"parsley","name":"parsley","type":"herb","nutrition_tags":["plant-forward"]}}
+{"Pairing":{"id":"pasta","name":"pasta","type":"other","nutrition_tags":[]}}
+{"Pairing":{"id":"pea","name":"pea","type":"other","nutrition_tags":[]}}
+{"Pairing":{"id":"pine-nut","name":"pine nut","type":"other","nutrition_tags":[]}}
+{"Pairing":{"id":"rice","name":"rice","type":"other","nutrition_tags":[]}}
+{"Pairing":{"id":"rice-noodle","name":"rice noodle","type":"other","nutrition_tags":[]}}
+{"Pairing":{"id":"salt","name":"salt","type":"other","nutrition_tags":[]}}
+{"Pairing":{"id":"scallion","name":"scallion","type":"aromatic","nutrition_tags":[]}}
+{"Pairing":{"id":"seaweed","name":"seaweed","type":"other","nutrition_tags":[]}}
+{"Pairing":{"id":"sesame-oil","name":"sesame oil","type":"fat","nutrition_tags":[]}}
+{"Pairing":{"id":"shrimp","name":"shrimp","type":"other","nutrition_tags":[]}}
+{"Pairing":{"id":"soy-sauce","name":"soy sauce","type":"sauce","nutrition_tags":[]}}
+{"Pairing":{"id":"spaghetti","name":"spaghetti","type":"other","nutrition_tags":[]}}
+{"Pairing":{"id":"star-anise","name":"star anise","type":"other","nutrition_tags":[]}}
+{"Pairing":{"id":"tahini","name":"tahini","type":"sauce","nutrition_tags":[]}}
+{"Pairing":{"id":"thyme","name":"thyme","type":"herb","nutrition_tags":["plant-forward"]}}
+{"Pairing":{"id":"tofu","name":"tofu","type":"other","nutrition_tags":[]}}
+{"Pairing":{"id":"tomato","name":"tomato","type":"other","nutrition_tags":[]}}
+{"Pairing":{"id":"yogurt","name":"yogurt","type":"fat","nutrition_tags":[]}}
+{"Pairing":{"id":"zucchini","name":"zucchini","type":"other","nutrition_tags":[]}}

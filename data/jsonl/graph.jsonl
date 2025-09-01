@@ -25,8 +25,7 @@
 {"Ingredient":{"id":"coconut-milk","name":"Coconut Milk","category":"other","default_cuisine":"thai"}}
 {"Ingredient":{"id":"coriander","name":"Coriander","category":"other","default_cuisine":"indian"}}
 {"Ingredient":{"id":"cream","name":"Cream","category":"other"}}
-{"Ingredient":{"id":"crushed-red-pepper-flake","name":"Crushed Red Pepper Flake","category":"other","default_cuisine":"asian","notes":"Auto-added from corpus"}}
-{"Ingredient":{"id":"crushed-red-pepper-flakes","name":"Crushed Red Pepper Flakes","category":"other"}}
+{"Ingredient":{"id":"crushed-red-pepper-flakes","name":"Crushed Red Pepper Flakes","category":"other","default_cuisine":"asian"}}
 {"Ingredient":{"id":"cucumber","name":"Cucumber","category":"veg","default_cuisine":"mediterranean"}}
 {"Ingredient":{"id":"cumin","name":"Cumin","category":"other","default_cuisine":"indian"}}
 {"Ingredient":{"id":"curry-powder","name":"Curry Powder","category":"other","default_cuisine":"thai"}}
@@ -59,17 +58,14 @@
 {"Ingredient":{"id":"parmesan","name":"Parmesan","category":"other","default_cuisine":"italian"}}
 {"Ingredient":{"id":"parsley","name":"Parsley","category":"veg","default_cuisine":"middle-eastern"}}
 {"Ingredient":{"id":"pasta","name":"Pasta","category":"carb","default_cuisine":"italian"}}
-{"Ingredient":{"id":"pea","name":"Pea","category":"other","default_cuisine":"chinese","notes":"Auto-added from corpus"}}
-{"Ingredient":{"id":"peas","name":"Peas","category":"legume"}}
-{"Ingredient":{"id":"pine-nut","name":"Pine Nut","category":"other","default_cuisine":"italian","notes":"Auto-added from corpus"}}
-{"Ingredient":{"id":"pine-nuts","name":"Pine Nuts","category":"other"}}
+{"Ingredient":{"id":"peas","name":"Peas","category":"legume","default_cuisine":"chinese"}}
+{"Ingredient":{"id":"pine-nuts","name":"Pine Nuts","category":"other","default_cuisine":"italian"}}
 {"Ingredient":{"id":"pork","name":"Pork","category":"protein"}}
 {"Ingredient":{"id":"potato","name":"Potato","category":"carb"}}
 {"Ingredient":{"id":"quinoa","name":"Quinoa","category":"carb"}}
 {"Ingredient":{"id":"red-wine-vinegar","name":"Red wine vinegar","category":"other"}}
 {"Ingredient":{"id":"rice","name":"Rice","category":"carb","default_cuisine":"chinese"}}
-{"Ingredient":{"id":"rice-noodle","name":"Rice Noodle","category":"other","default_cuisine":"vietnamese","notes":"Auto-added from corpus"}}
-{"Ingredient":{"id":"rice-noodles","name":"Rice Noodles","category":"other"}}
+{"Ingredient":{"id":"rice-noodles","name":"Rice Noodles","category":"other","default_cuisine":"vietnamese"}}
 {"Ingredient":{"id":"rosemary","name":"Rosemary","category":"other"}}
 {"Ingredient":{"id":"salmon","name":"Salmon","category":"protein"}}
 {"Ingredient":{"id":"salt","name":"Salt","category":"other","default_cuisine":"mexican"}}
@@ -109,7 +105,7 @@
 {"Pairing":{"id":"clove","name":"clove","type":"spice","nutrition_tags":["plant-forward"]}}
 {"Pairing":{"id":"coconut-milk","name":"coconut milk","type":"other","nutrition_tags":[]}}
 {"Pairing":{"id":"coriander","name":"coriander","type":"spice","nutrition_tags":["plant-forward"]}}
-{"Pairing":{"id":"crushed-red-pepper-flake","name":"crushed red pepper flake","type":"other","nutrition_tags":[]}}
+{"Pairing":{"id":"crushed-red-pepper-flakes","name":"crushed red pepper flakes","type":"other","nutrition_tags":[]}}
 {"Pairing":{"id":"cucumber","name":"cucumber","type":"other","nutrition_tags":[]}}
 {"Pairing":{"id":"cumin","name":"cumin","type":"spice","nutrition_tags":["plant-forward"]}}
 {"Pairing":{"id":"curry-powder","name":"curry powder","type":"other","nutrition_tags":[]}}
@@ -133,10 +129,10 @@
 {"Pairing":{"id":"parmesan","name":"parmesan","type":"cheese","nutrition_tags":[]}}
 {"Pairing":{"id":"parsley","name":"parsley","type":"herb","nutrition_tags":["plant-forward"]}}
 {"Pairing":{"id":"pasta","name":"pasta","type":"other","nutrition_tags":[]}}
-{"Pairing":{"id":"pea","name":"pea","type":"other","nutrition_tags":[]}}
-{"Pairing":{"id":"pine-nut","name":"pine nut","type":"other","nutrition_tags":[]}}
+{"Pairing":{"id":"peas","name":"peas","type":"other","nutrition_tags":[]}}
+{"Pairing":{"id":"pine-nuts","name":"pine nuts","type":"other","nutrition_tags":[]}}
 {"Pairing":{"id":"rice","name":"rice","type":"other","nutrition_tags":[]}}
-{"Pairing":{"id":"rice-noodle","name":"rice noodle","type":"other","nutrition_tags":[]}}
+{"Pairing":{"id":"rice-noodles","name":"rice noodles","type":"other","nutrition_tags":[]}}
 {"Pairing":{"id":"salt","name":"salt","type":"other","nutrition_tags":[]}}
 {"Pairing":{"id":"scallion","name":"scallion","type":"aromatic","nutrition_tags":[]}}
 {"Pairing":{"id":"seaweed","name":"seaweed","type":"other","nutrition_tags":[]}}
@@ -160,13 +156,13 @@
 {"Edge":{"ingredient_id":"basil","pairing_id":"olive-oil","strength":3,"cuisines":["italian"],"techniques":[]}}
 {"Edge":{"ingredient_id":"basil","pairing_id":"parmesan","strength":4,"cuisines":["italian"],"techniques":[]}}
 {"Edge":{"ingredient_id":"basil","pairing_id":"pasta","strength":4,"cuisines":["italian"],"techniques":[]}}
-{"Edge":{"ingredient_id":"basil","pairing_id":"pine-nut","strength":4,"cuisines":["italian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"basil","pairing_id":"pine-nuts","strength":4,"cuisines":["italian"],"techniques":[]}}
 {"Edge":{"ingredient_id":"basil","pairing_id":"spaghetti","strength":4,"cuisines":["italian"],"techniques":[]}}
 {"Edge":{"ingredient_id":"basil","pairing_id":"tomato","strength":3,"cuisines":["italian"],"techniques":[]}}
 {"Edge":{"ingredient_id":"beef","pairing_id":"clove","strength":5,"cuisines":["vietnamese"],"techniques":[]}}
 {"Edge":{"ingredient_id":"beef","pairing_id":"ginger","strength":3,"cuisines":["vietnamese"],"techniques":[]}}
 {"Edge":{"ingredient_id":"beef","pairing_id":"onion","strength":3,"cuisines":["vietnamese"],"techniques":[]}}
-{"Edge":{"ingredient_id":"beef","pairing_id":"rice-noodle","strength":5,"cuisines":["vietnamese"],"techniques":[]}}
+{"Edge":{"ingredient_id":"beef","pairing_id":"rice-noodles","strength":5,"cuisines":["vietnamese"],"techniques":[]}}
 {"Edge":{"ingredient_id":"beef","pairing_id":"star-anise","strength":5,"cuisines":["vietnamese"],"techniques":[]}}
 {"Edge":{"ingredient_id":"beef-broth","pairing_id":"beef-chuck","strength":5,"cuisines":["mexican"],"techniques":[]}}
 {"Edge":{"ingredient_id":"beef-broth","pairing_id":"chili-powder","strength":5,"cuisines":["mexican"],"techniques":[]}}
@@ -187,7 +183,7 @@
 {"Edge":{"ingredient_id":"bell-pepper","pairing_id":"thyme","strength":5,"cuisines":["mediterranean"],"techniques":[]}}
 {"Edge":{"ingredient_id":"bell-pepper","pairing_id":"zucchini","strength":5,"cuisines":["mediterranean"],"techniques":[]}}
 {"Edge":{"ingredient_id":"black-pepper","pairing_id":"brown-sugar","strength":5,"cuisines":["asian"],"techniques":[]}}
-{"Edge":{"ingredient_id":"black-pepper","pairing_id":"crushed-red-pepper-flake","strength":5,"cuisines":["asian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"black-pepper","pairing_id":"crushed-red-pepper-flakes","strength":5,"cuisines":["asian"],"techniques":[]}}
 {"Edge":{"ingredient_id":"black-pepper","pairing_id":"flank-steak","strength":5,"cuisines":["asian"],"techniques":[]}}
 {"Edge":{"ingredient_id":"black-pepper","pairing_id":"garlic","strength":2,"cuisines":["asian"],"techniques":[]}}
 {"Edge":{"ingredient_id":"black-pepper","pairing_id":"ginger","strength":3,"cuisines":["asian"],"techniques":[]}}
@@ -199,7 +195,7 @@
 {"Edge":{"ingredient_id":"broccoli","pairing_id":"rice","strength":4,"cuisines":["chinese"],"techniques":[]}}
 {"Edge":{"ingredient_id":"broccoli","pairing_id":"sesame-oil","strength":5,"cuisines":["chinese"],"techniques":[]}}
 {"Edge":{"ingredient_id":"broccoli","pairing_id":"soy-sauce","strength":4,"cuisines":["chinese"],"techniques":[]}}
-{"Edge":{"ingredient_id":"brown-sugar","pairing_id":"crushed-red-pepper-flake","strength":5,"cuisines":["asian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"brown-sugar","pairing_id":"crushed-red-pepper-flakes","strength":5,"cuisines":["asian"],"techniques":[]}}
 {"Edge":{"ingredient_id":"brown-sugar","pairing_id":"flank-steak","strength":5,"cuisines":["asian"],"techniques":[]}}
 {"Edge":{"ingredient_id":"brown-sugar","pairing_id":"garlic","strength":2,"cuisines":["asian"],"techniques":[]}}
 {"Edge":{"ingredient_id":"brown-sugar","pairing_id":"ginger","strength":3,"cuisines":["asian"],"techniques":[]}}
@@ -251,7 +247,7 @@
 {"Edge":{"ingredient_id":"cilantro","pairing_id":"tomato","strength":2,"cuisines":["mexican"],"techniques":[]}}
 {"Edge":{"ingredient_id":"clove","pairing_id":"ginger","strength":3,"cuisines":["vietnamese"],"techniques":[]}}
 {"Edge":{"ingredient_id":"clove","pairing_id":"onion","strength":3,"cuisines":["vietnamese"],"techniques":[]}}
-{"Edge":{"ingredient_id":"clove","pairing_id":"rice-noodle","strength":5,"cuisines":["vietnamese"],"techniques":[]}}
+{"Edge":{"ingredient_id":"clove","pairing_id":"rice-noodles","strength":5,"cuisines":["vietnamese"],"techniques":[]}}
 {"Edge":{"ingredient_id":"clove","pairing_id":"star-anise","strength":5,"cuisines":["vietnamese"],"techniques":[]}}
 {"Edge":{"ingredient_id":"coconut-milk","pairing_id":"curry-powder","strength":5,"cuisines":["thai"],"techniques":[]}}
 {"Edge":{"ingredient_id":"coconut-milk","pairing_id":"garlic","strength":2,"cuisines":["thai"],"techniques":[]}}
@@ -266,12 +262,12 @@
 {"Edge":{"ingredient_id":"coriander","pairing_id":"onion","strength":2,"cuisines":["indian"],"techniques":[]}}
 {"Edge":{"ingredient_id":"coriander","pairing_id":"tomato","strength":2,"cuisines":["indian"],"techniques":[]}}
 {"Edge":{"ingredient_id":"coriander","pairing_id":"yogurt","strength":4,"cuisines":["indian"],"techniques":[]}}
-{"Edge":{"ingredient_id":"crushed-red-pepper-flake","pairing_id":"flank-steak","strength":5,"cuisines":["asian"],"techniques":[]}}
-{"Edge":{"ingredient_id":"crushed-red-pepper-flake","pairing_id":"garlic","strength":2,"cuisines":["asian"],"techniques":[]}}
-{"Edge":{"ingredient_id":"crushed-red-pepper-flake","pairing_id":"ginger","strength":3,"cuisines":["asian"],"techniques":[]}}
-{"Edge":{"ingredient_id":"crushed-red-pepper-flake","pairing_id":"lime-juice","strength":5,"cuisines":["asian"],"techniques":[]}}
-{"Edge":{"ingredient_id":"crushed-red-pepper-flake","pairing_id":"low-sodium-soy-sauce","strength":5,"cuisines":["asian"],"techniques":[]}}
-{"Edge":{"ingredient_id":"crushed-red-pepper-flake","pairing_id":"sesame-oil","strength":5,"cuisines":["asian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"crushed-red-pepper-flakes","pairing_id":"flank-steak","strength":5,"cuisines":["asian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"crushed-red-pepper-flakes","pairing_id":"garlic","strength":2,"cuisines":["asian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"crushed-red-pepper-flakes","pairing_id":"ginger","strength":3,"cuisines":["asian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"crushed-red-pepper-flakes","pairing_id":"lime-juice","strength":5,"cuisines":["asian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"crushed-red-pepper-flakes","pairing_id":"low-sodium-soy-sauce","strength":5,"cuisines":["asian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"crushed-red-pepper-flakes","pairing_id":"sesame-oil","strength":5,"cuisines":["asian"],"techniques":[]}}
 {"Edge":{"ingredient_id":"cucumber","pairing_id":"dill","strength":4,"cuisines":["mediterranean"],"techniques":[]}}
 {"Edge":{"ingredient_id":"cucumber","pairing_id":"feta","strength":4,"cuisines":["mediterranean"],"techniques":[]}}
 {"Edge":{"ingredient_id":"cucumber","pairing_id":"garlic","strength":1,"cuisines":["mediterranean"],"techniques":[]}}
@@ -299,7 +295,7 @@
 {"Edge":{"ingredient_id":"dill","pairing_id":"olive-oil","strength":3,"cuisines":["mediterranean"],"techniques":[]}}
 {"Edge":{"ingredient_id":"dill","pairing_id":"yogurt","strength":5,"cuisines":["mediterranean"],"techniques":[]}}
 {"Edge":{"ingredient_id":"egg","pairing_id":"garlic","strength":2,"cuisines":["chinese"],"techniques":[]}}
-{"Edge":{"ingredient_id":"egg","pairing_id":"pea","strength":5,"cuisines":["chinese"],"techniques":[]}}
+{"Edge":{"ingredient_id":"egg","pairing_id":"peas","strength":5,"cuisines":["chinese"],"techniques":[]}}
 {"Edge":{"ingredient_id":"egg","pairing_id":"rice","strength":4,"cuisines":["chinese"],"techniques":[]}}
 {"Edge":{"ingredient_id":"egg","pairing_id":"scallion","strength":5,"cuisines":["chinese"],"techniques":[]}}
 {"Edge":{"ingredient_id":"egg","pairing_id":"soy-sauce","strength":4,"cuisines":["chinese"],"techniques":[]}}
@@ -328,8 +324,8 @@
 {"Edge":{"ingredient_id":"garlic","pairing_id":"oregano","strength":1,"cuisines":["mexican"],"techniques":[]}}
 {"Edge":{"ingredient_id":"garlic","pairing_id":"parmesan","strength":2,"cuisines":["italian"],"techniques":[]}}
 {"Edge":{"ingredient_id":"garlic","pairing_id":"pasta","strength":2,"cuisines":["italian"],"techniques":[]}}
-{"Edge":{"ingredient_id":"garlic","pairing_id":"pea","strength":2,"cuisines":["chinese"],"techniques":[]}}
-{"Edge":{"ingredient_id":"garlic","pairing_id":"pine-nut","strength":2,"cuisines":["italian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"garlic","pairing_id":"peas","strength":2,"cuisines":["chinese"],"techniques":[]}}
+{"Edge":{"ingredient_id":"garlic","pairing_id":"pine-nuts","strength":2,"cuisines":["italian"],"techniques":[]}}
 {"Edge":{"ingredient_id":"garlic","pairing_id":"rice","strength":2,"cuisines":["chinese","japanese","thai"],"techniques":[]}}
 {"Edge":{"ingredient_id":"garlic","pairing_id":"scallion","strength":1,"cuisines":["chinese"],"techniques":[]}}
 {"Edge":{"ingredient_id":"garlic","pairing_id":"sesame-oil","strength":2,"cuisines":["chinese","asian"],"techniques":[]}}
@@ -346,7 +342,7 @@
 {"Edge":{"ingredient_id":"ginger","pairing_id":"low-sodium-soy-sauce","strength":3,"cuisines":["asian"],"techniques":[]}}
 {"Edge":{"ingredient_id":"ginger","pairing_id":"onion","strength":1,"cuisines":["indian","vietnamese"],"techniques":[]}}
 {"Edge":{"ingredient_id":"ginger","pairing_id":"rice","strength":3,"cuisines":["chinese","japanese","thai"],"techniques":[]}}
-{"Edge":{"ingredient_id":"ginger","pairing_id":"rice-noodle","strength":3,"cuisines":["vietnamese"],"techniques":[]}}
+{"Edge":{"ingredient_id":"ginger","pairing_id":"rice-noodles","strength":3,"cuisines":["vietnamese"],"techniques":[]}}
 {"Edge":{"ingredient_id":"ginger","pairing_id":"sesame-oil","strength":3,"cuisines":["chinese","asian"],"techniques":[]}}
 {"Edge":{"ingredient_id":"ginger","pairing_id":"shrimp","strength":3,"cuisines":["thai"],"techniques":[]}}
 {"Edge":{"ingredient_id":"ginger","pairing_id":"soy-sauce","strength":3,"cuisines":["chinese","japanese"],"techniques":[]}}
@@ -382,7 +378,7 @@
 {"Edge":{"ingredient_id":"olive-oil","pairing_id":"parmesan","strength":3,"cuisines":["italian"],"techniques":[]}}
 {"Edge":{"ingredient_id":"olive-oil","pairing_id":"parsley","strength":3,"cuisines":["middle-eastern"],"techniques":[]}}
 {"Edge":{"ingredient_id":"olive-oil","pairing_id":"pasta","strength":3,"cuisines":["italian"],"techniques":[]}}
-{"Edge":{"ingredient_id":"olive-oil","pairing_id":"pine-nut","strength":3,"cuisines":["italian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"olive-oil","pairing_id":"pine-nuts","strength":3,"cuisines":["italian"],"techniques":[]}}
 {"Edge":{"ingredient_id":"olive-oil","pairing_id":"spaghetti","strength":3,"cuisines":["italian"],"techniques":[]}}
 {"Edge":{"ingredient_id":"olive-oil","pairing_id":"tahini","strength":3,"cuisines":["middle-eastern"],"techniques":[]}}
 {"Edge":{"ingredient_id":"olive-oil","pairing_id":"thyme","strength":3,"cuisines":["mediterranean"],"techniques":[]}}
@@ -390,25 +386,25 @@
 {"Edge":{"ingredient_id":"olive-oil","pairing_id":"yogurt","strength":1,"cuisines":["mediterranean"],"techniques":[]}}
 {"Edge":{"ingredient_id":"olive-oil","pairing_id":"zucchini","strength":3,"cuisines":["mediterranean"],"techniques":[]}}
 {"Edge":{"ingredient_id":"onion","pairing_id":"oregano","strength":3,"cuisines":["mexican","mediterranean"],"techniques":[]}}
-{"Edge":{"ingredient_id":"onion","pairing_id":"rice-noodle","strength":3,"cuisines":["vietnamese"],"techniques":[]}}
+{"Edge":{"ingredient_id":"onion","pairing_id":"rice-noodles","strength":3,"cuisines":["vietnamese"],"techniques":[]}}
 {"Edge":{"ingredient_id":"onion","pairing_id":"salt","strength":3,"cuisines":["mexican"],"techniques":[]}}
 {"Edge":{"ingredient_id":"onion","pairing_id":"star-anise","strength":3,"cuisines":["vietnamese"],"techniques":[]}}
 {"Edge":{"ingredient_id":"onion","pairing_id":"tomato","strength":2,"cuisines":["indian","mediterranean","mexican"],"techniques":[]}}
 {"Edge":{"ingredient_id":"oregano","pairing_id":"tomato","strength":2,"cuisines":["mediterranean"],"techniques":[]}}
 {"Edge":{"ingredient_id":"parmesan","pairing_id":"pasta","strength":5,"cuisines":["italian"],"techniques":[]}}
-{"Edge":{"ingredient_id":"parmesan","pairing_id":"pine-nut","strength":5,"cuisines":["italian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"parmesan","pairing_id":"pine-nuts","strength":5,"cuisines":["italian"],"techniques":[]}}
 {"Edge":{"ingredient_id":"parmesan","pairing_id":"spaghetti","strength":5,"cuisines":["italian"],"techniques":[]}}
 {"Edge":{"ingredient_id":"parmesan","pairing_id":"tomato","strength":2,"cuisines":["italian"],"techniques":[]}}
 {"Edge":{"ingredient_id":"parsley","pairing_id":"tomato","strength":3,"cuisines":["middle-eastern"],"techniques":[]}}
-{"Edge":{"ingredient_id":"pasta","pairing_id":"pine-nut","strength":5,"cuisines":["italian"],"techniques":[]}}
-{"Edge":{"ingredient_id":"pea","pairing_id":"rice","strength":4,"cuisines":["chinese"],"techniques":[]}}
-{"Edge":{"ingredient_id":"pea","pairing_id":"scallion","strength":5,"cuisines":["chinese"],"techniques":[]}}
-{"Edge":{"ingredient_id":"pea","pairing_id":"soy-sauce","strength":4,"cuisines":["chinese"],"techniques":[]}}
+{"Edge":{"ingredient_id":"pasta","pairing_id":"pine-nuts","strength":5,"cuisines":["italian"],"techniques":[]}}
+{"Edge":{"ingredient_id":"peas","pairing_id":"rice","strength":4,"cuisines":["chinese"],"techniques":[]}}
+{"Edge":{"ingredient_id":"peas","pairing_id":"scallion","strength":5,"cuisines":["chinese"],"techniques":[]}}
+{"Edge":{"ingredient_id":"peas","pairing_id":"soy-sauce","strength":4,"cuisines":["chinese"],"techniques":[]}}
 {"Edge":{"ingredient_id":"rice","pairing_id":"scallion","strength":3,"cuisines":["chinese"],"techniques":[]}}
 {"Edge":{"ingredient_id":"rice","pairing_id":"sesame-oil","strength":3,"cuisines":["chinese"],"techniques":[]}}
 {"Edge":{"ingredient_id":"rice","pairing_id":"shrimp","strength":4,"cuisines":["thai"],"techniques":[]}}
 {"Edge":{"ingredient_id":"rice","pairing_id":"soy-sauce","strength":4,"cuisines":["chinese","japanese"],"techniques":[]}}
-{"Edge":{"ingredient_id":"rice-noodle","pairing_id":"star-anise","strength":5,"cuisines":["vietnamese"],"techniques":[]}}
+{"Edge":{"ingredient_id":"rice-noodles","pairing_id":"star-anise","strength":5,"cuisines":["vietnamese"],"techniques":[]}}
 {"Edge":{"ingredient_id":"scallion","pairing_id":"seaweed","strength":5,"cuisines":["japanese"],"techniques":[]}}
 {"Edge":{"ingredient_id":"scallion","pairing_id":"soy-sauce","strength":3,"cuisines":["chinese"],"techniques":[]}}
 {"Edge":{"ingredient_id":"scallion","pairing_id":"tofu","strength":5,"cuisines":["japanese"],"techniques":[]}}

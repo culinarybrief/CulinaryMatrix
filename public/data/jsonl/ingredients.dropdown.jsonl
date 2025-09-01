@@ -1,0 +1,3 @@
+{"Ingredient":{"id":"salt","name":"Kosher Salt","category":"seasoning","default_cuisine":"global"}}
+{"Ingredient":{"id":"pepper","name":"Black Pepper","category":"seasoning","default_cuisine":"global"}}
+{"Ingredient":{"id":"garlic","name":"Garlic","category":"aromatic","default_cuisine":"global"}}

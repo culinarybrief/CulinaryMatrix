@@ -25,8 +25,7 @@
 {"Ingredient":{"id":"coconut-milk","name":"Coconut Milk","category":"other","default_cuisine":"thai"}}
 {"Ingredient":{"id":"coriander","name":"Coriander","category":"other","default_cuisine":"indian"}}
 {"Ingredient":{"id":"cream","name":"Cream","category":"other"}}
-{"Ingredient":{"id":"crushed-red-pepper-flake","name":"Crushed Red Pepper Flake","category":"other","default_cuisine":"asian","notes":"Auto-added from corpus"}}
-{"Ingredient":{"id":"crushed-red-pepper-flakes","name":"Crushed Red Pepper Flakes","category":"other"}}
+{"Ingredient":{"id":"crushed-red-pepper-flakes","name":"Crushed Red Pepper Flakes","category":"other","default_cuisine":"asian"}}
 {"Ingredient":{"id":"cucumber","name":"Cucumber","category":"veg","default_cuisine":"mediterranean"}}
 {"Ingredient":{"id":"cumin","name":"Cumin","category":"other","default_cuisine":"indian"}}
 {"Ingredient":{"id":"curry-powder","name":"Curry Powder","category":"other","default_cuisine":"thai"}}
@@ -59,17 +58,14 @@
 {"Ingredient":{"id":"parmesan","name":"Parmesan","category":"other","default_cuisine":"italian"}}
 {"Ingredient":{"id":"parsley","name":"Parsley","category":"veg","default_cuisine":"middle-eastern"}}
 {"Ingredient":{"id":"pasta","name":"Pasta","category":"carb","default_cuisine":"italian"}}
-{"Ingredient":{"id":"pea","name":"Pea","category":"other","default_cuisine":"chinese","notes":"Auto-added from corpus"}}
-{"Ingredient":{"id":"peas","name":"Peas","category":"legume"}}
-{"Ingredient":{"id":"pine-nut","name":"Pine Nut","category":"other","default_cuisine":"italian","notes":"Auto-added from corpus"}}
-{"Ingredient":{"id":"pine-nuts","name":"Pine Nuts","category":"other"}}
+{"Ingredient":{"id":"peas","name":"Peas","category":"legume","default_cuisine":"chinese"}}
+{"Ingredient":{"id":"pine-nuts","name":"Pine Nuts","category":"other","default_cuisine":"italian"}}
 {"Ingredient":{"id":"pork","name":"Pork","category":"protein"}}
 {"Ingredient":{"id":"potato","name":"Potato","category":"carb"}}
 {"Ingredient":{"id":"quinoa","name":"Quinoa","category":"carb"}}
 {"Ingredient":{"id":"red-wine-vinegar","name":"Red wine vinegar","category":"other"}}
 {"Ingredient":{"id":"rice","name":"Rice","category":"carb","default_cuisine":"chinese"}}
-{"Ingredient":{"id":"rice-noodle","name":"Rice Noodle","category":"other","default_cuisine":"vietnamese","notes":"Auto-added from corpus"}}
-{"Ingredient":{"id":"rice-noodles","name":"Rice Noodles","category":"other"}}
+{"Ingredient":{"id":"rice-noodles","name":"Rice Noodles","category":"other","default_cuisine":"vietnamese"}}
 {"Ingredient":{"id":"rosemary","name":"Rosemary","category":"other"}}
 {"Ingredient":{"id":"salmon","name":"Salmon","category":"protein"}}
 {"Ingredient":{"id":"salt","name":"Salt","category":"other","default_cuisine":"mexican"}}

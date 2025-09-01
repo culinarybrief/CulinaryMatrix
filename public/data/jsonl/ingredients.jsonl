@@ -1,0 +1,92 @@
+{"Ingredient":{"id":"arugula","name":"Arugula","category":"veg"}}
+{"Ingredient":{"id":"avocado","name":"Avocado","category":"other","default_cuisine":"mexican"}}
+{"Ingredient":{"id":"balsamic-vinegar","name":"Balsamic vinegar","category":"other"}}
+{"Ingredient":{"id":"basil","name":"Basil","category":"veg","default_cuisine":"italian"}}
+{"Ingredient":{"id":"beef","name":"Beef","category":"protein","default_cuisine":"vietnamese"}}
+{"Ingredient":{"id":"beef-broth","name":"Beef Broth","category":"other","default_cuisine":"mexican"}}
+{"Ingredient":{"id":"beef-chuck","name":"Beef Chuck","category":"other","default_cuisine":"mexican"}}
+{"Ingredient":{"id":"bell-pepper","name":"Bell pepper","category":"veg","default_cuisine":"mediterranean"}}
+{"Ingredient":{"id":"black-beans","name":"Black beans","category":"legume"}}
+{"Ingredient":{"id":"black-pepper","name":"Black pepper","category":"other","default_cuisine":"asian"}}
+{"Ingredient":{"id":"broccoli","name":"Broccoli","category":"veg","default_cuisine":"chinese"}}
+{"Ingredient":{"id":"brown-sugar","name":"Brown Sugar","category":"other","default_cuisine":"asian"}}
+{"Ingredient":{"id":"bulgur","name":"Bulgur","category":"carb","default_cuisine":"middle-eastern"}}
+{"Ingredient":{"id":"butter","name":"Butter","category":"other"}}
+{"Ingredient":{"id":"cabbage","name":"Cabbage","category":"veg"}}
+{"Ingredient":{"id":"carrot","name":"Carrot","category":"veg","default_cuisine":"mediterranean"}}
+{"Ingredient":{"id":"cauliflower","name":"Cauliflower","category":"veg"}}
+{"Ingredient":{"id":"celery","name":"Celery","category":"veg","default_cuisine":"mediterranean"}}
+{"Ingredient":{"id":"cheddar-cheese","name":"Cheddar cheese","category":"other"}}
+{"Ingredient":{"id":"chicken","name":"Chicken","category":"protein","default_cuisine":"indian"}}
+{"Ingredient":{"id":"chickpea","name":"Chickpea","category":"legume","default_cuisine":"indian"}}
+{"Ingredient":{"id":"chili-powder","name":"Chili powder","category":"other","default_cuisine":"mexican"}}
+{"Ingredient":{"id":"cilantro","name":"Cilantro","category":"veg","default_cuisine":"mexican"}}
+{"Ingredient":{"id":"clove","name":"Clove","category":"other","default_cuisine":"vietnamese"}}
+{"Ingredient":{"id":"coconut-milk","name":"Coconut Milk","category":"other","default_cuisine":"thai"}}
+{"Ingredient":{"id":"coriander","name":"Coriander","category":"other","default_cuisine":"indian"}}
+{"Ingredient":{"id":"cream","name":"Cream","category":"other"}}
+{"Ingredient":{"id":"crushed-red-pepper-flake","name":"Crushed Red Pepper Flake","category":"other","default_cuisine":"asian","notes":"Auto-added from corpus"}}
+{"Ingredient":{"id":"crushed-red-pepper-flakes","name":"Crushed Red Pepper Flakes","category":"other"}}
+{"Ingredient":{"id":"cucumber","name":"Cucumber","category":"veg","default_cuisine":"mediterranean"}}
+{"Ingredient":{"id":"cumin","name":"Cumin","category":"other","default_cuisine":"indian"}}
+{"Ingredient":{"id":"curry-powder","name":"Curry Powder","category":"other","default_cuisine":"thai"}}
+{"Ingredient":{"id":"dill","name":"Dill","category":"other","default_cuisine":"mediterranean"}}
+{"Ingredient":{"id":"egg","name":"Egg","category":"protein","default_cuisine":"chinese"}}
+{"Ingredient":{"id":"eggplant","name":"Eggplant","category":"veg","default_cuisine":"mediterranean"}}
+{"Ingredient":{"id":"feta","name":"Feta","category":"other","default_cuisine":"mediterranean"}}
+{"Ingredient":{"id":"fish-sauce","name":"Fish sauce","category":"other"}}
+{"Ingredient":{"id":"flank-steak","name":"Flank Steak","category":"other","default_cuisine":"asian"}}
+{"Ingredient":{"id":"flour","name":"Flour","category":"other"}}
+{"Ingredient":{"id":"garlic","name":"Garlic","category":"veg","default_cuisine":"mediterranean"}}
+{"Ingredient":{"id":"ginger","name":"Ginger","category":"other","default_cuisine":"indian"}}
+{"Ingredient":{"id":"kale","name":"Kale","category":"veg"}}
+{"Ingredient":{"id":"lamb","name":"Lamb","category":"protein"}}
+{"Ingredient":{"id":"lemon","name":"Lemon","category":"other","default_cuisine":"mediterranean"}}
+{"Ingredient":{"id":"lentil","name":"Lentil","category":"legume","default_cuisine":"mediterranean"}}
+{"Ingredient":{"id":"lettuce","name":"Lettuce","category":"veg"}}
+{"Ingredient":{"id":"lime","name":"Lime","category":"other","default_cuisine":"mexican"}}
+{"Ingredient":{"id":"lime-juice","name":"Lime Juice","category":"other","default_cuisine":"asian"}}
+{"Ingredient":{"id":"low-sodium-soy-sauce","name":"Low-sodium Soy Sauce","category":"other","default_cuisine":"asian"}}
+{"Ingredient":{"id":"milk","name":"Milk","category":"other"}}
+{"Ingredient":{"id":"mint","name":"Mint","category":"other"}}
+{"Ingredient":{"id":"miso","name":"Miso","category":"other","default_cuisine":"japanese"}}
+{"Ingredient":{"id":"mozzarella","name":"Mozzarella","category":"other","default_cuisine":"italian"}}
+{"Ingredient":{"id":"mushroom","name":"Mushroom","category":"veg"}}
+{"Ingredient":{"id":"olive-oil","name":"Olive oil","category":"other","default_cuisine":"mediterranean"}}
+{"Ingredient":{"id":"onion","name":"Onion","category":"veg","default_cuisine":"mexican"}}
+{"Ingredient":{"id":"oregano","name":"Oregano","category":"other","default_cuisine":"mexican"}}
+{"Ingredient":{"id":"paprika","name":"Paprika","category":"other"}}
+{"Ingredient":{"id":"parmesan","name":"Parmesan","category":"other","default_cuisine":"italian"}}
+{"Ingredient":{"id":"parsley","name":"Parsley","category":"veg","default_cuisine":"middle-eastern"}}
+{"Ingredient":{"id":"pasta","name":"Pasta","category":"carb","default_cuisine":"italian"}}
+{"Ingredient":{"id":"pea","name":"Pea","category":"other","default_cuisine":"chinese","notes":"Auto-added from corpus"}}
+{"Ingredient":{"id":"peas","name":"Peas","category":"legume"}}
+{"Ingredient":{"id":"pine-nut","name":"Pine Nut","category":"other","default_cuisine":"italian","notes":"Auto-added from corpus"}}
+{"Ingredient":{"id":"pine-nuts","name":"Pine Nuts","category":"other"}}
+{"Ingredient":{"id":"pork","name":"Pork","category":"protein"}}
+{"Ingredient":{"id":"potato","name":"Potato","category":"carb"}}
+{"Ingredient":{"id":"quinoa","name":"Quinoa","category":"carb"}}
+{"Ingredient":{"id":"red-wine-vinegar","name":"Red wine vinegar","category":"other"}}
+{"Ingredient":{"id":"rice","name":"Rice","category":"carb","default_cuisine":"chinese"}}
+{"Ingredient":{"id":"rice-noodle","name":"Rice Noodle","category":"other","default_cuisine":"vietnamese","notes":"Auto-added from corpus"}}
+{"Ingredient":{"id":"rice-noodles","name":"Rice Noodles","category":"other"}}
+{"Ingredient":{"id":"rosemary","name":"Rosemary","category":"other"}}
+{"Ingredient":{"id":"salmon","name":"Salmon","category":"protein"}}
+{"Ingredient":{"id":"salt","name":"Salt","category":"other","default_cuisine":"mexican"}}
+{"Ingredient":{"id":"scallion","name":"Scallion","category":"other","default_cuisine":"chinese"}}
+{"Ingredient":{"id":"seaweed","name":"Seaweed","category":"other","default_cuisine":"japanese"}}
+{"Ingredient":{"id":"sesame-oil","name":"Sesame Oil","category":"other","default_cuisine":"asian"}}
+{"Ingredient":{"id":"shrimp","name":"Shrimp","category":"protein","default_cuisine":"thai"}}
+{"Ingredient":{"id":"soy-sauce","name":"Soy sauce","category":"other","default_cuisine":"chinese"}}
+{"Ingredient":{"id":"spaghetti","name":"Spaghetti","category":"other","default_cuisine":"italian"}}
+{"Ingredient":{"id":"spinach","name":"Spinach","category":"veg"}}
+{"Ingredient":{"id":"star-anise","name":"Star Anise","category":"other","default_cuisine":"vietnamese"}}
+{"Ingredient":{"id":"sugar","name":"Sugar","category":"other"}}
+{"Ingredient":{"id":"tahini","name":"Tahini","category":"other","default_cuisine":"middle-eastern"}}
+{"Ingredient":{"id":"thyme","name":"Thyme","category":"other","default_cuisine":"mediterranean"}}
+{"Ingredient":{"id":"tofu","name":"Tofu","category":"protein","default_cuisine":"japanese"}}
+{"Ingredient":{"id":"tomato","name":"Tomato","category":"veg","default_cuisine":"italian"}}
+{"Ingredient":{"id":"tuna","name":"Tuna","category":"protein"}}
+{"Ingredient":{"id":"vinegar","name":"Vinegar","category":"other"}}
+{"Ingredient":{"id":"yogurt","name":"Yogurt","category":"other","default_cuisine":"indian"}}
+{"Ingredient":{"id":"zucchini","name":"Zucchini","category":"veg","default_cuisine":"mediterranean"}}

@@ -1,0 +1,84 @@
+
+> @ shop /workspaces/CulinaryMatrix
+> node scripts/shoplist.mjs -- '--titles=Southwest Burrito Bowl|Chicken & Vegetable Soup'
+
+{
+  "selected": [
+    "southwest burrito bowl",
+    "chicken & vegetable soup"
+  ],
+  "items": [
+    {
+      "ingredient": "onion",
+      "count": 2
+    },
+    {
+      "ingredient": "garlic",
+      "count": 2
+    },
+    {
+      "ingredient": "rice",
+      "count": 1
+    },
+    {
+      "ingredient": "black-beans",
+      "count": 1
+    },
+    {
+      "ingredient": "corn",
+      "count": 1
+    },
+    {
+      "ingredient": "avocado",
+      "count": 1
+    },
+    {
+      "ingredient": "tomato",
+      "count": 1
+    },
+    {
+      "ingredient": "cilantro",
+      "count": 1
+    },
+    {
+      "ingredient": "lime",
+      "count": 1
+    },
+    {
+      "ingredient": "olive-oil",
+      "count": 1
+    },
+    {
+      "ingredient": "celery",
+      "count": 1
+    },
+    {
+      "ingredient": "carrot",
+      "count": 1
+    },
+    {
+      "ingredient": "chicken",
+      "count": 1
+    },
+    {
+      "ingredient": "bay-leaf",
+      "count": 1
+    },
+    {
+      "ingredient": "thyme",
+      "count": 1
+    },
+    {
+      "ingredient": "rosemary",
+      "count": 1
+    },
+    {
+      "ingredient": "stock",
+      "count": 1
+    },
+    {
+      "ingredient": "pastina",
+      "count": 1
+    }
+  ]
+}

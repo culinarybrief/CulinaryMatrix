@@ -1,0 +1,51 @@
+{"Ingredient":{"id":"avocado","name":"Avocado"}}
+{"Ingredient":{"id":"basil","name":"Basil"}}
+{"Ingredient":{"id":"beef","name":"Beef"}}
+{"Ingredient":{"id":"beef-broth","name":"Beef Broth"}}
+{"Ingredient":{"id":"beef-chuck","name":"Beef Chuck"}}
+{"Ingredient":{"id":"bell-pepper","name":"Bell pepper"}}
+{"Ingredient":{"id":"black-pepper","name":"Black pepper"}}
+{"Ingredient":{"id":"broccoli","name":"Broccoli","category":"produce"}}
+{"Ingredient":{"id":"brown-sugar","name":"Brown Sugar"}}
+{"Ingredient":{"id":"bulgur","name":"Bulgur"}}
+{"Ingredient":{"id":"carrot","name":"Carrot"}}
+{"Ingredient":{"id":"celery","name":"Celery"}}
+{"Ingredient":{"id":"chicken","name":"Chicken"}}
+{"Ingredient":{"id":"chickpea","name":"Chickpea"}}
+{"Ingredient":{"id":"chili-powder","name":"Chili powder","category":"spices-herbs","default_cuisine":"Korean"}}
+{"Ingredient":{"id":"cilantro","name":"Cilantro"}}
+{"Ingredient":{"id":"clove","name":"Clove"}}
+{"Ingredient":{"id":"coconut-milk","name":"Coconut Milk"}}
+{"Ingredient":{"id":"coriander","name":"Coriander"}}
+{"Ingredient":{"id":"crushed-red-pepper-flakes","name":"Crushed Red Pepper Flakes"}}
+{"Ingredient":{"id":"cucumber","name":"Cucumber","category":"produce"}}
+{"Ingredient":{"id":"cumin","name":"Cumin"}}
+{"Ingredient":{"id":"curry-powder","name":"Curry Powder"}}
+{"Ingredient":{"id":"dill","name":"Dill","default_cuisine":"Arab"}}
+{"Ingredient":{"id":"egg","name":"Egg"}}
+{"Ingredient":{"id":"eggplant","name":"Eggplant"}}
+{"Ingredient":{"id":"feta","name":"Feta"}}
+{"Ingredient":{"id":"flank-steak","name":"Flank Steak"}}
+{"Ingredient":{"id":"garlic","name":"Garlic"}}
+{"Ingredient":{"id":"ginger","name":"Ginger"}}
+{"Ingredient":{"id":"lemon","name":"Lemon","category":"produce"}}
+{"Ingredient":{"id":"lentil","name":"Lentil"}}
+{"Ingredient":{"id":"lime","name":"Lime"}}
+{"Ingredient":{"id":"lime-juice","name":"Lime Juice"}}
+{"Ingredient":{"id":"low-sodium-soy-sauce","name":"Low-sodium Soy Sauce"}}
+{"Ingredient":{"id":"miso","name":"Miso"}}
+{"Ingredient":{"id":"mozzarella","name":"Mozzarella"}}
+{"Ingredient":{"id":"olive-oil","name":"Olive oil"}}
+{"Ingredient":{"id":"onion","name":"Onion"}}
+{"Ingredient":{"id":"oregano","name":"Oregano"}}
+{"Ingredient":{"id":"parmesan","name":"Parmesan"}}
+{"Ingredient":{"id":"parsley","name":"Parsley"}}
+{"Ingredient":{"id":"pasta","name":"Pasta"}}
+{"Ingredient":{"id":"peas","name":"Peas"}}
+{"Ingredient":{"id":"rice","name":"Rice"}}
+{"Ingredient":{"id":"rice-noodles","name":"Rice Noodles"}}
+{"Ingredient":{"id":"scallion","name":"Scallion"}}
+{"Ingredient":{"id":"seaweed","name":"Seaweed"}}
+{"Ingredient":{"id":"sesame-oil","name":"Sesame Oil"}}
+{"Ingredient":{"id":"spaghetti","name":"Spaghetti"}}
+{"Ingredient":{"id":"thyme","name":"Thyme","category":"spices-herbs","default_cuisine":"Albanian"}}

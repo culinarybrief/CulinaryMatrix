@@ -1,0 +1,4228 @@
+{
+  "version": "2.0.0",
+  "generated_at": "2025-08-30T18:36:43.707Z",
+  "ingredients": [
+    {
+      "id": "onion",
+      "name": "Onion",
+      "aliases": [],
+      "cuisines": [],
+      "_provenance": {
+        "source_url": "https://en.wikipedia.org/wiki/Onion",
+        "source_name": "Wikipedia",
+        "license": "CC BY-SA 4.0",
+        "summary": "The onion (Allium cepa L.Tooltip Carl Linnaeus, from Latin cepa), also known as the bulb onion or common onion, is a vegetable that is the most widely cultivated species of the genus Allium. The shallot is a botanical variety of the onion which was classified as a separate specie"
+      },
+      "_wikidata": {
+        "id": "Q131193282",
+        "source_url": "https://www.wikidata.org/wiki/Q131193282"
+      }
+    },
+    {
+      "id": "tomato",
+      "name": "Tomato",
+      "aliases": [
+        "TomatoUSB",
+        "Tomato, AR",
+        "Tomato, Arkansas",
+        "Tomato Records",
+        "The Tomato Music Co. Ltd."
+      ],
+      "cuisines": [],
+      "_provenance": {
+        "source_url": "https://en.wikipedia.org/wiki/Tomato",
+        "source_name": "Wikipedia",
+        "license": "CC BY-SA 4.0",
+        "summary": "The tomato (US: , UK: ; Solanum lycopersicum) is a plant whose fruit is an edible berry that is eaten as a vegetable. The tomato is a member of the nightshade family that includes tobacco, potato, and chili peppers. It originated from western South America, and may have been dome"
+      },
+      "_wikidata": {
+        "id": "Q107104969",
+        "source_url": "https://www.wikidata.org/wiki/Q107104969"
+      }
+    },
+    {
+      "id": "garlic",
+      "name": "Garlic",
+      "aliases": [],
+      "cuisines": [],
+      "_provenance": {
+        "source_url": "https://en.wikipedia.org/wiki/Garlic",
+        "source_name": "Wikipedia",
+        "license": "CC BY-SA 4.0",
+        "summary": "Garlic (Allium sativum) is a species of bulbous flowering plants in the genus Allium. Its close relatives include the onion, shallot, leek, chives, Welsh onion, and Chinese onion. Garlic is native to central and south Asia, stretching from the Black Sea through the southern Cauca"
+      },
+      "_wikidata": {
+        "id": "Q122312119",
+        "source_url": "https://www.wikidata.org/wiki/Q122312119"
+      }
+    },
+    {
+      "id": "cucumber",
+      "name": "Cucumber",
+      "aliases": [
+        "Cucumber, West Virginia",
+        "Cucumber, WV",
+        "Cucumber Parish",
+        "Parish of Cucumber"
+      ],
+      "cuisines": [],
+      "grocery_category": "produce",
+      "_provenance": {
+        "source_url": "https://en.wikipedia.org/wiki/Cucumber",
+        "source_name": "Wikipedia",
+        "license": "CC BY-SA 4.0",
+        "summary": "The cucumber (Cucumis sativus) is a widely-cultivated creeping vine plant in the family Cucurbitaceae that bears cylindrical to spherical fruits, which are used as culinary vegetables. Considered an annual plant, there are three main types of cucumber—slicing, pickling, and seedl"
+      },
+      "_wikidata": {
+        "id": "Q135056967",
+        "source_url": "https://www.wikidata.org/wiki/Q135056967"
+      }
+    },
+    {
+      "id": "yogurt",
+      "name": "Yogurt",
+      "cuisines": [],
+      "_provenance": {
+        "source_url": "https://en.wikipedia.org/wiki/Yogurt",
+        "source_name": "Wikipedia",
+        "license": "CC BY-SA 4.0",
+        "summary": "Yogurt (UK: ; US: , from Ottoman Turkish: یوغورت, Turkish: yoğurt; also spelled yoghurt, yogourt or yoghourt) is a food produced by bacterial fermentation of milk. Fermentation of sugars in the milk by these bacteria produces lactic acid, which acts on milk protein to give yogurt"
+      }
+    },
+    {
+      "id": "feta",
+      "name": "Feta",
+      "aliases": [],
+      "cuisines": [],
+      "_provenance": {
+        "source_url": "https://en.wikipedia.org/wiki/Feta",
+        "source_name": "Wikipedia",
+        "license": "CC BY-SA 4.0",
+        "summary": "Feta ( FET-ə; Greek: φέτα [ˈfeta]) is a Greek brined white cheese made from sheep milk or from a mixture of sheep and goat milk. It is soft, with small or no holes, and no skin. Crumbly with a slightly grainy texture, it is formed into large blocks and aged in brine. Its flavor i"
+      },
+      "_wikidata": {
+        "id": "Q130337166",
+        "source_url": "https://www.wikidata.org/wiki/Q130337166"
+      }
+    },
+    {
+      "id": "parsley",
+      "name": "Parsley",
+      "aliases": [
+        "Parsley, West Virginia",
+        "Parsley, WV",
+        "Paseri"
+      ],
+      "cuisines": [],
+      "_provenance": {
+        "source_url": "https://en.wikipedia.org/wiki/Parsley",
+        "source_name": "Wikipedia",
+        "license": "CC BY-SA 4.0",
+        "summary": "Parsley, or garden parsley (Petroselinum crispum), is a species of flowering plant in the family Apiaceae that is native to Greece, Morocco and the former Yugoslavia.  It has been introduced and naturalized in Europe and elsewhere in the world with suitable climates, and is widel"
+      },
+      "_wikidata": {
+        "id": "Q68185049",
+        "source_url": "https://www.wikidata.org/wiki/Q68185049"
+      }
+    },
+    {
+      "id": "basil",
+      "name": "Basil",
+      "aliases": [
+        "Basil of Baker Street",
+        "Vasilios Komvopoulos",
+        "Vasilios, Metropolitan of Drama",
+        "Vladimir Mikhaylovich Rodzyanko",
+        "Vladimir Rodzyanko",
+        "Vasily",
+        "Bishop Basil",
+        "Basil (first name)",
+        "Basil (given name)",
+        "Saint Basile",
+        "Basel",
+        "Basil of Cherson",
+        "Marius Förster",
+        "Basil (Omori)",
+        "IMO 7532650",
+        "Bajiru",
+        "Basil the Kicker",
+        "Kicker Basil",
+        "Kicking Basil",
+        "Basil, OH",
+        "Basil, Ohio"
+      ],
+      "cuisines": [],
+      "_provenance": {
+        "source_url": "https://en.wikipedia.org/wiki/Basil",
+        "source_name": "Wikipedia",
+        "license": "CC BY-SA 4.0",
+        "summary": "Basil (Ocimum basilicum), also called great basil, is a culinary herb of the family Lamiaceae (mints). It is a tender plant, and is used in cuisines worldwide. In Western cuisine, the generic term \"basil\" refers to the variety also known as Genovese basil or sweet basil. Basil is"
+      },
+      "_wikidata": {
+        "id": "Q133200930",
+        "source_url": "https://www.wikidata.org/wiki/Q133200930"
+      }
+    },
+    {
+      "id": "cilantro",
+      "name": "Cilantro",
+      "aliases": [],
+      "cuisines": [],
+      "_provenance": {
+        "source_url": "https://en.wikipedia.org/wiki/Cilantro",
+        "source_name": "Wikipedia",
+        "license": "CC BY-SA 4.0",
+        "summary": ""
+      },
+      "_wikidata": {
+        "id": "Q111692172",
+        "source_url": "https://www.wikidata.org/wiki/Q111692172"
+      }
+    },
+    {
+      "id": "mint",
+      "name": "Mint",
+      "aliases": [
+        "Mint, Arizona",
+        "Intuit Mint",
+        "Mint.com",
+        "IMO 9861081",
+        "livemint.com",
+        "Mint News",
+        "Goonshipas Peonpaweevorakul"
+      ],
+      "cuisines": [],
+      "_provenance": {
+        "source_url": "https://en.wikipedia.org/wiki/Mint",
+        "source_name": "Wikipedia",
+        "license": "CC BY-SA 4.0",
+        "summary": "Mint or The Mint may refer to:"
+      },
+      "_wikidata": {
+        "id": "Q23895155",
+        "source_url": "https://www.wikidata.org/wiki/Q23895155"
+      }
+    },
+    {
+      "id": "dill",
+      "name": "Dill",
+      "aliases": [
+        "Dill district",
+        "Dillkreis",
+        "Dill, Tennessee",
+        "Dill, TN"
+      ],
+      "cuisines": [
+        "Arab"
+      ],
+      "_provenance": {
+        "source_url": "https://en.wikipedia.org/wiki/Dill",
+        "source_name": "Wikipedia",
+        "license": "CC BY-SA 4.0",
+        "summary": "Dill (Anethum graveolens) is an annual herb in the celery family Apiaceae. It is native to North Africa, Iran, and the Arabian Peninsula; it is grown widely in Eurasia, where its leaves and seeds are used as a herb or spice for flavouring food."
+      },
+      "_wikidata": {
+        "id": "Q124688877",
+        "source_url": "https://www.wikidata.org/wiki/Q124688877"
+      }
+    },
+    {
+      "id": "spinach",
+      "name": "Spinach",
+      "aliases": [
+        "Eulithis mellinata"
+      ],
+      "cuisines": [],
+      "grocery_category": "produce",
+      "_provenance": {
+        "source_url": "https://en.wikipedia.org/wiki/Spinach",
+        "source_name": "Wikipedia",
+        "license": "CC BY-SA 4.0",
+        "summary": "Spinach (Spinacia oleracea) is a leafy green flowering plant native to Central and Western Asia. It is of the order Caryophyllales, family Amaranthaceae, subfamily Chenopodioideae. Its leaves are a common vegetable consumed either fresh or after storage, using preservation techni"
+      },
+      "_wikidata": {
+        "id": "Q123603179",
+        "source_url": "https://www.wikidata.org/wiki/Q123603179"
+      }
+    },
+    {
+      "id": "kale",
+      "name": "Kale",
+      "aliases": [
+        "Kale, Denizli",
+        "Kale, Konjic",
+        "Kale, West Virginia",
+        "Kale, WV",
+        "Khale, Kha Lel",
+        "Kale Seramik",
+        "IMO 7431727",
+        "Kale (Dragon Ball)",
+        "Jupiter XXXVII",
+        "S/2001 J 8"
+      ],
+      "cuisines": [],
+      "_provenance": {
+        "source_url": "https://en.wikipedia.org/wiki/Kale",
+        "source_name": "Wikipedia",
+        "license": "CC BY-SA 4.0",
+        "summary": "Kale (), also called leaf cabbage, belongs to a group of cabbage (Brassica oleracea) cultivars primarily grown for their edible leaves; it has also been used as an ornamental plant. Its multiple different cultivars vary quite a bit in appearance; the leaves can be bumpy, curly, o"
+      },
+      "_wikidata": {
+        "id": "Q17002",
+        "source_url": "https://www.wikidata.org/wiki/Q17002"
+      }
+    },
+    {
+      "id": "lettuce",
+      "name": "Lettuce",
+      "aliases": [],
+      "cuisines": [],
+      "_provenance": {
+        "source_url": "https://en.wikipedia.org/wiki/Lettuce",
+        "source_name": "Wikipedia",
+        "license": "CC BY-SA 4.0",
+        "summary": "Lettuce (Lactuca sativa) is an annual plant of the family Asteraceae mostly grown as a leaf vegetable. The leaves are most often used raw in green salads, although lettuce is also seen in other kinds of food, such as sandwiches, wraps and soups; it can also be grilled. Its stem a"
+      },
+      "_wikidata": {
+        "id": "Q6533861",
+        "source_url": "https://www.wikidata.org/wiki/Q6533861"
+      }
+    },
+    {
+      "id": "arugula",
+      "name": "Arugula",
+      "cuisines": [],
+      "_provenance": {
+        "source_url": "https://en.wikipedia.org/wiki/Arugula",
+        "source_name": "Wikipedia",
+        "license": "CC BY-SA 4.0",
+        "summary": ""
+      }
+    },
+    {
+      "id": "olive-oil",
+      "name": "Olive oil",
+      "cuisines": [],
+      "_provenance": {
+        "source_url": "https://en.wikipedia.org/wiki/Olive%20oil",
+        "source_name": "Wikipedia",
+        "license": "CC BY-SA 4.0",
+        "summary": "Olive oil is a vegetable oil obtained by pressing whole olives (the fruit of Olea europaea, a traditional tree crop of the Mediterranean Basin) and extracting the oil.\nIt is commonly used in cooking for frying foods, as a condiment, or as a salad dressing. It can also be found in"
+      }
+    },
+    {
+      "id": "butter",
+      "name": "Butter",
+      "aliases": [
+        "Butter's Final Meal",
+        "Never 2 Big",
+        "This Is Butter",
+        "thisisbutter.com",
+        "ThisIsButter.com"
+      ],
+      "cuisines": [],
+      "_provenance": {
+        "source_url": "https://en.wikipedia.org/wiki/Butter",
+        "source_name": "Wikipedia",
+        "license": "CC BY-SA 4.0",
+        "summary": "Butter is a dairy product made from the fat and protein components of churned cream. It is a semi-solid emulsion at room temperature, consisting of approximately 81% butterfat. It is used at room temperature as a spread, melted as a condiment, and used as a fat in baking, sauce-m"
+      },
+      "_wikidata": {
+        "id": "Q85519171",
+        "source_url": "https://www.wikidata.org/wiki/Q85519171"
+      }
+    },
+    {
+      "id": "milk",
+      "name": "Milk",
+      "aliases": [
+        "Dan Donigan",
+        "Daniel Donigan",
+        "xkcd 858",
+        "Milk Corp.",
+        "W2vqXikAACcA8rV5"
+      ],
+      "cuisines": [],
+      "_provenance": {
+        "source_url": "https://en.wikipedia.org/wiki/Milk",
+        "source_name": "Wikipedia",
+        "license": "CC BY-SA 4.0",
+        "summary": "Milk is a white liquid food produced by the mammary glands of lactating mammals. It is the primary source of nutrition for young mammals (including breastfed human infants) before they are able to digest solid food. Milk contains many nutrients, including calcium and protein, as "
+      },
+      "_wikidata": {
+        "id": "Q109502985",
+        "source_url": "https://www.wikidata.org/wiki/Q109502985"
+      }
+    },
+    {
+      "id": "cream",
+      "name": "Cream",
+      "aliases": [
+        "The Cream",
+        "S. Splurge",
+        "Cream, WI",
+        "Cream, Wisconsin"
+      ],
+      "cuisines": [],
+      "_provenance": {
+        "source_url": "https://en.wikipedia.org/wiki/Cream",
+        "source_name": "Wikipedia",
+        "license": "CC BY-SA 4.0",
+        "summary": "Cream is a dairy product composed of the higher-fat layer skimmed from the top of milk before homogenization. In un-homogenized milk, the fat, which is less dense, eventually rises to the top. In the industrial production of cream, this process is accelerated by using centrifuges"
+      },
+      "_wikidata": {
+        "id": "Q98293658",
+        "source_url": "https://www.wikidata.org/wiki/Q98293658"
+      }
+    },
+    {
+      "id": "yogurt",
+      "name": "Yogurt",
+      "aliases": [
+        "xkcd 737"
+      ],
+      "cuisines": [],
+      "_provenance": {
+        "source_url": "https://en.wikipedia.org/wiki/Yogurt",
+        "source_name": "Wikipedia",
+        "license": "CC BY-SA 4.0",
+        "summary": "Yogurt (UK: ; US: , from Ottoman Turkish: یوغورت, Turkish: yoğurt; also spelled yoghurt, yogourt or yoghourt) is a food produced by bacterial fermentation of milk. Fermentation of sugars in the milk by these bacteria produces lactic acid, which acts on milk protein to give yogurt"
+      },
+      "_wikidata": {
+        "id": "Q18614537",
+        "source_url": "https://www.wikidata.org/wiki/Q18614537"
+      }
+    },
+    {
+      "id": "cheddar-cheese",
+      "name": "Cheddar cheese",
+      "aliases": [
+        "cheddar"
+      ],
+      "cuisines": [],
+      "_provenance": {
+        "source_url": "https://en.wikipedia.org/wiki/Cheddar%20cheese",
+        "source_name": "Wikipedia",
+        "license": "CC BY-SA 4.0",
+        "summary": "Cheddar cheese (or simply cheddar) is a natural cheese that is relatively hard, off-white (or orange if colourings such as annatto are added), and sometimes sharp-tasting. It originates from the village of Cheddar in Somerset, South West England.\nCheddar is produced all over the "
+      },
+      "_wikidata": {
+        "id": "Q217525",
+        "source_url": "https://www.wikidata.org/wiki/Q217525"
+      }
+    },
+    {
+      "id": "mozzarella",
+      "name": "Mozzarella",
+      "cuisines": [],
+      "_provenance": {
+        "source_url": "https://en.wikipedia.org/wiki/Mozzarella",
+        "source_name": "Wikipedia",
+        "license": "CC BY-SA 4.0",
+        "summary": "Mozzarella is a semi-soft non-aged cheese prepared using the pasta filata ('stretched-curd') method. It originated in southern Italy.\nVarieties of mozzarella are distinguished by the milk used: mozzarella fior di latte when prepared with cow's milk and buffalo mozzarella (mozzare"
+      }
+    },
+    {
+      "id": "parmesan",
+      "name": "Parmesan",
+      "aliases": [
+        "Parmesan cheese",
+        "Parmigiano",
+        "Parmigiano Reggiano",
+        "Parmigiano-Reggiano"
+      ],
+      "cuisines": [],
+      "_provenance": {
+        "source_url": "https://en.wikipedia.org/wiki/Parmesan",
+        "source_name": "Wikipedia",
+        "license": "CC BY-SA 4.0",
+        "summary": "Parmesan (Italian: Parmigiano Reggiano, pronounced [parmiˈdʒaːno redˈdʒaːno]) is an Italian hard, granular cheese produced from cow's milk and aged at least 12 months. It is a grana-type cheese, along with Grana Padano, the historic Granone Lodigiano, and others.\nThe term Parmesa"
+      },
+      "_wikidata": {
+        "id": "Q107183337",
+        "source_url": "https://www.wikidata.org/wiki/Q107183337"
+      }
+    },
+    {
+      "id": "egg",
+      "name": "Egg",
+      "aliases": [
+        "Egg (Austria)",
+        "Egg (Vorarlberg)",
+        "Egg SZ",
+        "Egg chair",
+        "Egg Chair",
+        "Egg (Familie, ZH)",
+        "Egg (Familie, SO)",
+        "Thalgau-Egg",
+        "Fabio Medina",
+        "Goldballs",
+        "SO-10805",
+        "BE-12161",
+        "AR-880",
+        "SG-418",
+        "AG-4516",
+        "AG-4522",
+        "HKBU Heritage",
+        "Egg ZH",
+        "Eck"
+      ],
+      "cuisines": [],
+      "_provenance": {
+        "source_url": "https://en.wikipedia.org/wiki/Egg",
+        "source_name": "Wikipedia",
+        "license": "CC BY-SA 4.0",
+        "summary": "An egg is an organic vessel grown by an animal to carry a possibly fertilized egg cell – a zygote. Within the vessel, an embryo is incubated until it has become an animal fetus that can survive on its own, at which point the animal hatches. Reproductive structures similar to the "
+      },
+      "_wikidata": {
+        "id": "Q96027433",
+        "source_url": "https://www.wikidata.org/wiki/Q96027433"
+      }
+    },
+    {
+      "id": "flour",
+      "name": "Flour",
+      "aliases": [],
+      "cuisines": [],
+      "_provenance": {
+        "source_url": "https://en.wikipedia.org/wiki/Flour",
+        "source_name": "Wikipedia",
+        "license": "CC BY-SA 4.0",
+        "summary": "Flour is a powder used to make many different foods, including baked goods, as well as thickening dishes. It is made by grinding grains, beans, nuts, seeds, roots, or vegetables using a mill. \nCereal flour, particularly wheat flour, is the main ingredient of bread, which is a sta"
+      },
+      "_wikidata": {
+        "id": "Q54005656",
+        "source_url": "https://www.wikidata.org/wiki/Q54005656"
+      }
+    },
+    {
+      "id": "sugar",
+      "name": "Sugar",
+      "aliases": [
+        "That Sugar Baby o' Mine",
+        "Sugar Sugar",
+        "Sugar, Honey and Pepper",
+        "Zucchero, miele e peperoncino",
+        "Azucár",
+        "Sugar (2024 TV series)",
+        "Austin Kim",
+        "IMO 7119989",
+        "IMO 7640603"
+      ],
+      "cuisines": [],
+      "_provenance": {
+        "source_url": "https://en.wikipedia.org/wiki/Sugar",
+        "source_name": "Wikipedia",
+        "license": "CC BY-SA 4.0",
+        "summary": "Sugar is the generic name for sweet-tasting, soluble carbohydrates, many of which are used in food. Simple sugars, also called monosaccharides, include glucose, fructose, and galactose. Compound sugars, also called disaccharides or double sugars, are molecules made of two bonded "
+      },
+      "_wikidata": {
+        "id": "Q122787045",
+        "source_url": "https://www.wikidata.org/wiki/Q122787045"
+      }
+    },
+    {
+      "id": "salt",
+      "name": "Salt",
+      "aliases": [
+        "Salt, Staffordshire",
+        "SaltStack",
+        "Saltus",
+        "As Salt",
+        "Salt (given name)",
+        "IMO 7014115",
+        "Salt, Aberystwyth",
+        "Salt, Cardiff Bay, Cardiff"
+      ],
+      "cuisines": [],
+      "_provenance": {
+        "source_url": "https://en.wikipedia.org/wiki/Salt",
+        "source_name": "Wikipedia",
+        "license": "CC BY-SA 4.0",
+        "summary": "In common usage, salt is a mineral composed primarily of sodium chloride (NaCl). When used in food, especially in granulated form, it is more formally called table salt. In the form of a natural crystalline mineral, salt is also known as rock salt or halite. Salt is essential for"
+      },
+      "_wikidata": {
+        "id": "Q10660721",
+        "source_url": "https://www.wikidata.org/wiki/Q10660721"
+      }
+    },
+    {
+      "id": "black-pepper",
+      "name": "Black pepper",
+      "cuisines": [],
+      "_provenance": {
+        "source_url": "https://en.wikipedia.org/wiki/Black%20pepper",
+        "source_name": "Wikipedia",
+        "license": "CC BY-SA 4.0",
+        "summary": "Black pepper (Piper nigrum) is a flowering vine in the family Piperaceae, cultivated for its fruit (the peppercorn), which is usually dried and used as a spice and seasoning. The fruit is a drupe (stonefruit) which is about 5 mm (1⁄4 in) in diameter (fresh and fully mature), dark"
+      }
+    },
+    {
+      "id": "paprika",
+      "name": "Paprika",
+      "aliases": [
+        "Baby Paprika",
+        "Paprika Shopping",
+        "PAPRIKA"
+      ],
+      "cuisines": [
+        "Bosnia and Herzegovina",
+        "Bulgarian"
+      ],
+      "_provenance": {
+        "source_url": "https://en.wikipedia.org/wiki/Paprika",
+        "source_name": "Wikipedia",
+        "license": "CC BY-SA 4.0",
+        "summary": "Paprika is a spice made from dried and ground red peppers, Capsicum annuum. It can have varying levels of heat, but the peppers used for hot paprika tend to be milder and have thinner flesh than those used to produce chili powder. The milder, sweet paprika is mostly composed of t"
+      },
+      "_wikidata": {
+        "id": "Q65807959",
+        "source_url": "https://www.wikidata.org/wiki/Q65807959"
+      }
+    },
+    {
+      "id": "cumin",
+      "name": "Cumin",
+      "aliases": [
+        "Cumin (family name)",
+        "Cumin (surname)"
+      ],
+      "cuisines": [],
+      "_provenance": {
+        "source_url": "https://en.wikipedia.org/wiki/Cumin",
+        "source_name": "Wikipedia",
+        "license": "CC BY-SA 4.0",
+        "summary": "Cumin ( ,  ; US also  ; Cuminum cyminum) is a flowering plant in the family Apiaceae, native to the Irano-Turanian Region. Its seeds – each one contained within a fruit, which is dried – are used in the cuisines of many cultures in both whole and ground form. Although cumin is us"
+      },
+      "_wikidata": {
+        "id": "Q54858177",
+        "source_url": "https://www.wikidata.org/wiki/Q54858177"
+      }
+    },
+    {
+      "id": "coriander",
+      "name": "Coriander",
+      "aliases": [],
+      "cuisines": [],
+      "_provenance": {
+        "source_url": "https://en.wikipedia.org/wiki/Coriander",
+        "source_name": "Wikipedia",
+        "license": "CC BY-SA 4.0",
+        "summary": "Coriander (), whose leaves are known as cilantro () is an annual herb (Coriandrum sativum) in the family Apiaceae.\nMost people perceive the leaves as having a fresh, slightly citrus taste. Due to variations in the gene OR6A2, some people perceive it to have a soap-like taste, or "
+      },
+      "_wikidata": {
+        "id": "Q126883348",
+        "source_url": "https://www.wikidata.org/wiki/Q126883348"
+      }
+    },
+    {
+      "id": "chili-powder",
+      "name": "Chili powder",
+      "cuisines": [
+        "Korean"
+      ],
+      "grocery_category": "spices-herbs",
+      "_provenance": {
+        "source_url": "https://en.wikipedia.org/wiki/Chili%20powder",
+        "source_name": "Wikipedia",
+        "license": "CC BY-SA 4.0",
+        "summary": "Chili powder (also spelled chile, chilli, or, alternatively, powdered chili) is the dried, pulverized fruit of one or more varieties of chili pepper, sometimes with the addition of other spices (in which case it is also sometimes known as chili powder blend or chili seasoning mix"
+      }
+    },
+    {
+      "id": "oregano",
+      "name": "Oregano",
+      "aliases": [],
+      "cuisines": [],
+      "_provenance": {
+        "source_url": "https://en.wikipedia.org/wiki/Oregano",
+        "source_name": "Wikipedia",
+        "license": "CC BY-SA 4.0",
+        "summary": "Oregano (US: , UK: ; Origanum vulgare) is a species of flowering plant in the mint family, Lamiaceae. It was native to the Mediterranean region, but widely naturalised elsewhere in the temperate Northern Hemisphere.\nOregano is a woody perennial plant, growing to 90 cm (35 in) tal"
+      },
+      "_wikidata": {
+        "id": "Q19397337",
+        "source_url": "https://www.wikidata.org/wiki/Q19397337"
+      }
+    },
+    {
+      "id": "thyme",
+      "name": "Thyme",
+      "aliases": [],
+      "cuisines": [
+        "Albanian"
+      ],
+      "grocery_category": "spices-herbs",
+      "_provenance": {
+        "source_url": "https://en.wikipedia.org/wiki/Thyme",
+        "source_name": "Wikipedia",
+        "license": "CC BY-SA 4.0",
+        "summary": "Thyme () is a culinary herb consisting of the dried aerial parts of some members of the genus Thymus of flowering plants in the mint family Lamiaceae. Thymes are native to Eurasia and north Africa. Thymes have culinary, medicinal, and ornamental uses. The species most commonly cu"
+      },
+      "_wikidata": {
+        "id": "Q126957018",
+        "source_url": "https://www.wikidata.org/wiki/Q126957018"
+      }
+    },
+    {
+      "id": "rosemary",
+      "name": "Rosemary",
+      "aliases": [
+        "Rosemary, That's for Remembrance",
+        "Rosemary, Alberta",
+        "Rosemary Belkiss",
+        "Rosemary Pereira Gonçalves",
+        "Courtney Rush",
+        "Holly Letkeman",
+        "Rozmarýnka",
+        "Rozmaring",
+        "Category:IMO 9424948",
+        "IMO 9424948",
+        "IMO 9432804"
+      ],
+      "cuisines": [],
+      "_provenance": {
+        "source_url": "https://en.wikipedia.org/wiki/Rosemary",
+        "source_name": "Wikipedia",
+        "license": "CC BY-SA 4.0",
+        "summary": "Salvia rosmarinus (), commonly known as rosemary, is a shrub with fragrant, evergreen, needle-like leaves and purple or sometimes white, pink, or blue flowers. It is a member of the sage family, Lamiaceae.\nThe species is native to the Mediterranean region, as well as Portugal and"
+      },
+      "_wikidata": {
+        "id": "Q86060830",
+        "source_url": "https://www.wikidata.org/wiki/Q86060830"
+      }
+    },
+    {
+      "id": "ginger",
+      "name": "Ginger",
+      "aliases": [
+        "Gingers",
+        "Clam Savage",
+        "David Leslie Walls",
+        "David Walls",
+        "Ginger Wildheart",
+        "Howling Willie Cunt",
+        "Ginger, Washington",
+        "IMO 9507063"
+      ],
+      "cuisines": [],
+      "_provenance": {
+        "source_url": "https://en.wikipedia.org/wiki/Ginger",
+        "source_name": "Wikipedia",
+        "license": "CC BY-SA 4.0",
+        "summary": "Ginger (Zingiber officinale) is a flowering plant whose rhizome, ginger root or ginger, is widely used as a spice and a folk medicine. It is an herbaceous perennial that grows annual pseudostems (false stems made of the rolled bases of leaves) about one meter tall, bearing narrow"
+      },
+      "_wikidata": {
+        "id": "Q83584086",
+        "source_url": "https://www.wikidata.org/wiki/Q83584086"
+      }
+    },
+    {
+      "id": "soy-sauce",
+      "name": "Soy sauce",
+      "aliases": [],
+      "cuisines": [],
+      "_provenance": {
+        "source_url": "https://en.wikipedia.org/wiki/Soy%20sauce",
+        "source_name": "Wikipedia",
+        "license": "CC BY-SA 4.0",
+        "summary": "Soy sauce (sometimes called soya sauce in British English) is a liquid condiment of Chinese origin, traditionally made from a fermented paste of soybeans, roasted grain, brine, and Aspergillus oryzae or Aspergillus sojae molds. It is recognized for its saltiness and pronounced um"
+      },
+      "_wikidata": {
+        "id": "Q126999618",
+        "source_url": "https://www.wikidata.org/wiki/Q126999618"
+      }
+    },
+    {
+      "id": "fish-sauce",
+      "name": "Fish sauce",
+      "cuisines": [],
+      "_provenance": {
+        "source_url": "https://en.wikipedia.org/wiki/Fish%20sauce",
+        "source_name": "Wikipedia",
+        "license": "CC BY-SA 4.0",
+        "summary": "Fish sauce is a liquid condiment made from fish or krill that have been coated in salt and fermented for up to two years. It is used as a staple seasoning in East Asian cuisine and Southeast Asian cuisine, particularly Myanmar, Cambodia, Laos, Philippines, Thailand, and Vietnam. "
+      }
+    },
+    {
+      "id": "vinegar",
+      "name": "Vinegar",
+      "aliases": [],
+      "cuisines": [],
+      "_provenance": {
+        "source_url": "https://en.wikipedia.org/wiki/Vinegar",
+        "source_name": "Wikipedia",
+        "license": "CC BY-SA 4.0",
+        "summary": "Vinegar (from Old French  vyn egre 'sour wine') is an odorous aqueous solution of diluted acetic acid and trace compounds that may include flavorings or naturally occurring organic compounds. Vinegar typically contains from 4% to 18% acetic acid by volume.\nUsually, the acetic aci"
+      },
+      "_wikidata": {
+        "id": "Q39562095",
+        "source_url": "https://www.wikidata.org/wiki/Q39562095"
+      }
+    },
+    {
+      "id": "balsamic-vinegar",
+      "name": "Balsamic vinegar",
+      "cuisines": [],
+      "_provenance": {
+        "source_url": "https://en.wikipedia.org/wiki/Balsamic%20vinegar",
+        "source_name": "Wikipedia",
+        "license": "CC BY-SA 4.0",
+        "summary": "Balsamic vinegar (Italian: aceto balsamico) is a dark, concentrated, intensely flavoured vinegar made wholly or partially from grape must: freshly crushed grape juice with all the skins, seeds, and stems."
+      }
+    },
+    {
+      "id": "red-wine-vinegar",
+      "name": "Red wine vinegar",
+      "cuisines": [],
+      "_provenance": {
+        "source_url": "https://en.wikipedia.org/wiki/Red%20wine%20vinegar",
+        "source_name": "Wikipedia",
+        "license": "CC BY-SA 4.0",
+        "summary": ""
+      }
+    },
+    {
+      "id": "lime",
+      "name": "Lime",
+      "aliases": [
+        "Lime, OR",
+        "Lime, Oregon",
+        "Le Page",
+        "Denis & Denyse LePage",
+        "Denis LePage & Denyse LePage",
+        "uncharacterized protein",
+        "CG18446",
+        "CG18446 gene product from transcript CG18446-RA",
+        "Dmel_CG18446",
+        "Dmel\\CG18446",
+        "Linking immunity and metabolism",
+        "LimeBike",
+        "Neutron Holdings, Inc.",
+        "Kim Hye-lim",
+        "Light Media Engine",
+        "IMO 8857954"
+      ],
+      "cuisines": [],
+      "_provenance": {
+        "source_url": "https://en.wikipedia.org/wiki/Lime",
+        "source_name": "Wikipedia",
+        "license": "CC BY-SA 4.0",
+        "summary": "Lime most commonly refers to:\n\nLime (fruit), a green citrus fruit\nLime (material), inorganic materials containing calcium, usually calcium oxide or calcium hydroxide\nLime (color), a color between yellow and green\nLime may also refer to:"
+      },
+      "_wikidata": {
+        "id": "Q98506783",
+        "source_url": "https://www.wikidata.org/wiki/Q98506783"
+      }
+    },
+    {
+      "id": "lemon",
+      "name": "Lemon",
+      "aliases": [
+        "Hans Vermeersch, Bart Parmentier, Tom Barbier & Dieter Guss",
+        "Lemon (surname)",
+        "Atlantis",
+        "James Bond",
+        "Chanhassen",
+        "Lemon, Kentucky",
+        "Lemon, KY",
+        "JFB",
+        "Nick Hollywood",
+        "Lu Jingyang"
+      ],
+      "cuisines": [],
+      "grocery_category": "produce",
+      "_provenance": {
+        "source_url": "https://en.wikipedia.org/wiki/Lemon",
+        "source_name": "Wikipedia",
+        "license": "CC BY-SA 4.0",
+        "summary": "The lemon (Citrus × limon) is a species of small evergreen tree in the Citrus genus of the flowering plant family Rutaceae. A true lemon is a hybrid of the citron and the bitter orange. Its origins are uncertain, but some evidence suggests lemons originated during the 1st millenn"
+      },
+      "_wikidata": {
+        "id": "Q117453551",
+        "source_url": "https://www.wikidata.org/wiki/Q117453551"
+      }
+    },
+    {
+      "id": "rice",
+      "name": "Rice",
+      "aliases": [
+        "Rice family name",
+        "Rice surname",
+        "Oryza",
+        "Rice, VA",
+        "Rice, Virginia",
+        "Rice, Kansas",
+        "Rice, KS",
+        "Rice, Washington",
+        "The Rice People",
+        "Rice, OR",
+        "Rice, Oregon",
+        "Rice, CA",
+        "Rice, Texas",
+        "Rice, TX",
+        "Rice, Minnesota",
+        "Rice, MN",
+        "Rice, IL",
+        "Rice Records",
+        "rice databases",
+        "Rice, OH",
+        "Rice, Ohio"
+      ],
+      "cuisines": [],
+      "_provenance": {
+        "source_url": "https://en.wikipedia.org/wiki/Rice",
+        "source_name": "Wikipedia",
+        "license": "CC BY-SA 4.0",
+        "summary": "Rice is a cereal grain and in its domesticated form is the staple food of over half of the world's population, particularly in Asia and Africa. Rice is the seed of the grass species Oryza sativa (Asian rice)—or, much less commonly, Oryza glaberrima (African rice). Asian rice was "
+      },
+      "_wikidata": {
+        "id": "Q22134173",
+        "source_url": "https://www.wikidata.org/wiki/Q22134173"
+      }
+    },
+    {
+      "id": "black-beans",
+      "name": "Black beans",
+      "cuisines": [],
+      "_provenance": {
+        "source_url": "https://en.wikipedia.org/wiki/Black%20beans",
+        "source_name": "Wikipedia",
+        "license": "CC BY-SA 4.0",
+        "summary": ""
+      }
+    },
+    {
+      "id": "chickpea",
+      "name": "Chickpea",
+      "cuisines": [],
+      "_provenance": {
+        "source_url": "https://en.wikipedia.org/wiki/Chickpea",
+        "source_name": "Wikipedia",
+        "license": "CC BY-SA 4.0",
+        "summary": "The chickpea or chick pea (Cicer arietinum) is an annual legume of the family Fabaceae, subfamily Faboideae, cultivated for its edible seeds. Its different types are variously known as gram, Bengal gram, garbanzo, garbanzo bean, or Egyptian pea. It is one of the earliest cultivat"
+      }
+    },
+    {
+      "id": "lentil",
+      "name": "Lentil",
+      "aliases": [
+        "Lentil, Novelúa, Monterroso"
+      ],
+      "cuisines": [],
+      "_provenance": {
+        "source_url": "https://en.wikipedia.org/wiki/Lentil",
+        "source_name": "Wikipedia",
+        "license": "CC BY-SA 4.0",
+        "summary": "The lentil (Vicia lens or Lens culinaris) is an annual legume grown for its lens-shaped edible seeds or pulses, also called lentils. It is about 40 cm (16 in) tall, and the seeds grow in pods, usually with two seeds in each.\nLentil seeds are used around the world for culinary pur"
+      },
+      "_wikidata": {
+        "id": "Q113120861",
+        "source_url": "https://www.wikidata.org/wiki/Q113120861"
+      }
+    },
+    {
+      "id": "quinoa",
+      "name": "Quinoa",
+      "aliases": [],
+      "cuisines": [],
+      "_provenance": {
+        "source_url": "https://en.wikipedia.org/wiki/Quinoa",
+        "source_name": "Wikipedia",
+        "license": "CC BY-SA 4.0",
+        "summary": "Quinoa (Chenopodium quinoa; , from Quechua kinwa or kinuwa) is a flowering plant in the amaranth family. It is a herbaceous annual plant grown as a crop primarily for its edible seeds; the seeds are high in protein, dietary fiber, B vitamins and dietary minerals especially potass"
+      },
+      "_wikidata": {
+        "id": "Q118214546",
+        "source_url": "https://www.wikidata.org/wiki/Q118214546"
+      }
+    },
+    {
+      "id": "potato",
+      "name": "Potato",
+      "aliases": [
+        "POTATO",
+        "Solanum subg. Potatoe"
+      ],
+      "cuisines": [],
+      "_provenance": {
+        "source_url": "https://en.wikipedia.org/wiki/Potato",
+        "source_name": "Wikipedia",
+        "license": "CC BY-SA 4.0",
+        "summary": "The potato () is a starchy tuberous vegetable native to the Americas that is consumed as a staple food in many parts of the world. Potatoes are underground stem tubers of the plant Solanum tuberosum, a perennial in the nightshade family Solanaceae.\nWild potato species can be foun"
+      },
+      "_wikidata": {
+        "id": "Q17537212",
+        "source_url": "https://www.wikidata.org/wiki/Q17537212"
+      }
+    },
+    {
+      "id": "carrot",
+      "name": "Carrot",
+      "aliases": [],
+      "cuisines": [],
+      "_provenance": {
+        "source_url": "https://en.wikipedia.org/wiki/Carrot",
+        "source_name": "Wikipedia",
+        "license": "CC BY-SA 4.0",
+        "summary": "The carrot (Daucus carota subsp. sativus) is a root vegetable, typically orange in colour, though heirloom variants including purple, black, red, white, and yellow cultivars exist, all of which are domesticated forms of the wild carrot, Daucus carota, native to Europe and Southwe"
+      },
+      "_wikidata": {
+        "id": "Q127000180",
+        "source_url": "https://www.wikidata.org/wiki/Q127000180"
+      }
+    },
+    {
+      "id": "celery",
+      "name": "Celery",
+      "aliases": [
+        "Celery Task Queue"
+      ],
+      "cuisines": [],
+      "_provenance": {
+        "source_url": "https://en.wikipedia.org/wiki/Celery",
+        "source_name": "Wikipedia",
+        "license": "CC BY-SA 4.0",
+        "summary": "Celery (Apium graveolens Dulce Group or Apium graveolens var. dulce) is a cultivated plant belonging to the species Apium graveolens in the family Apiaceae that has been used as a vegetable since ancient times.\nThe original wild species has been selectively bred over centuries in"
+      },
+      "_wikidata": {
+        "id": "Q130538999",
+        "source_url": "https://www.wikidata.org/wiki/Q130538999"
+      }
+    },
+    {
+      "id": "bell-pepper",
+      "name": "Bell pepper",
+      "cuisines": [],
+      "_provenance": {
+        "source_url": "https://en.wikipedia.org/wiki/Bell%20pepper",
+        "source_name": "Wikipedia",
+        "license": "CC BY-SA 4.0",
+        "summary": "The bell pepper (also known as sweet pepper, paprika, pepper, capsicum  or, in some parts of the US midwest, mango) is the fruit of plants in the Grossum Group of the species Capsicum annuum. Cultivars of the plant produce fruits in different colors, including red, yellow, orange"
+      }
+    },
+    {
+      "id": "mushroom",
+      "name": "Mushroom",
+      "aliases": [
+        "Gomba",
+        "Masshurūmu"
+      ],
+      "cuisines": [],
+      "grocery_category": "produce",
+      "_provenance": {
+        "source_url": "https://en.wikipedia.org/wiki/Mushroom",
+        "source_name": "Wikipedia",
+        "license": "CC BY-SA 4.0",
+        "summary": "A mushroom or toadstool is the fleshy, spore-bearing fruiting body of a fungus, typically produced above ground on soil or another food source. Toadstool generally refers to a poisonous mushroom.\nThe standard for the name \"mushroom\" is the cultivated white button mushroom, Agaric"
+      },
+      "_wikidata": {
+        "id": "Q98507005",
+        "source_url": "https://www.wikidata.org/wiki/Q98507005"
+      }
+    },
+    {
+      "id": "zucchini",
+      "name": "Zucchini",
+      "aliases": [],
+      "cuisines": [],
+      "grocery_category": "produce",
+      "_provenance": {
+        "source_url": "https://en.wikipedia.org/wiki/Zucchini",
+        "source_name": "Wikipedia",
+        "license": "CC BY-SA 4.0",
+        "summary": "Zucchini ( , zoo-KEE-nee; pl.: zucchini or zucchinis), (Italy, Australia and North America)  courgette (, kur-ZHET) (France and Britain) or Cucurbita pepo  var. cylindrica is a summer squash, a vining herbaceous plant whose fruit are harvested when their immature seeds and epicar"
+      },
+      "_wikidata": {
+        "id": "Q98446983",
+        "source_url": "https://www.wikidata.org/wiki/Q98446983"
+      }
+    },
+    {
+      "id": "eggplant",
+      "name": "Eggplant",
+      "aliases": [
+        "TestPlant"
+      ],
+      "cuisines": [],
+      "_provenance": {
+        "source_url": "https://en.wikipedia.org/wiki/Eggplant",
+        "source_name": "Wikipedia",
+        "license": "CC BY-SA 4.0",
+        "summary": "Eggplant (US, CA, AU, PH), aubergine (UK, IE, NZ), brinjal (IN, SG, MY, ZA, SLE), or baigan (IN, GY) is a plant species in the nightshade family Solanaceae. Solanum melongena is grown worldwide for its edible fruit, typically used as a vegetable in cooking.\nMost commonly purple, "
+      },
+      "_wikidata": {
+        "id": "Q135059344",
+        "source_url": "https://www.wikidata.org/wiki/Q135059344"
+      }
+    },
+    {
+      "id": "broccoli",
+      "name": "Broccoli",
+      "aliases": [
+        "Broccoli Co., Ltd.",
+        "Broccoli B.V."
+      ],
+      "cuisines": [],
+      "grocery_category": "produce",
+      "_provenance": {
+        "source_url": "https://en.wikipedia.org/wiki/Broccoli",
+        "source_name": "Wikipedia",
+        "license": "CC BY-SA 4.0",
+        "summary": "Broccoli (Brassica oleracea var. italica) is an edible green plant in the cabbage family (family Brassicaceae, genus Brassica) whose large flowering head, stalk and small associated leaves are eaten as a vegetable. Broccoli is classified in the Italica cultivar group of the speci"
+      },
+      "_wikidata": {
+        "id": "Q123471934",
+        "source_url": "https://www.wikidata.org/wiki/Q123471934"
+      }
+    },
+    {
+      "id": "cauliflower",
+      "name": "Cauliflower",
+      "aliases": [],
+      "cuisines": [],
+      "_provenance": {
+        "source_url": "https://en.wikipedia.org/wiki/Cauliflower",
+        "source_name": "Wikipedia",
+        "license": "CC BY-SA 4.0",
+        "summary": "Cauliflower is one of several vegetables cultivated from the species Brassica oleracea in the genus Brassica, which is in the Brassicaceae (or mustard) family. Cauliflower usually grows with one main stem that carries a large, rounded \"head\" made of tightly clustered, immature wh"
+      },
+      "_wikidata": {
+        "id": "Q110064464",
+        "source_url": "https://www.wikidata.org/wiki/Q110064464"
+      }
+    },
+    {
+      "id": "cabbage",
+      "name": "Cabbage",
+      "aliases": [
+        "Xiăobáicài"
+      ],
+      "cuisines": [],
+      "_provenance": {
+        "source_url": "https://en.wikipedia.org/wiki/Cabbage",
+        "source_name": "Wikipedia",
+        "license": "CC BY-SA 4.0",
+        "summary": "Cabbage, comprising several cultivars of Brassica oleracea, is a leafy green, red (purple), or white (pale green) biennial plant grown as an annual vegetable crop for its dense-leaved heads. It is descended from the wild cabbage (B. oleracea var. oleracea), and belongs to the \"co"
+      },
+      "_wikidata": {
+        "id": "Q119302480",
+        "source_url": "https://www.wikidata.org/wiki/Q119302480"
+      }
+    },
+    {
+      "id": "chicken",
+      "name": "Chicken",
+      "aliases": [
+        "Chicken, AK",
+        "Chicken, Alaska",
+        "Chicken mob",
+        "MC Chicken",
+        "Minecraft Chicken"
+      ],
+      "cuisines": [],
+      "_provenance": {
+        "source_url": "https://en.wikipedia.org/wiki/Chicken",
+        "source_name": "Wikipedia",
+        "license": "CC BY-SA 4.0",
+        "summary": "The chicken (Gallus gallus domesticus) is a domesticated subspecies of the red junglefowl (Gallus gallus), originally native to Southeast Asia. It was first domesticated around 8,000 years ago and has become one of the most common and widespread domesticated animals in the world."
+      },
+      "_wikidata": {
+        "id": "Q114353557",
+        "source_url": "https://www.wikidata.org/wiki/Q114353557"
+      }
+    },
+    {
+      "id": "beef",
+      "name": "Beef",
+      "aliases": [
+        "Hellions",
+        "Buford Wilson",
+        "Beeflang"
+      ],
+      "cuisines": [],
+      "_provenance": {
+        "source_url": "https://en.wikipedia.org/wiki/Beef",
+        "source_name": "Wikipedia",
+        "license": "CC BY-SA 4.0",
+        "summary": "Beef is the culinary name for meat from cattle (Bos taurus). Beef can be prepared in various ways; cuts are often used for steak, which can be cooked to varying degrees of doneness, while trimmings are often ground or minced, as found in most hamburgers. Beef contains protein, ir"
+      },
+      "_wikidata": {
+        "id": "Q84104242",
+        "source_url": "https://www.wikidata.org/wiki/Q84104242"
+      }
+    },
+    {
+      "id": "pork",
+      "name": "Pork",
+      "aliases": [
+        "Krzysztof Borkusz"
+      ],
+      "cuisines": [],
+      "_provenance": {
+        "source_url": "https://en.wikipedia.org/wiki/Pork",
+        "source_name": "Wikipedia",
+        "license": "CC BY-SA 4.0",
+        "summary": "Pork is the culinary name for the meat of the pig (Sus domesticus). It is the most commonly consumed meat worldwide, with evidence of pig husbandry dating back to 8000–9000 BCE.\nPork is eaten both freshly cooked and preserved; curing extends the shelf life of pork products. Ham, "
+      },
+      "_wikidata": {
+        "id": "Q130359241",
+        "source_url": "https://www.wikidata.org/wiki/Q130359241"
+      }
+    },
+    {
+      "id": "lamb",
+      "name": "Lamb",
+      "aliases": [
+        "Lamb, Kentucky",
+        "Lamb, KY",
+        "The Lamb",
+        "Lamb PH",
+        "The Lamb, Newport",
+        "Lady Lamb the Beekeeper",
+        "Lamb, IL",
+        "Lamb, Illinois",
+        "Lamb Parish",
+        "Parish of Lamb",
+        "Lamb (given name)",
+        "Dýrið",
+        "Lamb Island",
+        "Lamb, Indiana",
+        "Lamb, St Albans"
+      ],
+      "cuisines": [],
+      "_provenance": {
+        "source_url": "https://en.wikipedia.org/wiki/Lamb",
+        "source_name": "Wikipedia",
+        "license": "CC BY-SA 4.0",
+        "summary": "Lamb or The Lamb may refer to:\n\nA young sheep\nLamb and mutton, the meat of sheep"
+      },
+      "_wikidata": {
+        "id": "Q83558724",
+        "source_url": "https://www.wikidata.org/wiki/Q83558724"
+      }
+    },
+    {
+      "id": "shrimp",
+      "name": "Shrimp",
+      "aliases": [
+        "A37",
+        "Saro Shrimp",
+        "Saunders Roe A.37 Shrimp",
+        "Shrimp aircraft"
+      ],
+      "cuisines": [],
+      "_provenance": {
+        "source_url": "https://en.wikipedia.org/wiki/Shrimp",
+        "source_name": "Wikipedia",
+        "license": "CC BY-SA 4.0",
+        "summary": "A shrimp (pl.: shrimp (US) or shrimps (UK)) is a crustacean with an elongated body and a primarily swimming mode of locomotion – typically Decapods belonging to the Caridea or Dendrobranchiata, although some crustaceans outside of this order are also referred to as \"shrimp\". Any "
+      },
+      "_wikidata": {
+        "id": "Q3012843",
+        "source_url": "https://www.wikidata.org/wiki/Q3012843"
+      }
+    },
+    {
+      "id": "salmon",
+      "name": "Salmon",
+      "aliases": [
+        "Salmon Protocol",
+        "Byron Switch",
+        "Byron Switch, Anderson County, Texas",
+        "Byron Switch, Texas",
+        "Salmon TX",
+        "Salmon, Anderson County, Texas",
+        "Salmon, Texas",
+        "Salmon, ID",
+        "Salmon, Idaho",
+        "Salomon",
+        "Salmah",
+        "salmon alignment tool",
+        "salmon software",
+        "MC Salmon",
+        "Minecraft Salmon",
+        "Salmon mob",
+        "Fleetway Salmon"
+      ],
+      "cuisines": [
+        "Alaskan"
+      ],
+      "_provenance": {
+        "source_url": "https://en.wikipedia.org/wiki/Salmon",
+        "source_name": "Wikipedia",
+        "license": "CC BY-SA 4.0",
+        "summary": "Salmon (; pl.: salmon) are any of several commercially important species of euryhaline ray-finned fish from the genera Salmo and Oncorhynchus of the family Salmonidae, native to tributaries of the North Atlantic (Salmo) and North Pacific (Oncorhynchus) basins.  Salmon is a colloq"
+      },
+      "_wikidata": {
+        "id": "Q125947492",
+        "source_url": "https://www.wikidata.org/wiki/Q125947492"
+      }
+    },
+    {
+      "id": "tuna",
+      "name": "Tuna",
+      "aliases": [
+        "Tuna parish",
+        "Duina",
+        "Düna",
+        "Altuna Sejdiu",
+        "Tuna Barrio",
+        "Tuna, Puerto Rico",
+        "Tuna, San Germán",
+        "Wenke",
+        "Jintang",
+        "Katherina Chapa",
+        "IMO 8230041",
+        "Tuna (given name)",
+        "IMO 9306691"
+      ],
+      "cuisines": [],
+      "_provenance": {
+        "source_url": "https://en.wikipedia.org/wiki/Tuna",
+        "source_name": "Wikipedia",
+        "license": "CC BY-SA 4.0",
+        "summary": "A tuna (pl.: tunas or tuna) is a saltwater fish that belongs to the tribe Thunnini, a subgrouping of the Scombridae (mackerel) family. The Thunnini comprise 15 species across five genera, the sizes of which vary greatly, ranging from the bullet tuna (max length: 50 cm or 1.6 ft, "
+      },
+      "_wikidata": {
+        "id": "Q83642827",
+        "source_url": "https://www.wikidata.org/wiki/Q83642827"
+      }
+    },
+    {
+      "id": "beef-broth",
+      "name": "Beef Broth",
+      "_provenance": {
+        "source_name": "Corpus",
+        "source_url": "./data/raw/onebatch.jsonl",
+        "license": "Derived",
+        "summary": "Discovered from recipe corpus (auto-added)."
+      }
+    },
+    {
+      "id": "beef-chuck",
+      "name": "Beef Chuck",
+      "_provenance": {
+        "source_name": "Corpus",
+        "source_url": "./data/raw/onebatch.jsonl",
+        "license": "Derived",
+        "summary": "Discovered from recipe corpus (auto-added)."
+      }
+    },
+    {
+      "id": "peas",
+      "name": "Peas",
+      "_provenance": {
+        "source_name": "Corpus",
+        "source_url": "./data/raw/onebatch.jsonl",
+        "license": "Derived",
+        "summary": "Discovered from recipe corpus (auto-added)."
+      }
+    },
+    {
+      "id": "avocado",
+      "name": "Avocado",
+      "_provenance": {
+        "source_name": "Corpus",
+        "source_url": "./data/raw/onebatch.jsonl",
+        "license": "Derived",
+        "summary": "Discovered from recipe corpus (auto-added)."
+      }
+    },
+    {
+      "id": "miso",
+      "name": "Miso",
+      "_provenance": {
+        "source_name": "Corpus",
+        "source_url": "./data/raw/onebatch.jsonl",
+        "license": "Derived",
+        "summary": "Discovered from recipe corpus (auto-added)."
+      }
+    },
+    {
+      "id": "tofu",
+      "name": "Tofu",
+      "_provenance": {
+        "source_name": "Corpus",
+        "source_url": "./data/raw/onebatch.jsonl",
+        "license": "Derived",
+        "summary": "Discovered from recipe corpus (auto-added)."
+      }
+    },
+    {
+      "id": "seaweed",
+      "name": "Seaweed",
+      "_provenance": {
+        "source_name": "Corpus",
+        "source_url": "./data/raw/onebatch.jsonl",
+        "license": "Derived",
+        "summary": "Discovered from recipe corpus (auto-added)."
+      }
+    },
+    {
+      "id": "pasta",
+      "name": "Pasta",
+      "_provenance": {
+        "source_name": "Corpus",
+        "source_url": "./data/raw/onebatch.jsonl",
+        "license": "Derived",
+        "summary": "Discovered from recipe corpus (auto-added)."
+      }
+    },
+    {
+      "id": "pine-nuts",
+      "name": "Pine Nuts",
+      "_provenance": {
+        "source_name": "Corpus",
+        "source_url": "./data/raw/onebatch.jsonl",
+        "license": "Derived",
+        "summary": "Discovered from recipe corpus (auto-added)."
+      }
+    },
+    {
+      "id": "star-anise",
+      "name": "Star Anise",
+      "_provenance": {
+        "source_name": "Corpus",
+        "source_url": "./data/raw/onebatch.jsonl",
+        "license": "Derived",
+        "summary": "Discovered from recipe corpus (auto-added)."
+      }
+    },
+    {
+      "id": "clove",
+      "name": "Clove",
+      "_provenance": {
+        "source_name": "Corpus",
+        "source_url": "./data/raw/onebatch.jsonl",
+        "license": "Derived",
+        "summary": "Discovered from recipe corpus (auto-added)."
+      }
+    },
+    {
+      "id": "rice-noodles",
+      "name": "Rice Noodles",
+      "_provenance": {
+        "source_name": "Corpus",
+        "source_url": "./data/raw/onebatch.jsonl",
+        "license": "Derived",
+        "summary": "Discovered from recipe corpus (auto-added)."
+      }
+    },
+    {
+      "id": "bulgur",
+      "name": "Bulgur",
+      "_provenance": {
+        "source_name": "Corpus",
+        "source_url": "./data/raw/onebatch.jsonl",
+        "license": "Derived",
+        "summary": "Discovered from recipe corpus (auto-added)."
+      }
+    },
+    {
+      "id": "coconut-milk",
+      "name": "Coconut Milk",
+      "_provenance": {
+        "source_name": "Corpus",
+        "source_url": "./data/raw/onebatch.jsonl",
+        "license": "Derived",
+        "summary": "Discovered from recipe corpus (auto-added)."
+      }
+    },
+    {
+      "id": "curry-powder",
+      "name": "Curry Powder",
+      "_provenance": {
+        "source_name": "Corpus",
+        "source_url": "./data/raw/onebatch.jsonl",
+        "license": "Derived",
+        "summary": "Discovered from recipe corpus (auto-added)."
+      }
+    },
+    {
+      "id": "flank-steak",
+      "name": "Flank Steak",
+      "_provenance": {
+        "source_name": "Corpus",
+        "source_url": "./data/raw/onebatch.jsonl",
+        "license": "Derived",
+        "summary": "Discovered from recipe corpus (auto-added)."
+      }
+    },
+    {
+      "id": "low-sodium-soy-sauce",
+      "name": "Low-sodium Soy Sauce",
+      "_provenance": {
+        "source_name": "Corpus",
+        "source_url": "./data/raw/onebatch.jsonl",
+        "license": "Derived",
+        "summary": "Discovered from recipe corpus (auto-added)."
+      }
+    },
+    {
+      "id": "brown-sugar",
+      "name": "Brown Sugar",
+      "_provenance": {
+        "source_name": "Corpus",
+        "source_url": "./data/raw/onebatch.jsonl",
+        "license": "Derived",
+        "summary": "Discovered from recipe corpus (auto-added)."
+      }
+    },
+    {
+      "id": "lime-juice",
+      "name": "Lime Juice",
+      "_provenance": {
+        "source_name": "Corpus",
+        "source_url": "./data/raw/onebatch.jsonl",
+        "license": "Derived",
+        "summary": "Discovered from recipe corpus (auto-added)."
+      }
+    },
+    {
+      "id": "crushed-red-pepper-flakes",
+      "name": "Crushed Red Pepper Flakes",
+      "_provenance": {
+        "source_name": "Corpus",
+        "source_url": "./data/raw/onebatch.jsonl",
+        "license": "Derived",
+        "summary": "Discovered from recipe corpus (auto-added)."
+      }
+    },
+    {
+      "id": "spaghetti",
+      "name": "Spaghetti",
+      "_provenance": {
+        "source_name": "Corpus",
+        "source_url": "./data/raw/onebatch.jsonl",
+        "license": "Derived",
+        "summary": "Discovered from recipe corpus (auto-added)."
+      }
+    },
+    {
+      "id": "sesame-oil",
+      "name": "Sesame Oil",
+      "_provenance": {
+        "source_name": "Corpus",
+        "source_url": "./data/raw/onebatch.jsonl",
+        "license": "Derived",
+        "summary": "Discovered from recipe corpus (auto-added)."
+      }
+    },
+    {
+      "id": "scallion",
+      "name": "Scallion",
+      "_provenance": {
+        "source_name": "Corpus",
+        "source_url": "./data/raw/onebatch.jsonl",
+        "license": "Derived",
+        "summary": "Discovered from recipe corpus (auto-added)."
+      }
+    },
+    {
+      "id": "tahini",
+      "name": "Tahini",
+      "_provenance": {
+        "source_name": "Corpus",
+        "source_url": "./data/raw/onebatch.jsonl",
+        "license": "Derived",
+        "summary": "Discovered from recipe corpus (auto-added)."
+      }
+    }
+  ],
+  "techniques": [
+    {
+      "id": "roasting",
+      "name": "roasting"
+    },
+    {
+      "id": "searing",
+      "name": "searing"
+    },
+    {
+      "id": "simmering",
+      "name": "simmering"
+    },
+    {
+      "id": "grilling",
+      "name": "grilling"
+    },
+    {
+      "id": "braising",
+      "name": "braising"
+    },
+    {
+      "id": "poaching",
+      "name": "poaching"
+    },
+    {
+      "id": "steaming",
+      "name": "steaming"
+    },
+    {
+      "id": "stir-frying",
+      "name": "stir-frying"
+    },
+    {
+      "id": "baking",
+      "name": "baking"
+    },
+    {
+      "id": "broiling",
+      "name": "broiling"
+    }
+  ],
+  "pairings": [
+    {
+      "a_id": "rice",
+      "b_id": "soy-sauce",
+      "a": "rice",
+      "b": "soy sauce",
+      "count": 3,
+      "pmi": 2.3923,
+      "lift": 5.25,
+      "cuisines": "chinese|japanese"
+    },
+    {
+      "a_id": "cucumber",
+      "b_id": "lemon",
+      "a": "cucumber",
+      "b": "lemon",
+      "count": 3,
+      "pmi": 2.3923,
+      "lift": 5.25,
+      "cuisines": "mediterranean|middle-eastern"
+    },
+    {
+      "a_id": "basil",
+      "b_id": "parmesan",
+      "a": "basil",
+      "b": "parmesan",
+      "count": 2,
+      "pmi": 2.8074,
+      "lift": 7,
+      "cuisines": "italian"
+    },
+    {
+      "a_id": "coriander",
+      "b_id": "cumin",
+      "a": "coriander",
+      "b": "cumin",
+      "count": 2,
+      "pmi": 2.8074,
+      "lift": 7,
+      "cuisines": "indian"
+    },
+    {
+      "a_id": "beef-broth",
+      "b_id": "beef-chuck",
+      "a": "beef broth",
+      "b": "beef chuck",
+      "count": 1,
+      "pmi": 4.3923,
+      "lift": 21,
+      "cuisines": "mexican"
+    },
+    {
+      "a_id": "egg",
+      "b_id": "peas",
+      "a": "egg",
+      "b": "peas",
+      "count": 1,
+      "pmi": 4.3923,
+      "lift": 21,
+      "cuisines": "chinese"
+    },
+    {
+      "a_id": "avocado",
+      "b_id": "salt",
+      "a": "avocado",
+      "b": "salt",
+      "count": 1,
+      "pmi": 4.3923,
+      "lift": 21,
+      "cuisines": "mexican"
+    },
+    {
+      "a_id": "eggplant",
+      "b_id": "zucchini",
+      "a": "eggplant",
+      "b": "zucchini",
+      "count": 1,
+      "pmi": 4.3923,
+      "lift": 21,
+      "cuisines": "mediterranean"
+    },
+    {
+      "a_id": "bell-pepper",
+      "b_id": "zucchini",
+      "a": "bell pepper",
+      "b": "zucchini",
+      "count": 1,
+      "pmi": 4.3923,
+      "lift": 21,
+      "cuisines": "mediterranean"
+    },
+    {
+      "a_id": "thyme",
+      "b_id": "zucchini",
+      "a": "thyme",
+      "b": "zucchini",
+      "count": 1,
+      "pmi": 4.3923,
+      "lift": 21,
+      "cuisines": "mediterranean"
+    },
+    {
+      "a_id": "bell-pepper",
+      "b_id": "eggplant",
+      "a": "bell pepper",
+      "b": "eggplant",
+      "count": 1,
+      "pmi": 4.3923,
+      "lift": 21,
+      "cuisines": "mediterranean"
+    },
+    {
+      "a_id": "eggplant",
+      "b_id": "thyme",
+      "a": "eggplant",
+      "b": "thyme",
+      "count": 1,
+      "pmi": 4.3923,
+      "lift": 21,
+      "cuisines": "mediterranean"
+    },
+    {
+      "a_id": "bell-pepper",
+      "b_id": "thyme",
+      "a": "bell pepper",
+      "b": "thyme",
+      "count": 1,
+      "pmi": 4.3923,
+      "lift": 21,
+      "cuisines": "mediterranean"
+    },
+    {
+      "a_id": "miso",
+      "b_id": "tofu",
+      "a": "miso",
+      "b": "tofu",
+      "count": 1,
+      "pmi": 4.3923,
+      "lift": 21,
+      "cuisines": "japanese"
+    },
+    {
+      "a_id": "miso",
+      "b_id": "seaweed",
+      "a": "miso",
+      "b": "seaweed",
+      "count": 1,
+      "pmi": 4.3923,
+      "lift": 21,
+      "cuisines": "japanese"
+    },
+    {
+      "a_id": "seaweed",
+      "b_id": "tofu",
+      "a": "seaweed",
+      "b": "tofu",
+      "count": 1,
+      "pmi": 4.3923,
+      "lift": 21,
+      "cuisines": "japanese"
+    },
+    {
+      "a_id": "pasta",
+      "b_id": "pine-nuts",
+      "a": "pasta",
+      "b": "pine nuts",
+      "count": 1,
+      "pmi": 4.3923,
+      "lift": 21,
+      "cuisines": "italian"
+    },
+    {
+      "a_id": "carrot",
+      "b_id": "lentil",
+      "a": "carrot",
+      "b": "lentil",
+      "count": 1,
+      "pmi": 4.3923,
+      "lift": 21,
+      "cuisines": "mediterranean"
+    },
+    {
+      "a_id": "celery",
+      "b_id": "lentil",
+      "a": "celery",
+      "b": "lentil",
+      "count": 1,
+      "pmi": 4.3923,
+      "lift": 21,
+      "cuisines": "mediterranean"
+    },
+    {
+      "a_id": "carrot",
+      "b_id": "celery",
+      "a": "carrot",
+      "b": "celery",
+      "count": 1,
+      "pmi": 4.3923,
+      "lift": 21,
+      "cuisines": "mediterranean"
+    },
+    {
+      "a_id": "beef",
+      "b_id": "star-anise",
+      "a": "beef",
+      "b": "star anise",
+      "count": 1,
+      "pmi": 4.3923,
+      "lift": 21,
+      "cuisines": "vietnamese"
+    },
+    {
+      "a_id": "beef",
+      "b_id": "clove",
+      "a": "beef",
+      "b": "clove",
+      "count": 1,
+      "pmi": 4.3923,
+      "lift": 21,
+      "cuisines": "vietnamese"
+    },
+    {
+      "a_id": "beef",
+      "b_id": "rice-noodles",
+      "a": "beef",
+      "b": "rice noodles",
+      "count": 1,
+      "pmi": 4.3923,
+      "lift": 21,
+      "cuisines": "vietnamese"
+    },
+    {
+      "a_id": "clove",
+      "b_id": "star-anise",
+      "a": "clove",
+      "b": "star anise",
+      "count": 1,
+      "pmi": 4.3923,
+      "lift": 21,
+      "cuisines": "vietnamese"
+    },
+    {
+      "a_id": "rice-noodles",
+      "b_id": "star-anise",
+      "a": "rice noodles",
+      "b": "star anise",
+      "count": 1,
+      "pmi": 4.3923,
+      "lift": 21,
+      "cuisines": "vietnamese"
+    },
+    {
+      "a_id": "clove",
+      "b_id": "rice-noodles",
+      "a": "clove",
+      "b": "rice noodles",
+      "count": 1,
+      "pmi": 4.3923,
+      "lift": 21,
+      "cuisines": "vietnamese"
+    },
+    {
+      "a_id": "bulgur",
+      "b_id": "parsley",
+      "a": "bulgur",
+      "b": "parsley",
+      "count": 1,
+      "pmi": 4.3923,
+      "lift": 21,
+      "cuisines": "middle-eastern"
+    },
+    {
+      "a_id": "coconut-milk",
+      "b_id": "shrimp",
+      "a": "coconut milk",
+      "b": "shrimp",
+      "count": 1,
+      "pmi": 4.3923,
+      "lift": 21,
+      "cuisines": "thai"
+    },
+    {
+      "a_id": "curry-powder",
+      "b_id": "shrimp",
+      "a": "curry powder",
+      "b": "shrimp",
+      "count": 1,
+      "pmi": 4.3923,
+      "lift": 21,
+      "cuisines": "thai"
+    },
+    {
+      "a_id": "coconut-milk",
+      "b_id": "curry-powder",
+      "a": "coconut milk",
+      "b": "curry powder",
+      "count": 1,
+      "pmi": 4.3923,
+      "lift": 21,
+      "cuisines": "thai"
+    },
+    {
+      "a_id": "flank-steak",
+      "b_id": "low-sodium-soy-sauce",
+      "a": "flank steak",
+      "b": "low-sodium soy sauce",
+      "count": 1,
+      "pmi": 4.3923,
+      "lift": 21,
+      "cuisines": "asian"
+    },
+    {
+      "a_id": "brown-sugar",
+      "b_id": "flank-steak",
+      "a": "brown sugar",
+      "b": "flank steak",
+      "count": 1,
+      "pmi": 4.3923,
+      "lift": 21,
+      "cuisines": "asian"
+    },
+    {
+      "a_id": "flank-steak",
+      "b_id": "lime-juice",
+      "a": "flank steak",
+      "b": "lime juice",
+      "count": 1,
+      "pmi": 4.3923,
+      "lift": 21,
+      "cuisines": "asian"
+    },
+    {
+      "a_id": "crushed-red-pepper-flakes",
+      "b_id": "flank-steak",
+      "a": "crushed red pepper flakes",
+      "b": "flank steak",
+      "count": 1,
+      "pmi": 4.3923,
+      "lift": 21,
+      "cuisines": "asian"
+    },
+    {
+      "a_id": "black-pepper",
+      "b_id": "flank-steak",
+      "a": "black pepper",
+      "b": "flank steak",
+      "count": 1,
+      "pmi": 4.3923,
+      "lift": 21,
+      "cuisines": "asian"
+    },
+    {
+      "a_id": "brown-sugar",
+      "b_id": "low-sodium-soy-sauce",
+      "a": "brown sugar",
+      "b": "low-sodium soy sauce",
+      "count": 1,
+      "pmi": 4.3923,
+      "lift": 21,
+      "cuisines": "asian"
+    },
+    {
+      "a_id": "lime-juice",
+      "b_id": "low-sodium-soy-sauce",
+      "a": "lime juice",
+      "b": "low-sodium soy sauce",
+      "count": 1,
+      "pmi": 4.3923,
+      "lift": 21,
+      "cuisines": "asian"
+    },
+    {
+      "a_id": "crushed-red-pepper-flakes",
+      "b_id": "low-sodium-soy-sauce",
+      "a": "crushed red pepper flakes",
+      "b": "low-sodium soy sauce",
+      "count": 1,
+      "pmi": 4.3923,
+      "lift": 21,
+      "cuisines": "asian"
+    },
+    {
+      "a_id": "black-pepper",
+      "b_id": "low-sodium-soy-sauce",
+      "a": "black pepper",
+      "b": "low-sodium soy sauce",
+      "count": 1,
+      "pmi": 4.3923,
+      "lift": 21,
+      "cuisines": "asian"
+    },
+    {
+      "a_id": "brown-sugar",
+      "b_id": "lime-juice",
+      "a": "brown sugar",
+      "b": "lime juice",
+      "count": 1,
+      "pmi": 4.3923,
+      "lift": 21,
+      "cuisines": "asian"
+    },
+    {
+      "a_id": "brown-sugar",
+      "b_id": "crushed-red-pepper-flakes",
+      "a": "brown sugar",
+      "b": "crushed red pepper flakes",
+      "count": 1,
+      "pmi": 4.3923,
+      "lift": 21,
+      "cuisines": "asian"
+    },
+    {
+      "a_id": "black-pepper",
+      "b_id": "brown-sugar",
+      "a": "black pepper",
+      "b": "brown sugar",
+      "count": 1,
+      "pmi": 4.3923,
+      "lift": 21,
+      "cuisines": "asian"
+    },
+    {
+      "a_id": "crushed-red-pepper-flakes",
+      "b_id": "lime-juice",
+      "a": "crushed red pepper flakes",
+      "b": "lime juice",
+      "count": 1,
+      "pmi": 4.3923,
+      "lift": 21,
+      "cuisines": "asian"
+    },
+    {
+      "a_id": "black-pepper",
+      "b_id": "lime-juice",
+      "a": "black pepper",
+      "b": "lime juice",
+      "count": 1,
+      "pmi": 4.3923,
+      "lift": 21,
+      "cuisines": "asian"
+    },
+    {
+      "a_id": "black-pepper",
+      "b_id": "crushed-red-pepper-flakes",
+      "a": "black pepper",
+      "b": "crushed red pepper flakes",
+      "count": 1,
+      "pmi": 4.3923,
+      "lift": 21,
+      "cuisines": "asian"
+    },
+    {
+      "a_id": "beef-chuck",
+      "b_id": "chili-powder",
+      "a": "beef chuck",
+      "b": "chili powder",
+      "count": 1,
+      "pmi": 3.3923,
+      "lift": 10.5,
+      "cuisines": "mexican"
+    },
+    {
+      "a_id": "beef-chuck",
+      "b_id": "oregano",
+      "a": "beef chuck",
+      "b": "oregano",
+      "count": 1,
+      "pmi": 3.3923,
+      "lift": 10.5,
+      "cuisines": "mexican"
+    },
+    {
+      "a_id": "beef-broth",
+      "b_id": "chili-powder",
+      "a": "beef broth",
+      "b": "chili powder",
+      "count": 1,
+      "pmi": 3.3923,
+      "lift": 10.5,
+      "cuisines": "mexican"
+    },
+    {
+      "a_id": "beef-broth",
+      "b_id": "oregano",
+      "a": "beef broth",
+      "b": "oregano",
+      "count": 1,
+      "pmi": 3.3923,
+      "lift": 10.5,
+      "cuisines": "mexican"
+    },
+    {
+      "a_id": "parmesan",
+      "b_id": "spaghetti",
+      "a": "parmesan",
+      "b": "spaghetti",
+      "count": 1,
+      "pmi": 3.3923,
+      "lift": 10.5,
+      "cuisines": "italian"
+    },
+    {
+      "a_id": "broccoli",
+      "b_id": "sesame-oil",
+      "a": "broccoli",
+      "b": "sesame oil",
+      "count": 1,
+      "pmi": 3.3923,
+      "lift": 10.5,
+      "cuisines": "chinese"
+    },
+    {
+      "a_id": "egg",
+      "b_id": "scallion",
+      "a": "egg",
+      "b": "scallion",
+      "count": 1,
+      "pmi": 3.3923,
+      "lift": 10.5,
+      "cuisines": "chinese"
+    },
+    {
+      "a_id": "peas",
+      "b_id": "scallion",
+      "a": "peas",
+      "b": "scallion",
+      "count": 1,
+      "pmi": 3.3923,
+      "lift": 10.5,
+      "cuisines": "chinese"
+    },
+    {
+      "a_id": "dill",
+      "b_id": "yogurt",
+      "a": "dill",
+      "b": "yogurt",
+      "count": 1,
+      "pmi": 3.3923,
+      "lift": 10.5,
+      "cuisines": "mediterranean"
+    },
+    {
+      "a_id": "feta",
+      "b_id": "oregano",
+      "a": "feta",
+      "b": "oregano",
+      "count": 1,
+      "pmi": 3.3923,
+      "lift": 10.5,
+      "cuisines": "mediterranean"
+    },
+    {
+      "a_id": "avocado",
+      "b_id": "cilantro",
+      "a": "avocado",
+      "b": "cilantro",
+      "count": 1,
+      "pmi": 3.3923,
+      "lift": 10.5,
+      "cuisines": "mexican"
+    },
+    {
+      "a_id": "cilantro",
+      "b_id": "salt",
+      "a": "cilantro",
+      "b": "salt",
+      "count": 1,
+      "pmi": 3.3923,
+      "lift": 10.5,
+      "cuisines": "mexican"
+    },
+    {
+      "a_id": "miso",
+      "b_id": "scallion",
+      "a": "miso",
+      "b": "scallion",
+      "count": 1,
+      "pmi": 3.3923,
+      "lift": 10.5,
+      "cuisines": "japanese"
+    },
+    {
+      "a_id": "scallion",
+      "b_id": "tofu",
+      "a": "scallion",
+      "b": "tofu",
+      "count": 1,
+      "pmi": 3.3923,
+      "lift": 10.5,
+      "cuisines": "japanese"
+    },
+    {
+      "a_id": "scallion",
+      "b_id": "seaweed",
+      "a": "scallion",
+      "b": "seaweed",
+      "count": 1,
+      "pmi": 3.3923,
+      "lift": 10.5,
+      "cuisines": "japanese"
+    },
+    {
+      "a_id": "parmesan",
+      "b_id": "pine-nuts",
+      "a": "parmesan",
+      "b": "pine nuts",
+      "count": 1,
+      "pmi": 3.3923,
+      "lift": 10.5,
+      "cuisines": "italian"
+    },
+    {
+      "a_id": "parmesan",
+      "b_id": "pasta",
+      "a": "parmesan",
+      "b": "pasta",
+      "count": 1,
+      "pmi": 3.3923,
+      "lift": 10.5,
+      "cuisines": "italian"
+    },
+    {
+      "a_id": "chickpea",
+      "b_id": "tahini",
+      "a": "chickpea",
+      "b": "tahini",
+      "count": 1,
+      "pmi": 3.3923,
+      "lift": 10.5,
+      "cuisines": "middle-eastern"
+    },
+    {
+      "a_id": "flank-steak",
+      "b_id": "sesame-oil",
+      "a": "flank steak",
+      "b": "sesame oil",
+      "count": 1,
+      "pmi": 3.3923,
+      "lift": 10.5,
+      "cuisines": "asian"
+    },
+    {
+      "a_id": "low-sodium-soy-sauce",
+      "b_id": "sesame-oil",
+      "a": "low-sodium soy sauce",
+      "b": "sesame oil",
+      "count": 1,
+      "pmi": 3.3923,
+      "lift": 10.5,
+      "cuisines": "asian"
+    },
+    {
+      "a_id": "brown-sugar",
+      "b_id": "sesame-oil",
+      "a": "brown sugar",
+      "b": "sesame oil",
+      "count": 1,
+      "pmi": 3.3923,
+      "lift": 10.5,
+      "cuisines": "asian"
+    },
+    {
+      "a_id": "lime-juice",
+      "b_id": "sesame-oil",
+      "a": "lime juice",
+      "b": "sesame oil",
+      "count": 1,
+      "pmi": 3.3923,
+      "lift": 10.5,
+      "cuisines": "asian"
+    },
+    {
+      "a_id": "crushed-red-pepper-flakes",
+      "b_id": "sesame-oil",
+      "a": "crushed red pepper flakes",
+      "b": "sesame oil",
+      "count": 1,
+      "pmi": 3.3923,
+      "lift": 10.5,
+      "cuisines": "asian"
+    },
+    {
+      "a_id": "black-pepper",
+      "b_id": "sesame-oil",
+      "a": "black pepper",
+      "b": "sesame oil",
+      "count": 1,
+      "pmi": 3.3923,
+      "lift": 10.5,
+      "cuisines": "asian"
+    },
+    {
+      "a_id": "chili-powder",
+      "b_id": "lime",
+      "a": "chili powder",
+      "b": "lime",
+      "count": 2,
+      "pmi": 2.0704,
+      "lift": 4.2,
+      "cuisines": "mexican"
+    },
+    {
+      "a_id": "cilantro",
+      "b_id": "lime",
+      "a": "cilantro",
+      "b": "lime",
+      "count": 2,
+      "pmi": 2.0704,
+      "lift": 4.2,
+      "cuisines": "mexican"
+    },
+    {
+      "a_id": "lemon",
+      "b_id": "olive-oil",
+      "a": "lemon",
+      "b": "olive oil",
+      "count": 4,
+      "pmi": 1.2224,
+      "lift": 2.3333,
+      "cuisines": "mediterranean|middle-eastern"
+    },
+    {
+      "a_id": "beef-chuck",
+      "b_id": "cumin",
+      "a": "beef chuck",
+      "b": "cumin",
+      "count": 1,
+      "pmi": 2.8074,
+      "lift": 7,
+      "cuisines": "mexican"
+    },
+    {
+      "a_id": "beef-broth",
+      "b_id": "cumin",
+      "a": "beef broth",
+      "b": "cumin",
+      "count": 1,
+      "pmi": 2.8074,
+      "lift": 7,
+      "cuisines": "mexican"
+    },
+    {
+      "a_id": "basil",
+      "b_id": "spaghetti",
+      "a": "basil",
+      "b": "spaghetti",
+      "count": 1,
+      "pmi": 2.8074,
+      "lift": 7,
+      "cuisines": "italian"
+    },
+    {
+      "a_id": "basil",
+      "b_id": "mozzarella",
+      "a": "basil",
+      "b": "mozzarella",
+      "count": 1,
+      "pmi": 2.8074,
+      "lift": 7,
+      "cuisines": "italian"
+    },
+    {
+      "a_id": "broccoli",
+      "b_id": "soy-sauce",
+      "a": "broccoli",
+      "b": "soy sauce",
+      "count": 1,
+      "pmi": 2.8074,
+      "lift": 7,
+      "cuisines": "chinese"
+    },
+    {
+      "a_id": "egg",
+      "b_id": "soy-sauce",
+      "a": "egg",
+      "b": "soy sauce",
+      "count": 1,
+      "pmi": 2.8074,
+      "lift": 7,
+      "cuisines": "chinese"
+    },
+    {
+      "a_id": "peas",
+      "b_id": "soy-sauce",
+      "a": "peas",
+      "b": "soy sauce",
+      "count": 1,
+      "pmi": 2.8074,
+      "lift": 7,
+      "cuisines": "chinese"
+    },
+    {
+      "a_id": "cucumber",
+      "b_id": "dill",
+      "a": "cucumber",
+      "b": "dill",
+      "count": 1,
+      "pmi": 2.8074,
+      "lift": 7,
+      "cuisines": "mediterranean"
+    },
+    {
+      "a_id": "cucumber",
+      "b_id": "feta",
+      "a": "cucumber",
+      "b": "feta",
+      "count": 1,
+      "pmi": 2.8074,
+      "lift": 7,
+      "cuisines": "mediterranean"
+    },
+    {
+      "a_id": "basil",
+      "b_id": "pine-nuts",
+      "a": "basil",
+      "b": "pine nuts",
+      "count": 1,
+      "pmi": 2.8074,
+      "lift": 7,
+      "cuisines": "italian"
+    },
+    {
+      "a_id": "basil",
+      "b_id": "pasta",
+      "a": "basil",
+      "b": "pasta",
+      "count": 1,
+      "pmi": 2.8074,
+      "lift": 7,
+      "cuisines": "italian"
+    },
+    {
+      "a_id": "cucumber",
+      "b_id": "parsley",
+      "a": "cucumber",
+      "b": "parsley",
+      "count": 1,
+      "pmi": 2.8074,
+      "lift": 7,
+      "cuisines": "middle-eastern"
+    },
+    {
+      "a_id": "bulgur",
+      "b_id": "cucumber",
+      "a": "bulgur",
+      "b": "cucumber",
+      "count": 1,
+      "pmi": 2.8074,
+      "lift": 7,
+      "cuisines": "middle-eastern"
+    },
+    {
+      "a_id": "chili-powder",
+      "b_id": "onion",
+      "a": "chili powder",
+      "b": "onion",
+      "count": 2,
+      "pmi": 1.585,
+      "lift": 3,
+      "cuisines": "mexican"
+    },
+    {
+      "a_id": "onion",
+      "b_id": "oregano",
+      "a": "onion",
+      "b": "oregano",
+      "count": 2,
+      "pmi": 1.585,
+      "lift": 3,
+      "cuisines": "mexican|mediterranean"
+    },
+    {
+      "a_id": "chicken",
+      "b_id": "ginger",
+      "a": "chicken",
+      "b": "ginger",
+      "count": 2,
+      "pmi": 1.585,
+      "lift": 3,
+      "cuisines": "indian|japanese"
+    },
+    {
+      "a_id": "coriander",
+      "b_id": "ginger",
+      "a": "coriander",
+      "b": "ginger",
+      "count": 2,
+      "pmi": 1.585,
+      "lift": 3,
+      "cuisines": "indian"
+    },
+    {
+      "a_id": "ginger",
+      "b_id": "sesame-oil",
+      "a": "ginger",
+      "b": "sesame oil",
+      "count": 2,
+      "pmi": 1.585,
+      "lift": 3,
+      "cuisines": "chinese|asian"
+    },
+    {
+      "a_id": "cilantro",
+      "b_id": "onion",
+      "a": "cilantro",
+      "b": "onion",
+      "count": 2,
+      "pmi": 1.585,
+      "lift": 3,
+      "cuisines": "mexican"
+    },
+    {
+      "a_id": "basil",
+      "b_id": "olive-oil",
+      "a": "basil",
+      "b": "olive oil",
+      "count": 3,
+      "pmi": 1.2224,
+      "lift": 2.3333,
+      "cuisines": "italian"
+    },
+    {
+      "a_id": "cucumber",
+      "b_id": "olive-oil",
+      "a": "cucumber",
+      "b": "olive oil",
+      "count": 3,
+      "pmi": 1.2224,
+      "lift": 2.3333,
+      "cuisines": "mediterranean|middle-eastern"
+    },
+    {
+      "a_id": "chili-powder",
+      "b_id": "oregano",
+      "a": "chili powder",
+      "b": "oregano",
+      "count": 1,
+      "pmi": 2.3923,
+      "lift": 5.25,
+      "cuisines": "mexican"
+    },
+    {
+      "a_id": "chicken",
+      "b_id": "yogurt",
+      "a": "chicken",
+      "b": "yogurt",
+      "count": 1,
+      "pmi": 2.3923,
+      "lift": 5.25,
+      "cuisines": "indian"
+    },
+    {
+      "a_id": "chicken",
+      "b_id": "coriander",
+      "a": "chicken",
+      "b": "coriander",
+      "count": 1,
+      "pmi": 2.3923,
+      "lift": 5.25,
+      "cuisines": "indian"
+    },
+    {
+      "a_id": "coriander",
+      "b_id": "yogurt",
+      "a": "coriander",
+      "b": "yogurt",
+      "count": 1,
+      "pmi": 2.3923,
+      "lift": 5.25,
+      "cuisines": "indian"
+    },
+    {
+      "a_id": "chickpea",
+      "b_id": "coriander",
+      "a": "chickpea",
+      "b": "coriander",
+      "count": 1,
+      "pmi": 2.3923,
+      "lift": 5.25,
+      "cuisines": "indian"
+    },
+    {
+      "a_id": "broccoli",
+      "b_id": "rice",
+      "a": "broccoli",
+      "b": "rice",
+      "count": 1,
+      "pmi": 2.3923,
+      "lift": 5.25,
+      "cuisines": "chinese"
+    },
+    {
+      "a_id": "egg",
+      "b_id": "rice",
+      "a": "egg",
+      "b": "rice",
+      "count": 1,
+      "pmi": 2.3923,
+      "lift": 5.25,
+      "cuisines": "chinese"
+    },
+    {
+      "a_id": "peas",
+      "b_id": "rice",
+      "a": "peas",
+      "b": "rice",
+      "count": 1,
+      "pmi": 2.3923,
+      "lift": 5.25,
+      "cuisines": "chinese"
+    },
+    {
+      "a_id": "dill",
+      "b_id": "lemon",
+      "a": "dill",
+      "b": "lemon",
+      "count": 1,
+      "pmi": 2.3923,
+      "lift": 5.25,
+      "cuisines": "mediterranean"
+    },
+    {
+      "a_id": "feta",
+      "b_id": "lemon",
+      "a": "feta",
+      "b": "lemon",
+      "count": 1,
+      "pmi": 2.3923,
+      "lift": 5.25,
+      "cuisines": "mediterranean"
+    },
+    {
+      "a_id": "chili-powder",
+      "b_id": "cilantro",
+      "a": "chili powder",
+      "b": "cilantro",
+      "count": 1,
+      "pmi": 2.3923,
+      "lift": 5.25,
+      "cuisines": "mexican"
+    },
+    {
+      "a_id": "lemon",
+      "b_id": "parsley",
+      "a": "lemon",
+      "b": "parsley",
+      "count": 1,
+      "pmi": 2.3923,
+      "lift": 5.25,
+      "cuisines": "middle-eastern"
+    },
+    {
+      "a_id": "bulgur",
+      "b_id": "lemon",
+      "a": "bulgur",
+      "b": "lemon",
+      "count": 1,
+      "pmi": 2.3923,
+      "lift": 5.25,
+      "cuisines": "middle-eastern"
+    },
+    {
+      "a_id": "lemon",
+      "b_id": "tahini",
+      "a": "lemon",
+      "b": "tahini",
+      "count": 1,
+      "pmi": 2.3923,
+      "lift": 5.25,
+      "cuisines": "middle-eastern"
+    },
+    {
+      "a_id": "rice",
+      "b_id": "shrimp",
+      "a": "rice",
+      "b": "shrimp",
+      "count": 1,
+      "pmi": 2.3923,
+      "lift": 5.25,
+      "cuisines": "thai"
+    },
+    {
+      "a_id": "coconut-milk",
+      "b_id": "rice",
+      "a": "coconut milk",
+      "b": "rice",
+      "count": 1,
+      "pmi": 2.3923,
+      "lift": 5.25,
+      "cuisines": "thai"
+    },
+    {
+      "a_id": "curry-powder",
+      "b_id": "rice",
+      "a": "curry powder",
+      "b": "rice",
+      "count": 1,
+      "pmi": 2.3923,
+      "lift": 5.25,
+      "cuisines": "thai"
+    },
+    {
+      "a_id": "cumin",
+      "b_id": "lime",
+      "a": "cumin",
+      "b": "lime",
+      "count": 2,
+      "pmi": 1.4854,
+      "lift": 2.8,
+      "cuisines": "mexican|indian"
+    },
+    {
+      "a_id": "ginger",
+      "b_id": "rice",
+      "a": "ginger",
+      "b": "rice",
+      "count": 3,
+      "pmi": 1.1699,
+      "lift": 2.25,
+      "cuisines": "chinese|japanese|thai"
+    },
+    {
+      "a_id": "beef-chuck",
+      "b_id": "lime",
+      "a": "beef chuck",
+      "b": "lime",
+      "count": 1,
+      "pmi": 2.0704,
+      "lift": 4.2,
+      "cuisines": "mexican"
+    },
+    {
+      "a_id": "beef-broth",
+      "b_id": "lime",
+      "a": "beef broth",
+      "b": "lime",
+      "count": 1,
+      "pmi": 2.0704,
+      "lift": 4.2,
+      "cuisines": "mexican"
+    },
+    {
+      "a_id": "avocado",
+      "b_id": "lime",
+      "a": "avocado",
+      "b": "lime",
+      "count": 1,
+      "pmi": 2.0704,
+      "lift": 4.2,
+      "cuisines": "mexican"
+    },
+    {
+      "a_id": "lime",
+      "b_id": "salt",
+      "a": "lime",
+      "b": "salt",
+      "count": 1,
+      "pmi": 2.0704,
+      "lift": 4.2,
+      "cuisines": "mexican"
+    },
+    {
+      "a_id": "lime",
+      "b_id": "shrimp",
+      "a": "lime",
+      "b": "shrimp",
+      "count": 1,
+      "pmi": 2.0704,
+      "lift": 4.2,
+      "cuisines": "thai"
+    },
+    {
+      "a_id": "coconut-milk",
+      "b_id": "lime",
+      "a": "coconut milk",
+      "b": "lime",
+      "count": 1,
+      "pmi": 2.0704,
+      "lift": 4.2,
+      "cuisines": "thai"
+    },
+    {
+      "a_id": "curry-powder",
+      "b_id": "lime",
+      "a": "curry powder",
+      "b": "lime",
+      "count": 1,
+      "pmi": 2.0704,
+      "lift": 4.2,
+      "cuisines": "thai"
+    },
+    {
+      "a_id": "basil",
+      "b_id": "tomato",
+      "a": "basil",
+      "b": "tomato",
+      "count": 2,
+      "pmi": 1.2224,
+      "lift": 2.3333,
+      "cuisines": "italian"
+    },
+    {
+      "a_id": "olive-oil",
+      "b_id": "parmesan",
+      "a": "olive oil",
+      "b": "parmesan",
+      "count": 2,
+      "pmi": 1.2224,
+      "lift": 2.3333,
+      "cuisines": "italian"
+    },
+    {
+      "a_id": "cucumber",
+      "b_id": "tomato",
+      "a": "cucumber",
+      "b": "tomato",
+      "count": 2,
+      "pmi": 1.2224,
+      "lift": 2.3333,
+      "cuisines": "mediterranean|middle-eastern"
+    },
+    {
+      "a_id": "chili-powder",
+      "b_id": "cumin",
+      "a": "chili powder",
+      "b": "cumin",
+      "count": 1,
+      "pmi": 1.8074,
+      "lift": 3.5,
+      "cuisines": "mexican"
+    },
+    {
+      "a_id": "cumin",
+      "b_id": "oregano",
+      "a": "cumin",
+      "b": "oregano",
+      "count": 1,
+      "pmi": 1.8074,
+      "lift": 3.5,
+      "cuisines": "mexican"
+    },
+    {
+      "a_id": "spaghetti",
+      "b_id": "tomato",
+      "a": "spaghetti",
+      "b": "tomato",
+      "count": 1,
+      "pmi": 1.8074,
+      "lift": 3.5,
+      "cuisines": "italian"
+    },
+    {
+      "a_id": "mozzarella",
+      "b_id": "tomato",
+      "a": "mozzarella",
+      "b": "tomato",
+      "count": 1,
+      "pmi": 1.8074,
+      "lift": 3.5,
+      "cuisines": "italian"
+    },
+    {
+      "a_id": "chicken",
+      "b_id": "cumin",
+      "a": "chicken",
+      "b": "cumin",
+      "count": 1,
+      "pmi": 1.8074,
+      "lift": 3.5,
+      "cuisines": "indian"
+    },
+    {
+      "a_id": "cumin",
+      "b_id": "yogurt",
+      "a": "cumin",
+      "b": "yogurt",
+      "count": 1,
+      "pmi": 1.8074,
+      "lift": 3.5,
+      "cuisines": "indian"
+    },
+    {
+      "a_id": "chickpea",
+      "b_id": "cumin",
+      "a": "chickpea",
+      "b": "cumin",
+      "count": 1,
+      "pmi": 1.8074,
+      "lift": 3.5,
+      "cuisines": "indian"
+    },
+    {
+      "a_id": "sesame-oil",
+      "b_id": "soy-sauce",
+      "a": "sesame oil",
+      "b": "soy sauce",
+      "count": 1,
+      "pmi": 1.8074,
+      "lift": 3.5,
+      "cuisines": "chinese"
+    },
+    {
+      "a_id": "scallion",
+      "b_id": "soy-sauce",
+      "a": "scallion",
+      "b": "soy sauce",
+      "count": 1,
+      "pmi": 1.8074,
+      "lift": 3.5,
+      "cuisines": "chinese"
+    },
+    {
+      "a_id": "cucumber",
+      "b_id": "yogurt",
+      "a": "cucumber",
+      "b": "yogurt",
+      "count": 1,
+      "pmi": 1.8074,
+      "lift": 3.5,
+      "cuisines": "mediterranean"
+    },
+    {
+      "a_id": "cucumber",
+      "b_id": "oregano",
+      "a": "cucumber",
+      "b": "oregano",
+      "count": 1,
+      "pmi": 1.8074,
+      "lift": 3.5,
+      "cuisines": "mediterranean"
+    },
+    {
+      "a_id": "feta",
+      "b_id": "tomato",
+      "a": "feta",
+      "b": "tomato",
+      "count": 1,
+      "pmi": 1.8074,
+      "lift": 3.5,
+      "cuisines": "mediterranean"
+    },
+    {
+      "a_id": "chicken",
+      "b_id": "soy-sauce",
+      "a": "chicken",
+      "b": "soy sauce",
+      "count": 1,
+      "pmi": 1.8074,
+      "lift": 3.5,
+      "cuisines": "japanese"
+    },
+    {
+      "a_id": "parsley",
+      "b_id": "tomato",
+      "a": "parsley",
+      "b": "tomato",
+      "count": 1,
+      "pmi": 1.8074,
+      "lift": 3.5,
+      "cuisines": "middle-eastern"
+    },
+    {
+      "a_id": "bulgur",
+      "b_id": "tomato",
+      "a": "bulgur",
+      "b": "tomato",
+      "count": 1,
+      "pmi": 1.8074,
+      "lift": 3.5,
+      "cuisines": "middle-eastern"
+    },
+    {
+      "a_id": "lime",
+      "b_id": "onion",
+      "a": "lime",
+      "b": "onion",
+      "count": 3,
+      "pmi": 0.848,
+      "lift": 1.8,
+      "cuisines": "mexican"
+    },
+    {
+      "a_id": "beef-chuck",
+      "b_id": "onion",
+      "a": "beef chuck",
+      "b": "onion",
+      "count": 1,
+      "pmi": 1.585,
+      "lift": 3,
+      "cuisines": "mexican"
+    },
+    {
+      "a_id": "cumin",
+      "b_id": "onion",
+      "a": "cumin",
+      "b": "onion",
+      "count": 2,
+      "pmi": 1,
+      "lift": 2,
+      "cuisines": "mexican|indian"
+    },
+    {
+      "a_id": "beef-broth",
+      "b_id": "onion",
+      "a": "beef broth",
+      "b": "onion",
+      "count": 1,
+      "pmi": 1.585,
+      "lift": 3,
+      "cuisines": "mexican"
+    },
+    {
+      "a_id": "cumin",
+      "b_id": "ginger",
+      "a": "cumin",
+      "b": "ginger",
+      "count": 2,
+      "pmi": 1,
+      "lift": 2,
+      "cuisines": "indian"
+    },
+    {
+      "a_id": "broccoli",
+      "b_id": "ginger",
+      "a": "broccoli",
+      "b": "ginger",
+      "count": 1,
+      "pmi": 1.585,
+      "lift": 3,
+      "cuisines": "chinese"
+    },
+    {
+      "a_id": "ginger",
+      "b_id": "soy-sauce",
+      "a": "ginger",
+      "b": "soy sauce",
+      "count": 2,
+      "pmi": 1,
+      "lift": 2,
+      "cuisines": "chinese|japanese"
+    },
+    {
+      "a_id": "feta",
+      "b_id": "onion",
+      "a": "feta",
+      "b": "onion",
+      "count": 1,
+      "pmi": 1.585,
+      "lift": 3,
+      "cuisines": "mediterranean"
+    },
+    {
+      "a_id": "avocado",
+      "b_id": "onion",
+      "a": "avocado",
+      "b": "onion",
+      "count": 1,
+      "pmi": 1.585,
+      "lift": 3,
+      "cuisines": "mexican"
+    },
+    {
+      "a_id": "onion",
+      "b_id": "salt",
+      "a": "onion",
+      "b": "salt",
+      "count": 1,
+      "pmi": 1.585,
+      "lift": 3,
+      "cuisines": "mexican"
+    },
+    {
+      "a_id": "lentil",
+      "b_id": "onion",
+      "a": "lentil",
+      "b": "onion",
+      "count": 1,
+      "pmi": 1.585,
+      "lift": 3,
+      "cuisines": "mediterranean"
+    },
+    {
+      "a_id": "carrot",
+      "b_id": "onion",
+      "a": "carrot",
+      "b": "onion",
+      "count": 1,
+      "pmi": 1.585,
+      "lift": 3,
+      "cuisines": "mediterranean"
+    },
+    {
+      "a_id": "celery",
+      "b_id": "onion",
+      "a": "celery",
+      "b": "onion",
+      "count": 1,
+      "pmi": 1.585,
+      "lift": 3,
+      "cuisines": "mediterranean"
+    },
+    {
+      "a_id": "beef",
+      "b_id": "ginger",
+      "a": "beef",
+      "b": "ginger",
+      "count": 1,
+      "pmi": 1.585,
+      "lift": 3,
+      "cuisines": "vietnamese"
+    },
+    {
+      "a_id": "beef",
+      "b_id": "onion",
+      "a": "beef",
+      "b": "onion",
+      "count": 1,
+      "pmi": 1.585,
+      "lift": 3,
+      "cuisines": "vietnamese"
+    },
+    {
+      "a_id": "ginger",
+      "b_id": "star-anise",
+      "a": "ginger",
+      "b": "star anise",
+      "count": 1,
+      "pmi": 1.585,
+      "lift": 3,
+      "cuisines": "vietnamese"
+    },
+    {
+      "a_id": "clove",
+      "b_id": "ginger",
+      "a": "clove",
+      "b": "ginger",
+      "count": 1,
+      "pmi": 1.585,
+      "lift": 3,
+      "cuisines": "vietnamese"
+    },
+    {
+      "a_id": "ginger",
+      "b_id": "rice-noodles",
+      "a": "ginger",
+      "b": "rice noodles",
+      "count": 1,
+      "pmi": 1.585,
+      "lift": 3,
+      "cuisines": "vietnamese"
+    },
+    {
+      "a_id": "onion",
+      "b_id": "star-anise",
+      "a": "onion",
+      "b": "star anise",
+      "count": 1,
+      "pmi": 1.585,
+      "lift": 3,
+      "cuisines": "vietnamese"
+    },
+    {
+      "a_id": "clove",
+      "b_id": "onion",
+      "a": "clove",
+      "b": "onion",
+      "count": 1,
+      "pmi": 1.585,
+      "lift": 3,
+      "cuisines": "vietnamese"
+    },
+    {
+      "a_id": "onion",
+      "b_id": "rice-noodles",
+      "a": "onion",
+      "b": "rice noodles",
+      "count": 1,
+      "pmi": 1.585,
+      "lift": 3,
+      "cuisines": "vietnamese"
+    },
+    {
+      "a_id": "ginger",
+      "b_id": "shrimp",
+      "a": "ginger",
+      "b": "shrimp",
+      "count": 1,
+      "pmi": 1.585,
+      "lift": 3,
+      "cuisines": "thai"
+    },
+    {
+      "a_id": "coconut-milk",
+      "b_id": "ginger",
+      "a": "coconut milk",
+      "b": "ginger",
+      "count": 1,
+      "pmi": 1.585,
+      "lift": 3,
+      "cuisines": "thai"
+    },
+    {
+      "a_id": "curry-powder",
+      "b_id": "ginger",
+      "a": "curry powder",
+      "b": "ginger",
+      "count": 1,
+      "pmi": 1.585,
+      "lift": 3,
+      "cuisines": "thai"
+    },
+    {
+      "a_id": "flank-steak",
+      "b_id": "ginger",
+      "a": "flank steak",
+      "b": "ginger",
+      "count": 1,
+      "pmi": 1.585,
+      "lift": 3,
+      "cuisines": "asian"
+    },
+    {
+      "a_id": "ginger",
+      "b_id": "low-sodium-soy-sauce",
+      "a": "ginger",
+      "b": "low-sodium soy sauce",
+      "count": 1,
+      "pmi": 1.585,
+      "lift": 3,
+      "cuisines": "asian"
+    },
+    {
+      "a_id": "brown-sugar",
+      "b_id": "ginger",
+      "a": "brown sugar",
+      "b": "ginger",
+      "count": 1,
+      "pmi": 1.585,
+      "lift": 3,
+      "cuisines": "asian"
+    },
+    {
+      "a_id": "ginger",
+      "b_id": "lime-juice",
+      "a": "ginger",
+      "b": "lime juice",
+      "count": 1,
+      "pmi": 1.585,
+      "lift": 3,
+      "cuisines": "asian"
+    },
+    {
+      "a_id": "crushed-red-pepper-flakes",
+      "b_id": "ginger",
+      "a": "crushed red pepper flakes",
+      "b": "ginger",
+      "count": 1,
+      "pmi": 1.585,
+      "lift": 3,
+      "cuisines": "asian"
+    },
+    {
+      "a_id": "black-pepper",
+      "b_id": "ginger",
+      "a": "black pepper",
+      "b": "ginger",
+      "count": 1,
+      "pmi": 1.585,
+      "lift": 3,
+      "cuisines": "asian"
+    },
+    {
+      "a_id": "olive-oil",
+      "b_id": "tomato",
+      "a": "olive oil",
+      "b": "tomato",
+      "count": 4,
+      "pmi": 0.6374,
+      "lift": 1.5556,
+      "cuisines": "italian|mediterranean|middle-eastern"
+    },
+    {
+      "a_id": "rice",
+      "b_id": "sesame-oil",
+      "a": "rice",
+      "b": "sesame oil",
+      "count": 1,
+      "pmi": 1.3923,
+      "lift": 2.625,
+      "cuisines": "chinese"
+    },
+    {
+      "a_id": "rice",
+      "b_id": "scallion",
+      "a": "rice",
+      "b": "scallion",
+      "count": 1,
+      "pmi": 1.3923,
+      "lift": 2.625,
+      "cuisines": "chinese"
+    },
+    {
+      "a_id": "lemon",
+      "b_id": "yogurt",
+      "a": "lemon",
+      "b": "yogurt",
+      "count": 1,
+      "pmi": 1.3923,
+      "lift": 2.625,
+      "cuisines": "mediterranean"
+    },
+    {
+      "a_id": "lemon",
+      "b_id": "oregano",
+      "a": "lemon",
+      "b": "oregano",
+      "count": 1,
+      "pmi": 1.3923,
+      "lift": 2.625,
+      "cuisines": "mediterranean"
+    },
+    {
+      "a_id": "chicken",
+      "b_id": "rice",
+      "a": "chicken",
+      "b": "rice",
+      "count": 1,
+      "pmi": 1.3923,
+      "lift": 2.625,
+      "cuisines": "japanese"
+    },
+    {
+      "a_id": "chickpea",
+      "b_id": "lemon",
+      "a": "chickpea",
+      "b": "lemon",
+      "count": 1,
+      "pmi": 1.3923,
+      "lift": 2.625,
+      "cuisines": "middle-eastern"
+    },
+    {
+      "a_id": "lemon",
+      "b_id": "tomato",
+      "a": "lemon",
+      "b": "tomato",
+      "count": 2,
+      "pmi": 0.8074,
+      "lift": 1.75,
+      "cuisines": "mediterranean|middle-eastern"
+    },
+    {
+      "a_id": "olive-oil",
+      "b_id": "spaghetti",
+      "a": "olive oil",
+      "b": "spaghetti",
+      "count": 1,
+      "pmi": 1.2224,
+      "lift": 2.3333,
+      "cuisines": "italian"
+    },
+    {
+      "a_id": "mozzarella",
+      "b_id": "olive-oil",
+      "a": "mozzarella",
+      "b": "olive oil",
+      "count": 1,
+      "pmi": 1.2224,
+      "lift": 2.3333,
+      "cuisines": "italian"
+    },
+    {
+      "a_id": "dill",
+      "b_id": "olive-oil",
+      "a": "dill",
+      "b": "olive oil",
+      "count": 1,
+      "pmi": 1.2224,
+      "lift": 2.3333,
+      "cuisines": "mediterranean"
+    },
+    {
+      "a_id": "feta",
+      "b_id": "olive-oil",
+      "a": "feta",
+      "b": "olive oil",
+      "count": 1,
+      "pmi": 1.2224,
+      "lift": 2.3333,
+      "cuisines": "mediterranean"
+    },
+    {
+      "a_id": "olive-oil",
+      "b_id": "zucchini",
+      "a": "olive oil",
+      "b": "zucchini",
+      "count": 1,
+      "pmi": 1.2224,
+      "lift": 2.3333,
+      "cuisines": "mediterranean"
+    },
+    {
+      "a_id": "eggplant",
+      "b_id": "olive-oil",
+      "a": "eggplant",
+      "b": "olive oil",
+      "count": 1,
+      "pmi": 1.2224,
+      "lift": 2.3333,
+      "cuisines": "mediterranean"
+    },
+    {
+      "a_id": "bell-pepper",
+      "b_id": "olive-oil",
+      "a": "bell pepper",
+      "b": "olive oil",
+      "count": 1,
+      "pmi": 1.2224,
+      "lift": 2.3333,
+      "cuisines": "mediterranean"
+    },
+    {
+      "a_id": "olive-oil",
+      "b_id": "thyme",
+      "a": "olive oil",
+      "b": "thyme",
+      "count": 1,
+      "pmi": 1.2224,
+      "lift": 2.3333,
+      "cuisines": "mediterranean"
+    },
+    {
+      "a_id": "olive-oil",
+      "b_id": "pine-nuts",
+      "a": "olive oil",
+      "b": "pine nuts",
+      "count": 1,
+      "pmi": 1.2224,
+      "lift": 2.3333,
+      "cuisines": "italian"
+    },
+    {
+      "a_id": "olive-oil",
+      "b_id": "pasta",
+      "a": "olive oil",
+      "b": "pasta",
+      "count": 1,
+      "pmi": 1.2224,
+      "lift": 2.3333,
+      "cuisines": "italian"
+    },
+    {
+      "a_id": "lentil",
+      "b_id": "olive-oil",
+      "a": "lentil",
+      "b": "olive oil",
+      "count": 1,
+      "pmi": 1.2224,
+      "lift": 2.3333,
+      "cuisines": "mediterranean"
+    },
+    {
+      "a_id": "carrot",
+      "b_id": "olive-oil",
+      "a": "carrot",
+      "b": "olive oil",
+      "count": 1,
+      "pmi": 1.2224,
+      "lift": 2.3333,
+      "cuisines": "mediterranean"
+    },
+    {
+      "a_id": "celery",
+      "b_id": "olive-oil",
+      "a": "celery",
+      "b": "olive oil",
+      "count": 1,
+      "pmi": 1.2224,
+      "lift": 2.3333,
+      "cuisines": "mediterranean"
+    },
+    {
+      "a_id": "olive-oil",
+      "b_id": "parsley",
+      "a": "olive oil",
+      "b": "parsley",
+      "count": 1,
+      "pmi": 1.2224,
+      "lift": 2.3333,
+      "cuisines": "middle-eastern"
+    },
+    {
+      "a_id": "bulgur",
+      "b_id": "olive-oil",
+      "a": "bulgur",
+      "b": "olive oil",
+      "count": 1,
+      "pmi": 1.2224,
+      "lift": 2.3333,
+      "cuisines": "middle-eastern"
+    },
+    {
+      "a_id": "olive-oil",
+      "b_id": "tahini",
+      "a": "olive oil",
+      "b": "tahini",
+      "count": 1,
+      "pmi": 1.2224,
+      "lift": 2.3333,
+      "cuisines": "middle-eastern"
+    },
+    {
+      "a_id": "onion",
+      "b_id": "tomato",
+      "a": "onion",
+      "b": "tomato",
+      "count": 3,
+      "pmi": 0.585,
+      "lift": 1.5,
+      "cuisines": "indian|mediterranean|mexican"
+    },
+    {
+      "a_id": "garlic",
+      "b_id": "rice",
+      "a": "garlic",
+      "b": "rice",
+      "count": 4,
+      "pmi": 0.4854,
+      "lift": 1.4,
+      "cuisines": "chinese|japanese|thai"
+    },
+    {
+      "a_id": "lime",
+      "b_id": "oregano",
+      "a": "lime",
+      "b": "oregano",
+      "count": 1,
+      "pmi": 1.0704,
+      "lift": 2.1,
+      "cuisines": "mexican"
+    },
+    {
+      "a_id": "chicken",
+      "b_id": "lime",
+      "a": "chicken",
+      "b": "lime",
+      "count": 1,
+      "pmi": 1.0704,
+      "lift": 2.1,
+      "cuisines": "indian"
+    },
+    {
+      "a_id": "lime",
+      "b_id": "yogurt",
+      "a": "lime",
+      "b": "yogurt",
+      "count": 1,
+      "pmi": 1.0704,
+      "lift": 2.1,
+      "cuisines": "indian"
+    },
+    {
+      "a_id": "coriander",
+      "b_id": "lime",
+      "a": "coriander",
+      "b": "lime",
+      "count": 1,
+      "pmi": 1.0704,
+      "lift": 2.1,
+      "cuisines": "indian"
+    },
+    {
+      "a_id": "cumin",
+      "b_id": "garlic",
+      "a": "cumin",
+      "b": "garlic",
+      "count": 3,
+      "pmi": 0.4854,
+      "lift": 1.4,
+      "cuisines": "mexican|indian"
+    },
+    {
+      "a_id": "garlic",
+      "b_id": "soy-sauce",
+      "a": "garlic",
+      "b": "soy sauce",
+      "count": 3,
+      "pmi": 0.4854,
+      "lift": 1.4,
+      "cuisines": "chinese|japanese"
+    },
+    {
+      "a_id": "parmesan",
+      "b_id": "tomato",
+      "a": "parmesan",
+      "b": "tomato",
+      "count": 1,
+      "pmi": 0.8074,
+      "lift": 1.75,
+      "cuisines": "italian"
+    },
+    {
+      "a_id": "chickpea",
+      "b_id": "tomato",
+      "a": "chickpea",
+      "b": "tomato",
+      "count": 1,
+      "pmi": 0.8074,
+      "lift": 1.75,
+      "cuisines": "indian"
+    },
+    {
+      "a_id": "coriander",
+      "b_id": "tomato",
+      "a": "coriander",
+      "b": "tomato",
+      "count": 1,
+      "pmi": 0.8074,
+      "lift": 1.75,
+      "cuisines": "indian"
+    },
+    {
+      "a_id": "oregano",
+      "b_id": "tomato",
+      "a": "oregano",
+      "b": "tomato",
+      "count": 1,
+      "pmi": 0.8074,
+      "lift": 1.75,
+      "cuisines": "mediterranean"
+    },
+    {
+      "a_id": "chili-powder",
+      "b_id": "tomato",
+      "a": "chili powder",
+      "b": "tomato",
+      "count": 1,
+      "pmi": 0.8074,
+      "lift": 1.75,
+      "cuisines": "mexican"
+    },
+    {
+      "a_id": "cilantro",
+      "b_id": "tomato",
+      "a": "cilantro",
+      "b": "tomato",
+      "count": 1,
+      "pmi": 0.8074,
+      "lift": 1.75,
+      "cuisines": "mexican"
+    },
+    {
+      "a_id": "chili-powder",
+      "b_id": "garlic",
+      "a": "chili powder",
+      "b": "garlic",
+      "count": 2,
+      "pmi": 0.4854,
+      "lift": 1.4,
+      "cuisines": "mexican"
+    },
+    {
+      "a_id": "garlic",
+      "b_id": "parmesan",
+      "a": "garlic",
+      "b": "parmesan",
+      "count": 2,
+      "pmi": 0.4854,
+      "lift": 1.4,
+      "cuisines": "italian"
+    },
+    {
+      "a_id": "chicken",
+      "b_id": "garlic",
+      "a": "chicken",
+      "b": "garlic",
+      "count": 2,
+      "pmi": 0.4854,
+      "lift": 1.4,
+      "cuisines": "indian|japanese"
+    },
+    {
+      "a_id": "garlic",
+      "b_id": "yogurt",
+      "a": "garlic",
+      "b": "yogurt",
+      "count": 2,
+      "pmi": 0.4854,
+      "lift": 1.4,
+      "cuisines": "indian|mediterranean"
+    },
+    {
+      "a_id": "coriander",
+      "b_id": "garlic",
+      "a": "coriander",
+      "b": "garlic",
+      "count": 2,
+      "pmi": 0.4854,
+      "lift": 1.4,
+      "cuisines": "indian"
+    },
+    {
+      "a_id": "chickpea",
+      "b_id": "garlic",
+      "a": "chickpea",
+      "b": "garlic",
+      "count": 2,
+      "pmi": 0.4854,
+      "lift": 1.4,
+      "cuisines": "indian|middle-eastern"
+    },
+    {
+      "a_id": "garlic",
+      "b_id": "sesame-oil",
+      "a": "garlic",
+      "b": "sesame oil",
+      "count": 2,
+      "pmi": 0.4854,
+      "lift": 1.4,
+      "cuisines": "chinese|asian"
+    },
+    {
+      "a_id": "garlic",
+      "b_id": "ginger",
+      "a": "garlic",
+      "b": "ginger",
+      "count": 6,
+      "pmi": 0.263,
+      "lift": 1.2,
+      "cuisines": "indian|chinese|japanese|thai|asian"
+    },
+    {
+      "a_id": "ginger",
+      "b_id": "yogurt",
+      "a": "ginger",
+      "b": "yogurt",
+      "count": 1,
+      "pmi": 0.585,
+      "lift": 1.5,
+      "cuisines": "indian"
+    },
+    {
+      "a_id": "chickpea",
+      "b_id": "onion",
+      "a": "chickpea",
+      "b": "onion",
+      "count": 1,
+      "pmi": 0.585,
+      "lift": 1.5,
+      "cuisines": "indian"
+    },
+    {
+      "a_id": "chickpea",
+      "b_id": "ginger",
+      "a": "chickpea",
+      "b": "ginger",
+      "count": 1,
+      "pmi": 0.585,
+      "lift": 1.5,
+      "cuisines": "indian"
+    },
+    {
+      "a_id": "coriander",
+      "b_id": "onion",
+      "a": "coriander",
+      "b": "onion",
+      "count": 1,
+      "pmi": 0.585,
+      "lift": 1.5,
+      "cuisines": "indian"
+    },
+    {
+      "a_id": "beef-chuck",
+      "b_id": "garlic",
+      "a": "beef chuck",
+      "b": "garlic",
+      "count": 1,
+      "pmi": 0.4854,
+      "lift": 1.4,
+      "cuisines": "mexican"
+    },
+    {
+      "a_id": "beef-broth",
+      "b_id": "garlic",
+      "a": "beef broth",
+      "b": "garlic",
+      "count": 1,
+      "pmi": 0.4854,
+      "lift": 1.4,
+      "cuisines": "mexican"
+    },
+    {
+      "a_id": "garlic",
+      "b_id": "spaghetti",
+      "a": "garlic",
+      "b": "spaghetti",
+      "count": 1,
+      "pmi": 0.4854,
+      "lift": 1.4,
+      "cuisines": "italian"
+    },
+    {
+      "a_id": "broccoli",
+      "b_id": "garlic",
+      "a": "broccoli",
+      "b": "garlic",
+      "count": 1,
+      "pmi": 0.4854,
+      "lift": 1.4,
+      "cuisines": "chinese"
+    },
+    {
+      "a_id": "egg",
+      "b_id": "garlic",
+      "a": "egg",
+      "b": "garlic",
+      "count": 1,
+      "pmi": 0.4854,
+      "lift": 1.4,
+      "cuisines": "chinese"
+    },
+    {
+      "a_id": "garlic",
+      "b_id": "peas",
+      "a": "garlic",
+      "b": "peas",
+      "count": 1,
+      "pmi": 0.4854,
+      "lift": 1.4,
+      "cuisines": "chinese"
+    },
+    {
+      "a_id": "dill",
+      "b_id": "garlic",
+      "a": "dill",
+      "b": "garlic",
+      "count": 1,
+      "pmi": 0.4854,
+      "lift": 1.4,
+      "cuisines": "mediterranean"
+    },
+    {
+      "a_id": "garlic",
+      "b_id": "zucchini",
+      "a": "garlic",
+      "b": "zucchini",
+      "count": 1,
+      "pmi": 0.4854,
+      "lift": 1.4,
+      "cuisines": "mediterranean"
+    },
+    {
+      "a_id": "eggplant",
+      "b_id": "garlic",
+      "a": "eggplant",
+      "b": "garlic",
+      "count": 1,
+      "pmi": 0.4854,
+      "lift": 1.4,
+      "cuisines": "mediterranean"
+    },
+    {
+      "a_id": "bell-pepper",
+      "b_id": "garlic",
+      "a": "bell pepper",
+      "b": "garlic",
+      "count": 1,
+      "pmi": 0.4854,
+      "lift": 1.4,
+      "cuisines": "mediterranean"
+    },
+    {
+      "a_id": "garlic",
+      "b_id": "thyme",
+      "a": "garlic",
+      "b": "thyme",
+      "count": 1,
+      "pmi": 0.4854,
+      "lift": 1.4,
+      "cuisines": "mediterranean"
+    },
+    {
+      "a_id": "garlic",
+      "b_id": "pine-nuts",
+      "a": "garlic",
+      "b": "pine nuts",
+      "count": 1,
+      "pmi": 0.4854,
+      "lift": 1.4,
+      "cuisines": "italian"
+    },
+    {
+      "a_id": "garlic",
+      "b_id": "pasta",
+      "a": "garlic",
+      "b": "pasta",
+      "count": 1,
+      "pmi": 0.4854,
+      "lift": 1.4,
+      "cuisines": "italian"
+    },
+    {
+      "a_id": "garlic",
+      "b_id": "lentil",
+      "a": "garlic",
+      "b": "lentil",
+      "count": 1,
+      "pmi": 0.4854,
+      "lift": 1.4,
+      "cuisines": "mediterranean"
+    },
+    {
+      "a_id": "carrot",
+      "b_id": "garlic",
+      "a": "carrot",
+      "b": "garlic",
+      "count": 1,
+      "pmi": 0.4854,
+      "lift": 1.4,
+      "cuisines": "mediterranean"
+    },
+    {
+      "a_id": "celery",
+      "b_id": "garlic",
+      "a": "celery",
+      "b": "garlic",
+      "count": 1,
+      "pmi": 0.4854,
+      "lift": 1.4,
+      "cuisines": "mediterranean"
+    },
+    {
+      "a_id": "garlic",
+      "b_id": "tahini",
+      "a": "garlic",
+      "b": "tahini",
+      "count": 1,
+      "pmi": 0.4854,
+      "lift": 1.4,
+      "cuisines": "middle-eastern"
+    },
+    {
+      "a_id": "garlic",
+      "b_id": "shrimp",
+      "a": "garlic",
+      "b": "shrimp",
+      "count": 1,
+      "pmi": 0.4854,
+      "lift": 1.4,
+      "cuisines": "thai"
+    },
+    {
+      "a_id": "coconut-milk",
+      "b_id": "garlic",
+      "a": "coconut milk",
+      "b": "garlic",
+      "count": 1,
+      "pmi": 0.4854,
+      "lift": 1.4,
+      "cuisines": "thai"
+    },
+    {
+      "a_id": "curry-powder",
+      "b_id": "garlic",
+      "a": "curry powder",
+      "b": "garlic",
+      "count": 1,
+      "pmi": 0.4854,
+      "lift": 1.4,
+      "cuisines": "thai"
+    },
+    {
+      "a_id": "flank-steak",
+      "b_id": "garlic",
+      "a": "flank steak",
+      "b": "garlic",
+      "count": 1,
+      "pmi": 0.4854,
+      "lift": 1.4,
+      "cuisines": "asian"
+    },
+    {
+      "a_id": "garlic",
+      "b_id": "low-sodium-soy-sauce",
+      "a": "garlic",
+      "b": "low-sodium soy sauce",
+      "count": 1,
+      "pmi": 0.4854,
+      "lift": 1.4,
+      "cuisines": "asian"
+    },
+    {
+      "a_id": "brown-sugar",
+      "b_id": "garlic",
+      "a": "brown sugar",
+      "b": "garlic",
+      "count": 1,
+      "pmi": 0.4854,
+      "lift": 1.4,
+      "cuisines": "asian"
+    },
+    {
+      "a_id": "garlic",
+      "b_id": "lime-juice",
+      "a": "garlic",
+      "b": "lime juice",
+      "count": 1,
+      "pmi": 0.4854,
+      "lift": 1.4,
+      "cuisines": "asian"
+    },
+    {
+      "a_id": "crushed-red-pepper-flakes",
+      "b_id": "garlic",
+      "a": "crushed red pepper flakes",
+      "b": "garlic",
+      "count": 1,
+      "pmi": 0.4854,
+      "lift": 1.4,
+      "cuisines": "asian"
+    },
+    {
+      "a_id": "black-pepper",
+      "b_id": "garlic",
+      "a": "black pepper",
+      "b": "garlic",
+      "count": 1,
+      "pmi": 0.4854,
+      "lift": 1.4,
+      "cuisines": "asian"
+    },
+    {
+      "a_id": "ginger",
+      "b_id": "lime",
+      "a": "ginger",
+      "b": "lime",
+      "count": 2,
+      "pmi": 0.263,
+      "lift": 1.2,
+      "cuisines": "indian|thai"
+    },
+    {
+      "a_id": "garlic",
+      "b_id": "lime",
+      "a": "garlic",
+      "b": "lime",
+      "count": 4,
+      "pmi": 0.1635,
+      "lift": 1.12,
+      "cuisines": "mexican|indian|thai"
+    },
+    {
+      "a_id": "cumin",
+      "b_id": "tomato",
+      "a": "cumin",
+      "b": "tomato",
+      "count": 1,
+      "pmi": 0.2224,
+      "lift": 1.1667,
+      "cuisines": "indian"
+    },
+    {
+      "a_id": "olive-oil",
+      "b_id": "yogurt",
+      "a": "olive oil",
+      "b": "yogurt",
+      "count": 1,
+      "pmi": 0.2224,
+      "lift": 1.1667,
+      "cuisines": "mediterranean"
+    },
+    {
+      "a_id": "olive-oil",
+      "b_id": "oregano",
+      "a": "olive oil",
+      "b": "oregano",
+      "count": 1,
+      "pmi": 0.2224,
+      "lift": 1.1667,
+      "cuisines": "mediterranean"
+    },
+    {
+      "a_id": "chickpea",
+      "b_id": "olive-oil",
+      "a": "chickpea",
+      "b": "olive oil",
+      "count": 1,
+      "pmi": 0.2224,
+      "lift": 1.1667,
+      "cuisines": "middle-eastern"
+    },
+    {
+      "a_id": "lime",
+      "b_id": "rice",
+      "a": "lime",
+      "b": "rice",
+      "count": 1,
+      "pmi": 0.0704,
+      "lift": 1.05,
+      "cuisines": "thai"
+    },
+    {
+      "a_id": "cucumber",
+      "b_id": "onion",
+      "a": "cucumber",
+      "b": "onion",
+      "count": 1,
+      "pmi": 0,
+      "lift": 1,
+      "cuisines": "mediterranean"
+    },
+    {
+      "a_id": "basil",
+      "b_id": "garlic",
+      "a": "basil",
+      "b": "garlic",
+      "count": 2,
+      "pmi": -0.0995,
+      "lift": 0.9333,
+      "cuisines": "italian"
+    },
+    {
+      "a_id": "garlic",
+      "b_id": "olive-oil",
+      "a": "garlic",
+      "b": "olive oil",
+      "count": 6,
+      "pmi": -0.0995,
+      "lift": 0.9333,
+      "cuisines": "italian|mediterranean|middle-eastern"
+    },
+    {
+      "a_id": "ginger",
+      "b_id": "onion",
+      "a": "ginger",
+      "b": "onion",
+      "count": 2,
+      "pmi": -0.2224,
+      "lift": 0.8571,
+      "cuisines": "indian|vietnamese"
+    },
+    {
+      "a_id": "lemon",
+      "b_id": "onion",
+      "a": "lemon",
+      "b": "onion",
+      "count": 1,
+      "pmi": -0.415,
+      "lift": 0.75,
+      "cuisines": "mediterranean"
+    },
+    {
+      "a_id": "garlic",
+      "b_id": "oregano",
+      "a": "garlic",
+      "b": "oregano",
+      "count": 1,
+      "pmi": -0.5146,
+      "lift": 0.7,
+      "cuisines": "mexican"
+    },
+    {
+      "a_id": "garlic",
+      "b_id": "scallion",
+      "a": "garlic",
+      "b": "scallion",
+      "count": 1,
+      "pmi": -0.5146,
+      "lift": 0.7,
+      "cuisines": "chinese"
+    },
+    {
+      "a_id": "lime",
+      "b_id": "tomato",
+      "a": "lime",
+      "b": "tomato",
+      "count": 1,
+      "pmi": -0.5146,
+      "lift": 0.7,
+      "cuisines": "mexican"
+    },
+    {
+      "a_id": "cilantro",
+      "b_id": "garlic",
+      "a": "cilantro",
+      "b": "garlic",
+      "count": 1,
+      "pmi": -0.5146,
+      "lift": 0.7,
+      "cuisines": "mexican"
+    },
+    {
+      "a_id": "garlic",
+      "b_id": "onion",
+      "a": "garlic",
+      "b": "onion",
+      "count": 4,
+      "pmi": -0.3219,
+      "lift": 0.8,
+      "cuisines": "mexican|indian|mediterranean"
+    },
+    {
+      "a_id": "garlic",
+      "b_id": "lemon",
+      "a": "garlic",
+      "b": "lemon",
+      "count": 2,
+      "pmi": -0.5146,
+      "lift": 0.7,
+      "cuisines": "mediterranean|middle-eastern"
+    },
+    {
+      "a_id": "olive-oil",
+      "b_id": "onion",
+      "a": "olive oil",
+      "b": "onion",
+      "count": 2,
+      "pmi": -0.585,
+      "lift": 0.6667,
+      "cuisines": "mediterranean"
+    },
+    {
+      "a_id": "ginger",
+      "b_id": "tomato",
+      "a": "ginger",
+      "b": "tomato",
+      "count": 1,
+      "pmi": -1,
+      "lift": 0.5,
+      "cuisines": "indian"
+    },
+    {
+      "a_id": "garlic",
+      "b_id": "tomato",
+      "a": "garlic",
+      "b": "tomato",
+      "count": 3,
+      "pmi": -0.5146,
+      "lift": 0.7,
+      "cuisines": "italian|indian|mexican"
+    },
+    {
+      "a_id": "cucumber",
+      "b_id": "garlic",
+      "a": "cucumber",
+      "b": "garlic",
+      "count": 1,
+      "pmi": -1.0995,
+      "lift": 0.4667,
+      "cuisines": "mediterranean"
+    }
+  ],
+  "edges": []
+}

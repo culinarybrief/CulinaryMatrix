@@ -17,7 +17,7 @@
 {"Pairing":{"id":"clove","name":"clove","type":"spice","nutrition_tags":["plant-forward"]}}
 {"Pairing":{"id":"coconut-milk","name":"coconut milk","type":"other","nutrition_tags":[]}}
 {"Pairing":{"id":"coriander","name":"coriander","type":"spice","nutrition_tags":["plant-forward"]}}
-{"Pairing":{"id":"crushed-red-pepper-flake","name":"crushed red pepper flake","type":"other","nutrition_tags":[]}}
+{"Pairing":{"id":"crushed-red-pepper-flakes","name":"crushed red pepper flakes","type":"other","nutrition_tags":[]}}
 {"Pairing":{"id":"cucumber","name":"cucumber","type":"other","nutrition_tags":[]}}
 {"Pairing":{"id":"cumin","name":"cumin","type":"spice","nutrition_tags":["plant-forward"]}}
 {"Pairing":{"id":"curry-powder","name":"curry powder","type":"other","nutrition_tags":[]}}
@@ -41,10 +41,10 @@
 {"Pairing":{"id":"parmesan","name":"parmesan","type":"cheese","nutrition_tags":[]}}
 {"Pairing":{"id":"parsley","name":"parsley","type":"herb","nutrition_tags":["plant-forward"]}}
 {"Pairing":{"id":"pasta","name":"pasta","type":"other","nutrition_tags":[]}}
-{"Pairing":{"id":"pea","name":"pea","type":"other","nutrition_tags":[]}}
-{"Pairing":{"id":"pine-nut","name":"pine nut","type":"other","nutrition_tags":[]}}
+{"Pairing":{"id":"peas","name":"peas","type":"other","nutrition_tags":[]}}
+{"Pairing":{"id":"pine-nuts","name":"pine nuts","type":"other","nutrition_tags":[]}}
 {"Pairing":{"id":"rice","name":"rice","type":"other","nutrition_tags":[]}}
-{"Pairing":{"id":"rice-noodle","name":"rice noodle","type":"other","nutrition_tags":[]}}
+{"Pairing":{"id":"rice-noodles","name":"rice noodles","type":"other","nutrition_tags":[]}}
 {"Pairing":{"id":"salt","name":"salt","type":"other","nutrition_tags":[]}}
 {"Pairing":{"id":"scallion","name":"scallion","type":"aromatic","nutrition_tags":[]}}
 {"Pairing":{"id":"seaweed","name":"seaweed","type":"other","nutrition_tags":[]}}
